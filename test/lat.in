@@ -1,0 +1,17 @@
+bcc parent lattice only Fe    # comment line (without a commment sign)
+bulk                  # bulk   - CE
+2                     # binary - CE
+1                     # number of observables
+0.0001                  # epsilon for finite precision checking
+      0.0 0.5 0.5
+      0.5 0.0 0.5
+      0.5 0.5 0.0
+   1
+Direct
+0.0 0.0 0.0 
+#6.1 2.4 1.4 1.2 1.0  # Cut-offs (pair/triplet/quadruplet/quintuplet/sextuplet)
+#300 0 300 0 300 0 0 0 0 0 0 0 0
+#increasing the number of fig.s - with increasing number of spec.
+7 5 5 5 4000 0  0 0 0 0 0 0 0 0 0
+0
+2 4

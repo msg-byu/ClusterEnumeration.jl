@@ -1,0 +1,1742 @@
+#--------------------------------------------------------------------------------
+# Cluster number: 0
+# This is the empty cluster = constant term for the cluster expansion.
+#
+# - The empty cluster is not explicitly listed in this file.
+#   (This comment here only reminds the user of the fact that
+#   the empty cluster does exist in UNCLE.)
+# - The empty cluster does not contain any vertices.
+# - The empty cluster is not read in from this file.
+# - The empty cluster is always used in the fitting procedure.
+# - The empty cluster counts as a separate cluster for the fitting procedure.
+#   (E.g., a simple fit with 1 cluster is a fit with the empty cluster only.)
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     1 /      1
+     0
+# Number of vertices:
+   1
+# Avg. Distance:
+  0.000000
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     2 /      1
+     1
+# Number of vertices:
+   2
+# Avg. Distance:
+  0.707107
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000       -0.500000       -0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     3 /      2
+     2
+# Number of vertices:
+   2
+# Avg. Distance:
+  1.000000
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     4 /      3
+     3
+# Number of vertices:
+   2
+# Avg. Distance:
+  1.224745
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     5 /      4
+     4
+# Number of vertices:
+   2
+# Avg. Distance:
+  1.414214
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        1.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     6 /      5
+     5
+# Number of vertices:
+   2
+# Avg. Distance:
+  1.581139
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        1.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     7 /      6
+     6
+# Number of vertices:
+   2
+# Avg. Distance:
+  1.732051
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      1.000000        1.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     8 /      7
+     7
+# Number of vertices:
+   2
+# Avg. Distance:
+  1.870829
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        1.000000        1.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):     9 /      8
+     8
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.000000
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    10 /      9
+     9
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.121320
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    11 /     10
+    10
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.121320
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        1.500000        1.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    12 /     11
+    11
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.236068
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        1.000000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    13 /     12
+    12
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.345208
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      1.000000        1.500000        1.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    14 /     13
+    13
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.449490
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      1.000000        1.000000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    15 /     14
+    14
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.549510
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        1.500000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    16 /     15
+    15
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.549510
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        2.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    17 /     16
+    16
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.738613
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        1.000000        2.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    18 /     17
+    17
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.828427
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        2.000000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    19 /     18
+    18
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.915476
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      1.500000        1.500000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    20 /     19
+    19
+# Number of vertices:
+   2
+# Avg. Distance:
+  2.915476
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        1.500000        2.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    21 /     20
+    20
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.000000
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      1.000000        2.000000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    22 /     21
+    21
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.000000
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        3.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    23 /     22
+    22
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.082207
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      1.000000        1.500000        2.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    24 /     23
+    23
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.082207
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        3.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    25 /     24
+    24
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.162278
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        1.000000        3.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    26 /     25
+    25
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.240370
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        2.000000        2.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    27 /     26
+    26
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.316625
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      1.000000        1.000000        3.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    28 /     27
+    28
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.464102
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      2.000000        2.000000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    29 /     28
+    30
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.535534
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        2.500000        2.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    30 /     29
+    31
+# Number of vertices:
+   2
+# Avg. Distance:
+  3.535534
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        3.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    31 /      1
+     1
+# Number of vertices:
+   3
+# Avg. Distance:
+  0.816497
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    32 /      2
+     2
+# Number of vertices:
+   3
+# Avg. Distance:
+  0.924951
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    33 /      3
+     3
+# Number of vertices:
+   3
+# Avg. Distance:
+  0.942809
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    34 /      4
+     4
+# Number of vertices:
+   3
+# Avg. Distance:
+  0.988614
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    35 /      5
+     5
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.128470
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    36 /      6
+     6
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.220597
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    37 /      7
+     7
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.223886
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    38 /      8
+     8
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.296567
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    39 /      9
+     9
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.308078
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+      0.000000        1.000000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    40 /     10
+    10
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.328383
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+      0.500000        1.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    41 /     11
+    11
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.333333
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000       -1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    42 /     12
+    12
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.352151
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000       -1.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    43 /     13
+    13
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.391263
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -0.500000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    44 /     14
+    14
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.408627
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -1.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    45 /     15
+    15
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.414214
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        1.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    46 /     16
+    16
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.443692
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.000000        1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    47 /     17
+    17
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.486759
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    48 /     18
+    18
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.516414
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    49 /     19
+    19
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.536579
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -1.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    50 /     20
+    20
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.547413
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        1.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    51 /     21
+    21
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.548855
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    52 /     22
+    22
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.571348
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.000000       -1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    53 /     23
+    23
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.579097
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.500000        2.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    54 /     24
+    24
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.595898
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        1.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    55 /     25
+    25
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.609476
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+      0.000000        1.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    56 /     26
+    26
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.624316
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    57 /     27
+    27
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.626114
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.500000       -0.500000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    58 /     28
+    28
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.632993
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000       -1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    59 /     29
+    29
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.632993
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        1.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    60 /     30
+    30
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.647131
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    61 /     31
+    31
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.666502
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    62 /     32
+    32
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.684139
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000       -1.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    63 /     33
+    33
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.697243
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -1.500000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    64 /     34
+    34
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.698318
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -1.000000        1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    65 /     35
+    49
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.841503
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -1.000000       -1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    66 /     36
+    55
+# Number of vertices:
+   3
+# Avg. Distance:
+  1.859055
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+      0.000000        0.500000       -1.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    67 /     37
+    91
+# Number of vertices:
+   3
+# Avg. Distance:
+  2.060246
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -2.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    68 /     38
+   102
+# Number of vertices:
+   3
+# Avg. Distance:
+  2.103783
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000        0.000000        0.000000         1       1
+      0.500000        0.500000        1.000000         1       1
+      1.500000        1.500000        2.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    69 /     39
+   168
+# Number of vertices:
+   3
+# Avg. Distance:
+  2.309401
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -1.000000       -1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      1.000000        1.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    70 /      1
+     1
+# Number of vertices:
+   4
+# Avg. Distance:
+  0.866025
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+     -0.500000        0.500000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    71 /      2
+     2
+# Number of vertices:
+   4
+# Avg. Distance:
+  0.925615
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    72 /      3
+     3
+# Number of vertices:
+   4
+# Avg. Distance:
+  0.965926
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    73 /      4
+     4
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.000000
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    74 /      5
+     5
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.022424
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000       -0.500000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    75 /      6
+     6
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.059017
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000       -0.500000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    76 /      7
+     7
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.060660
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000       -0.500000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    77 /      8
+     8
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.077288
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        1.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    78 /      9
+     9
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.082422
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000       -0.500000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    79 /     10
+    10
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.090200
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    80 /     11
+    11
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.144123
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.000000        1.000000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    81 /     12
+    12
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.145931
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.500000        1.000000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    82 /     13
+    13
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.183013
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000       -0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    83 /     14
+    14
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.184434
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        0.000000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    84 /     15
+    15
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.188553
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      1.000000        0.000000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    85 /     16
+    16
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.196118
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        1.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    86 /     17
+    17
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.207107
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000       -1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    87 /     18
+    18
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.220137
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+     -0.500000        1.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    88 /     19
+    19
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.224745
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        0.000000         1       1
+     -1.000000        0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    89 /     20
+    20
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.230202
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.000000        1.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    90 /     21
+    21
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.233518
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000       -1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    91 /     22
+    22
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.233929
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -0.500000        0.500000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    92 /     23
+    23
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.238259
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+     -0.500000        1.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    93 /     24
+    24
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.250000
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        0.000000         1       1
+      0.000000       -0.500000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    94 /     25
+    25
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.254065
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      1.000000        0.000000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    95 /     26
+    26
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.254607
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.500000        0.500000         1       1
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    96 /     27
+    27
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.262169
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+     -0.500000        0.500000        1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    97 /     28
+    28
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.267472
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        1.000000        1.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    98 /     29
+    29
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.279168
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        1.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):    99 /     30
+    30
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.288968
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   100 /     31
+    31
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.289219
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        1.000000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   101 /     32
+    35
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.319479
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.500000       -0.500000        1.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   102 /     33
+    38
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.324208
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      1.000000        0.500000       -0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   103 /     34
+    41
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.338352
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   104 /     35
+    49
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.361457
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.000000        1.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   105 /     36
+    68
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.414214
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      1.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   106 /     37
+    69
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.414214
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.000000        0.000000         1       1
+      0.000000        0.000000       -1.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   107 /     38
+   155
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.565365
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      1.000000        1.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   108 /     39
+   182
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.589793
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.500000        0.500000         1       1
+      0.000000       -1.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   109 /     40
+   234
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.628308
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.000000        1.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   110 /     41
+   254
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.644123
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.000000        2.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   111 /     42
+   510
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.784976
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -1.000000       -1.000000         1       1
+     -1.000000       -0.500000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   112 /     43
+   590
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.811291
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -0.500000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      1.000000        1.000000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   113 /     44
+   634
+# Number of vertices:
+   4
+# Avg. Distance:
+  1.831951
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      1.000000        1.500000        1.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   114 /      1
+     1
+# Number of vertices:
+   5
+# Avg. Distance:
+  0.975843
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   115 /      2
+     2
+# Number of vertices:
+   5
+# Avg. Distance:
+  0.993860
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+     -0.500000        0.500000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   116 /      3
+     3
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.060290
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        0.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   117 /      4
+     4
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.080627
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000       -0.500000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   118 /      5
+     5
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.094613
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.500000       -0.500000         1       1
+     -0.500000        0.000000        0.500000         1       1
+     -0.500000        0.500000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   119 /      6
+     6
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.099443
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000       -0.500000         1       1
+      0.000000        0.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   120 /      7
+     8
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.104566
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        0.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   121 /      8
+    10
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.112566
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000       -0.500000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   122 /      9
+    16
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.133324
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        0.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   123 /     10
+    33
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.214199
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        1.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   124 /     11
+    45
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.247306
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        0.000000         1       1
+      1.000000        0.500000       -0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   125 /     12
+   149
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.362319
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.000000        0.000000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.000000        1.000000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   126 /     13
+   797
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.545481
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000       -1.000000         1       1
+      0.000000       -0.500000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   127 /     14
+  1065
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.580114
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.500000        0.500000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.000000        1.000000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   128 /     15
+  4445
+# Number of vertices:
+   5
+# Avg. Distance:
+  1.769017
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -1.000000       -1.000000         1       1
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        1.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   129 /      1
+     1
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.000000
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   130 /      2
+     2
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.052199
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+     -0.500000        0.500000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+      0.500000        0.500000        0.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   131 /      3
+     3
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.056057
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000        0.000000        0.500000         1       1
+     -0.500000        0.500000        0.000000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.000000        1.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   132 /      4
+    10
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.140998
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        0.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000       -0.500000        0.000000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   133 /      5
+    18
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.167045
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        0.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000       -0.500000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   134 /      6
+    21
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.170997
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000        0.000000        0.000000         1       1
+     -0.500000       -0.500000        0.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   135 /      7
+    44
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.208418
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        0.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.000000        0.500000         1       1
+      0.500000        0.500000        1.000000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   136 /      8
+    98
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.267560
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -0.500000       -0.500000        0.000000         1       1
+     -0.500000        0.000000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        0.500000        0.000000         1       1
+      0.500000        1.000000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   137 /      9
+  7688
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.612585
+# Vertices: (x,y,z) | d-vector label | s-vector
+      0.000000       -1.000000        0.000000         1       1
+      0.000000       -0.500000        0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.000000        1.000000        0.000000         1       1
+      0.000000        1.500000        0.500000         1       1
+#
+#--------------------------------------------------------------------------------
+# Cluster number (total/of this kind):   138 /     10
+ 58820
+# Number of vertices:
+   6
+# Avg. Distance:
+  1.821800
+# Vertices: (x,y,z) | d-vector label | s-vector
+     -1.000000       -0.500000       -0.500000         1       1
+     -0.500000        0.000000       -0.500000         1       1
+      0.000000        0.000000        0.000000         1       1
+      0.000000        0.500000        0.500000         1       1
+      0.500000        1.000000        0.500000         1       1
+      1.000000        1.000000        1.000000         1       1
+#
+
