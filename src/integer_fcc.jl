@@ -380,7 +380,7 @@ write_clusters(cl6[t6],sv6[t6],nv6[t6],dists6[t6],id6[t6],"clusters.radGen.6li_1
 m = readdlm("pimat.radGen.6li_137")
 rank(m)
 
-cl, sv, nv, dists, id = read_clusters_from_file("clusters.radGen.6li_136");
+cl, sv, nv, dists, id = read_clusters_from_file("clusters.radGen.6li_137");
 
 
 begin
@@ -397,7 +397,6 @@ w=.3
 savefig(p6,"pimatrix.png")
 end
 
-
 Different lattices: bcc, sc, hcp, fct
 sum rows, columns of pimatrix, look at distributions (not at sum, but at devations)
 list rows in different order (by cell shape instead of concentration)
@@ -412,4 +411,3 @@ Cell "diameter" (orthogonality defect)
 All the DFT data related questions
 k-nary cases
 s-vector degeneracies
-
