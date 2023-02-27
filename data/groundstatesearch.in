@@ -1,0 +1,28 @@
+#
+# This file gives the necessary input to perform a ground-state search
+# using the energetics from J.1.out
+#
+# Which cell-sizes do you want to search?
+1 6
+#----------------------------------------
+# Concentrations
+#
+# - use specific concentration range (T/F)
+# The concentration ranges for each atom are specified by three
+# integers, which define 2 fractions. The third number is the
+# denominator for the fraction, the first two numbers are the
+# numerator. The first two numbers need not be listed in ascending
+# order.
+F
+1 3 12
+7 12 12
+1 3 12
+#----------------------------------------
+# Paralle mode
+#
+# If you're running the GSS in parallel (MPI) mode, the output will
+# be to different gss.out.<MPI_rank> files. In ONE line, supply:
+# - Do you want to combine those to a single gss.out after the GSS finishes?
+# - Do you want to delete the original files?
+T F
+EOF

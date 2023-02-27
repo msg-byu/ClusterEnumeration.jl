@@ -1,0 +1,4692 @@
+dir_POSCAR0
+  free  energy   TOTEN  =        -3.70369290 eV
+dir_POSCAR1
+  free  energy   TOTEN  =        -6.08386021 eV
+dir_POSCAR10
+  free  energy   TOTEN  =       -17.18946710 eV
+dir_POSCAR100
+  free  energy   TOTEN  =       -29.73931351 eV
+dir_POSCAR1000
+  free  energy   TOTEN  =       -48.29591458 eV
+dir_POSCAR1001
+  free  energy   TOTEN  =       -47.95885252 eV
+dir_POSCAR1002
+  free  energy   TOTEN  =       -48.10307591 eV
+dir_POSCAR1003
+  free  energy   TOTEN  =       -48.29543844 eV
+dir_POSCAR1004
+  free  energy   TOTEN  =       -48.14559566 eV
+dir_POSCAR1005
+  free  energy   TOTEN  =       -47.98887064 eV
+dir_POSCAR1006
+  free  energy   TOTEN  =       -48.22596581 eV
+dir_POSCAR1007
+  free  energy   TOTEN  =       -47.96248903 eV
+dir_POSCAR1008
+  free  energy   TOTEN  =       -48.33960957 eV
+dir_POSCAR1009
+  free  energy   TOTEN  =       -48.33146403 eV
+dir_POSCAR101
+  free  energy   TOTEN  =       -29.80156771 eV
+dir_POSCAR1010
+  free  energy   TOTEN  =       -48.25864989 eV
+dir_POSCAR1011
+  free  energy   TOTEN  =       -50.17432241 eV
+dir_POSCAR1012
+  free  energy   TOTEN  =       -50.24141786 eV
+dir_POSCAR1013
+  free  energy   TOTEN  =       -50.41573375 eV
+dir_POSCAR1014
+  free  energy   TOTEN  =       -50.54156179 eV
+dir_POSCAR1015
+  free  energy   TOTEN  =       -50.54127338 eV
+dir_POSCAR1016
+  free  energy   TOTEN  =       -50.45618704 eV
+dir_POSCAR1017
+  free  energy   TOTEN  =       -50.13938214 eV
+dir_POSCAR1018
+  free  energy   TOTEN  =       -50.47253075 eV
+dir_POSCAR1019
+  free  energy   TOTEN  =       -50.50457288 eV
+dir_POSCAR102
+  free  energy   TOTEN  =       -29.49571992 eV
+dir_POSCAR1020
+  free  energy   TOTEN  =       -50.57115859 eV
+dir_POSCAR1021
+  free  energy   TOTEN  =       -50.11259361 eV
+dir_POSCAR1022
+  free  energy   TOTEN  =       -50.24602074 eV
+dir_POSCAR1023
+  free  energy   TOTEN  =       -50.42316746 eV
+dir_POSCAR1024
+  free  energy   TOTEN  =       -50.45656928 eV
+dir_POSCAR1025
+  free  energy   TOTEN  =       -50.30829267 eV
+dir_POSCAR1026
+  free  energy   TOTEN  =       -50.42675365 eV
+dir_POSCAR1027
+  free  energy   TOTEN  =       -50.18277848 eV
+dir_POSCAR1028
+  free  energy   TOTEN  =       -50.44051043 eV
+dir_POSCAR1029
+  free  energy   TOTEN  =       -50.48618899 eV
+dir_POSCAR103
+  free  energy   TOTEN  =       -29.81001908 eV
+dir_POSCAR1030
+  free  energy   TOTEN  =       -50.55072659 eV
+dir_POSCAR1031
+  free  energy   TOTEN  =       -50.10214251 eV
+dir_POSCAR1032
+  free  energy   TOTEN  =       -50.36931865 eV
+dir_POSCAR1033
+  free  energy   TOTEN  =       -50.51690743 eV
+dir_POSCAR1034
+  free  energy   TOTEN  =       -50.32582073 eV
+dir_POSCAR1035
+  free  energy   TOTEN  =       -50.06845985 eV
+dir_POSCAR1036
+  free  energy   TOTEN  =       -50.43074003 eV
+dir_POSCAR1037
+  free  energy   TOTEN  =       -50.15820955 eV
+dir_POSCAR1038
+  free  energy   TOTEN  =       -50.60159101 eV
+dir_POSCAR1039
+  free  energy   TOTEN  =       -50.57450777 eV
+dir_POSCAR104
+  free  energy   TOTEN  =       -29.87762920 eV
+dir_POSCAR1040
+  free  energy   TOTEN  =       -50.47490737 eV
+dir_POSCAR1041
+  free  energy   TOTEN  =       -52.46196776 eV
+dir_POSCAR1042
+  free  energy   TOTEN  =       -52.50986269 eV
+dir_POSCAR1043
+  free  energy   TOTEN  =       -52.63120019 eV
+dir_POSCAR1044
+  free  energy   TOTEN  =       -52.65440612 eV
+dir_POSCAR1045
+  free  energy   TOTEN  =       -52.57272584 eV
+dir_POSCAR1046
+  free  energy   TOTEN  =       -52.62951275 eV
+dir_POSCAR1047
+  free  energy   TOTEN  =       -52.44565985 eV
+dir_POSCAR1048
+  free  energy   TOTEN  =       -52.64075142 eV
+dir_POSCAR1049
+  free  energy   TOTEN  =       -52.67696913 eV
+dir_POSCAR105
+  free  energy   TOTEN  =       -29.77690461 eV
+dir_POSCAR1050
+  free  energy   TOTEN  =       -52.70944858 eV
+dir_POSCAR1051
+  free  energy   TOTEN  =       -36.07544179 eV
+dir_POSCAR1052
+  free  energy   TOTEN  =       -38.79120325 eV
+dir_POSCAR1053
+  free  energy   TOTEN  =       -41.43029197 eV
+dir_POSCAR1054
+  free  energy   TOTEN  =       -38.35447083 eV
+dir_POSCAR1055
+  free  energy   TOTEN  =       -41.07015069 eV
+dir_POSCAR1056
+  free  energy   TOTEN  =       -43.67726166 eV
+dir_POSCAR1057
+  free  energy   TOTEN  =       -43.68214035 eV
+dir_POSCAR1058
+  free  energy   TOTEN  =       -43.31582881 eV
+dir_POSCAR1059
+  free  energy   TOTEN  =       -45.93731259 eV
+dir_POSCAR106
+  free  energy   TOTEN  =       -29.79262151 eV
+dir_POSCAR1060
+  free  energy   TOTEN  =       -45.90806736 eV
+dir_POSCAR1061
+  free  energy   TOTEN  =       -48.15072340 eV
+dir_POSCAR1062
+  free  energy   TOTEN  =       -43.50490481 eV
+dir_POSCAR1063
+  free  energy   TOTEN  =       -46.05333890 eV
+dir_POSCAR1064
+  free  energy   TOTEN  =       -45.65484175 eV
+dir_POSCAR1065
+  free  energy   TOTEN  =       -48.27758595 eV
+dir_POSCAR1066
+  free  energy   TOTEN  =       -50.45443106 eV
+dir_POSCAR1067
+  free  energy   TOTEN  =       -50.58634139 eV
+dir_POSCAR1068
+  free  energy   TOTEN  =       -52.67311411 eV
+dir_POSCAR1069
+  free  energy   TOTEN  =       -35.87822476 eV
+dir_POSCAR107
+  free  energy   TOTEN  =       -31.44315206 eV
+dir_POSCAR1070
+  free  energy   TOTEN  =       -38.35128981 eV
+dir_POSCAR1071
+  free  energy   TOTEN  =       -38.38767518 eV
+dir_POSCAR1072
+  free  energy   TOTEN  =       -40.78614986 eV
+dir_POSCAR1073
+  free  energy   TOTEN  =       -38.57058357 eV
+dir_POSCAR1074
+  free  energy   TOTEN  =       -40.91132120 eV
+dir_POSCAR1075
+  free  energy   TOTEN  =       -40.97872032 eV
+dir_POSCAR1076
+  free  energy   TOTEN  =       -43.35243377 eV
+dir_POSCAR1077
+  free  energy   TOTEN  =       -43.16247785 eV
+dir_POSCAR1078
+  free  energy   TOTEN  =       -43.35788716 eV
+dir_POSCAR1079
+  free  energy   TOTEN  =       -43.27861302 eV
+dir_POSCAR108
+  free  energy   TOTEN  =       -31.76647899 eV
+dir_POSCAR1080
+  free  energy   TOTEN  =       -45.64574512 eV
+dir_POSCAR1081
+  free  energy   TOTEN  =       -43.44015008 eV
+dir_POSCAR1082
+  free  energy   TOTEN  =       -45.86119959 eV
+dir_POSCAR1083
+  free  energy   TOTEN  =       -43.39192931 eV
+dir_POSCAR1084
+  free  energy   TOTEN  =       -45.83670216 eV
+dir_POSCAR1085
+  free  energy   TOTEN  =       -45.73906955 eV
+dir_POSCAR1086
+  free  energy   TOTEN  =       -48.17900976 eV
+dir_POSCAR1087
+  free  energy   TOTEN  =       -43.57486347 eV
+dir_POSCAR1088
+  free  energy   TOTEN  =       -45.84454923 eV
+dir_POSCAR1089
+  free  energy   TOTEN  =       -45.80876779 eV
+dir_POSCAR109
+  free  energy   TOTEN  =       -32.11713660 eV
+dir_POSCAR1090
+  free  energy   TOTEN  =       -48.09988959 eV
+dir_POSCAR1091
+  free  energy   TOTEN  =       -45.77586256 eV
+dir_POSCAR1092
+  free  energy   TOTEN  =       -48.08436165 eV
+dir_POSCAR1093
+  free  energy   TOTEN  =       -50.43291874 eV
+dir_POSCAR1094
+  free  energy   TOTEN  =       -50.33015606 eV
+dir_POSCAR1095
+  free  energy   TOTEN  =       -50.41033185 eV
+dir_POSCAR1096
+  free  energy   TOTEN  =       -52.64889289 eV
+dir_POSCAR1097
+  free  energy   TOTEN  =       -36.09827067 eV
+dir_POSCAR1098
+  free  energy   TOTEN  =       -38.37894513 eV
+dir_POSCAR1099
+  free  energy   TOTEN  =       -38.77935350 eV
+dir_POSCAR11
+  free  energy   TOTEN  =       -17.45659774 eV
+dir_POSCAR110
+  free  energy   TOTEN  =       -32.22786152 eV
+dir_POSCAR1100
+  free  energy   TOTEN  =       -41.06495621 eV
+dir_POSCAR1101
+  free  energy   TOTEN  =       -43.49455143 eV
+dir_POSCAR1102
+  free  energy   TOTEN  =       -43.32973627 eV
+dir_POSCAR1103
+  free  energy   TOTEN  =       -45.67985937 eV
+dir_POSCAR1104
+  free  energy   TOTEN  =       -41.35861396 eV
+dir_POSCAR1105
+  free  energy   TOTEN  =       -43.64563919 eV
+dir_POSCAR1106
+  free  energy   TOTEN  =       -43.56140392 eV
+dir_POSCAR1107
+  free  energy   TOTEN  =       -46.00464959 eV
+dir_POSCAR1108
+  free  energy   TOTEN  =       -45.81806035 eV
+dir_POSCAR1109
+  free  energy   TOTEN  =       -45.94640445 eV
+dir_POSCAR111
+  free  energy   TOTEN  =       -31.93056803 eV
+dir_POSCAR1110
+  free  energy   TOTEN  =       -48.21370786 eV
+dir_POSCAR1111
+  free  energy   TOTEN  =       -50.51877898 eV
+dir_POSCAR1112
+  free  energy   TOTEN  =       -48.13738200 eV
+dir_POSCAR1113
+  free  energy   TOTEN  =       -50.42998117 eV
+dir_POSCAR1114
+  free  energy   TOTEN  =       -52.66973975 eV
+dir_POSCAR1115
+  free  energy   TOTEN  =       -36.14737807 eV
+dir_POSCAR1116
+  free  energy   TOTEN  =       -38.78531491 eV
+dir_POSCAR1117
+  free  energy   TOTEN  =       -38.58766114 eV
+dir_POSCAR1118
+  free  energy   TOTEN  =       -41.05841599 eV
+dir_POSCAR1119
+  free  energy   TOTEN  =       -41.13822696 eV
+dir_POSCAR112
+  free  energy   TOTEN  =       -31.52356506 eV
+dir_POSCAR1120
+  free  energy   TOTEN  =       -43.57536574 eV
+dir_POSCAR1121
+  free  energy   TOTEN  =       -43.42199438 eV
+dir_POSCAR1122
+  free  energy   TOTEN  =       -43.39849989 eV
+dir_POSCAR1123
+  free  energy   TOTEN  =       -45.75709864 eV
+dir_POSCAR1124
+  free  energy   TOTEN  =       -43.42135355 eV
+dir_POSCAR1125
+  free  energy   TOTEN  =       -45.87412029 eV
+dir_POSCAR1126
+  free  energy   TOTEN  =       -43.40360680 eV
+dir_POSCAR1127
+  free  energy   TOTEN  =       -45.74750315 eV
+dir_POSCAR1128
+  free  energy   TOTEN  =       -45.81539248 eV
+dir_POSCAR1129
+  free  energy   TOTEN  =       -48.17974402 eV
+dir_POSCAR113
+  free  energy   TOTEN  =       -32.15519026 eV
+dir_POSCAR1130
+  free  energy   TOTEN  =       -45.90270960 eV
+dir_POSCAR1131
+  free  energy   TOTEN  =       -48.14303118 eV
+dir_POSCAR1132
+  free  energy   TOTEN  =       -50.41511640 eV
+dir_POSCAR1133
+  free  energy   TOTEN  =       -50.47122810 eV
+dir_POSCAR1134
+  free  energy   TOTEN  =       -52.69155637 eV
+dir_POSCAR1135
+  free  energy   TOTEN  =       -39.13437914 eV
+dir_POSCAR1136
+  free  energy   TOTEN  =       -39.47053612 eV
+dir_POSCAR1137
+  free  energy   TOTEN  =       -39.53835936 eV
+dir_POSCAR1138
+  free  energy   TOTEN  =       -39.55385830 eV
+dir_POSCAR1139
+  free  energy   TOTEN  =       -39.55460821 eV
+dir_POSCAR114
+  free  energy   TOTEN  =       -32.14343693 eV
+dir_POSCAR1140
+  free  energy   TOTEN  =       -39.54865252 eV
+dir_POSCAR1141
+  free  energy   TOTEN  =       -39.53091368 eV
+dir_POSCAR1142
+  free  energy   TOTEN  =       -39.49854472 eV
+dir_POSCAR1143
+  free  energy   TOTEN  =       -39.19655083 eV
+dir_POSCAR1144
+  free  energy   TOTEN  =       -39.77252014 eV
+dir_POSCAR1145
+  free  energy   TOTEN  =       -39.76147523 eV
+dir_POSCAR1146
+  free  energy   TOTEN  =       -39.84307844 eV
+dir_POSCAR1147
+  free  energy   TOTEN  =       -39.79186549 eV
+dir_POSCAR1148
+  free  energy   TOTEN  =       -39.79552473 eV
+dir_POSCAR1149
+  free  energy   TOTEN  =       -39.81596156 eV
+dir_POSCAR115
+  free  energy   TOTEN  =       -32.22023648 eV
+dir_POSCAR1150
+  free  energy   TOTEN  =       -39.53589234 eV
+dir_POSCAR1151
+  free  energy   TOTEN  =       -39.79236954 eV
+dir_POSCAR1152
+  free  energy   TOTEN  =       -40.60866502 eV
+dir_POSCAR1153
+  free  energy   TOTEN  =       -41.23259081 eV
+dir_POSCAR1154
+  free  energy   TOTEN  =       -41.85618721 eV
+dir_POSCAR1155
+  free  energy   TOTEN  =       -41.93532486 eV
+dir_POSCAR1156
+  free  energy   TOTEN  =       -41.92131810 eV
+dir_POSCAR1157
+  free  energy   TOTEN  =       -41.90894864 eV
+dir_POSCAR1158
+  free  energy   TOTEN  =       -41.93856926 eV
+dir_POSCAR1159
+  free  energy   TOTEN  =       -41.51341528 eV
+dir_POSCAR116
+  free  energy   TOTEN  =       -32.25833492 eV
+dir_POSCAR1160
+  free  energy   TOTEN  =       -40.76884822 eV
+dir_POSCAR1161
+  free  energy   TOTEN  =       -41.88941052 eV
+dir_POSCAR1162
+  free  energy   TOTEN  =       -42.20751594 eV
+dir_POSCAR1163
+  free  energy   TOTEN  =       -42.29852171 eV
+dir_POSCAR1164
+  free  energy   TOTEN  =       -42.25869784 eV
+dir_POSCAR1165
+  free  energy   TOTEN  =       -42.49365651 eV
+dir_POSCAR1166
+  free  energy   TOTEN  =       -42.48299482 eV
+dir_POSCAR1167
+  free  energy   TOTEN  =       -41.91076621 eV
+dir_POSCAR1168
+  free  energy   TOTEN  =       -42.10637935 eV
+dir_POSCAR1169
+  free  energy   TOTEN  =       -41.59121079 eV
+dir_POSCAR117
+  free  energy   TOTEN  =       -31.98941475 eV
+dir_POSCAR1170
+  free  energy   TOTEN  =       -41.82040247 eV
+dir_POSCAR1171
+  free  energy   TOTEN  =       -41.92238503 eV
+dir_POSCAR1172
+  free  energy   TOTEN  =       -42.28264733 eV
+dir_POSCAR1173
+  free  energy   TOTEN  =       -42.36221685 eV
+dir_POSCAR1174
+  free  energy   TOTEN  =       -42.35994532 eV
+dir_POSCAR1175
+  free  energy   TOTEN  =       -42.28572059 eV
+dir_POSCAR1176
+  free  energy   TOTEN  =       -41.88941067 eV
+dir_POSCAR1177
+  free  energy   TOTEN  =       -41.61469089 eV
+dir_POSCAR1178
+  free  energy   TOTEN  =       -42.12673580 eV
+dir_POSCAR1179
+  free  energy   TOTEN  =       -42.25407432 eV
+dir_POSCAR118
+  free  energy   TOTEN  =       -32.07026628 eV
+dir_POSCAR1180
+  free  energy   TOTEN  =       -42.55321001 eV
+dir_POSCAR1181
+  free  energy   TOTEN  =       -42.53806344 eV
+dir_POSCAR1182
+  free  energy   TOTEN  =       -42.30775493 eV
+dir_POSCAR1183
+  free  energy   TOTEN  =       -42.22445807 eV
+dir_POSCAR1184
+  free  energy   TOTEN  =       -42.33749230 eV
+dir_POSCAR1185
+  free  energy   TOTEN  =       -42.76666524 eV
+dir_POSCAR1186
+  free  energy   TOTEN  =       -42.54910779 eV
+dir_POSCAR1187
+  free  energy   TOTEN  =       -43.19520208 eV
+dir_POSCAR1188
+  free  energy   TOTEN  =       -44.03176769 eV
+dir_POSCAR1189
+  free  energy   TOTEN  =       -44.59674391 eV
+dir_POSCAR119
+  free  energy   TOTEN  =       -32.32632821 eV
+dir_POSCAR1190
+  free  energy   TOTEN  =       -44.64341747 eV
+dir_POSCAR1191
+  free  energy   TOTEN  =       -44.62605755 eV
+dir_POSCAR1192
+  free  energy   TOTEN  =       -44.62534489 eV
+dir_POSCAR1193
+  free  energy   TOTEN  =       -43.56647926 eV
+dir_POSCAR1194
+  free  energy   TOTEN  =       -42.71186864 eV
+dir_POSCAR1195
+  free  energy   TOTEN  =       -44.12730657 eV
+dir_POSCAR1196
+  free  energy   TOTEN  =       -44.62466321 eV
+dir_POSCAR1197
+  free  energy   TOTEN  =       -44.93231315 eV
+dir_POSCAR1198
+  free  energy   TOTEN  =       -44.95547767 eV
+dir_POSCAR1199
+  free  energy   TOTEN  =       -44.93722824 eV
+dir_POSCAR12
+  free  energy   TOTEN  =       -17.47818153 eV
+dir_POSCAR120
+  free  energy   TOTEN  =       -32.28911768 eV
+dir_POSCAR1200
+  free  energy   TOTEN  =       -44.88397286 eV
+dir_POSCAR1201
+  free  energy   TOTEN  =       -44.58123086 eV
+dir_POSCAR1202
+  free  energy   TOTEN  =       -44.78090439 eV
+dir_POSCAR1203
+  free  energy   TOTEN  =       -41.62023201 eV
+dir_POSCAR1204
+  free  energy   TOTEN  =       -42.12833575 eV
+dir_POSCAR1205
+  free  energy   TOTEN  =       -41.99518537 eV
+dir_POSCAR1206
+  free  energy   TOTEN  =       -41.91116276 eV
+dir_POSCAR1207
+  free  energy   TOTEN  =       -42.28779160 eV
+dir_POSCAR1208
+  free  energy   TOTEN  =       -42.28019459 eV
+dir_POSCAR1209
+  free  energy   TOTEN  =       -41.94525482 eV
+dir_POSCAR121
+  free  energy   TOTEN  =       -32.27530406 eV
+dir_POSCAR1210
+  free  energy   TOTEN  =       -42.17430497 eV
+dir_POSCAR1211
+  free  energy   TOTEN  =       -41.71867951 eV
+dir_POSCAR1212
+  free  energy   TOTEN  =       -42.38807879 eV
+dir_POSCAR1213
+  free  energy   TOTEN  =       -42.43593837 eV
+dir_POSCAR1214
+  free  energy   TOTEN  =       -42.50975122 eV
+dir_POSCAR1215
+  free  energy   TOTEN  =       -42.65167041 eV
+dir_POSCAR1216
+  free  energy   TOTEN  =       -42.45523738 eV
+dir_POSCAR1217
+  free  energy   TOTEN  =       -42.20040234 eV
+dir_POSCAR1218
+  free  energy   TOTEN  =       -42.29583197 eV
+dir_POSCAR1219
+  free  energy   TOTEN  =       -42.66512034 eV
+dir_POSCAR122
+  free  energy   TOTEN  =       -31.94688701 eV
+dir_POSCAR1220
+  free  energy   TOTEN  =       -43.43047526 eV
+dir_POSCAR1221
+  free  energy   TOTEN  =       -43.85718338 eV
+dir_POSCAR1222
+  free  energy   TOTEN  =       -44.19537414 eV
+dir_POSCAR1223
+  free  energy   TOTEN  =       -44.48276295 eV
+dir_POSCAR1224
+  free  energy   TOTEN  =       -44.90755763 eV
+dir_POSCAR1225
+  free  energy   TOTEN  =       -44.92372629 eV
+dir_POSCAR1226
+  free  energy   TOTEN  =       -44.60294096 eV
+dir_POSCAR1227
+  free  energy   TOTEN  =       -44.04186763 eV
+dir_POSCAR1228
+  free  energy   TOTEN  =       -43.54479784 eV
+dir_POSCAR1229
+  free  energy   TOTEN  =       -44.30103369 eV
+dir_POSCAR123
+  free  energy   TOTEN  =       -32.28155188 eV
+dir_POSCAR1230
+  free  energy   TOTEN  =       -44.68053420 eV
+dir_POSCAR1231
+  free  energy   TOTEN  =       -44.89566203 eV
+dir_POSCAR1232
+  free  energy   TOTEN  =       -45.10376700 eV
+dir_POSCAR1233
+  free  energy   TOTEN  =       -44.93072974 eV
+dir_POSCAR1234
+  free  energy   TOTEN  =       -44.68240868 eV
+dir_POSCAR1235
+  free  energy   TOTEN  =       -44.91811544 eV
+dir_POSCAR1236
+  free  energy   TOTEN  =       -45.22615975 eV
+dir_POSCAR1237
+  free  energy   TOTEN  =       -44.87762893 eV
+dir_POSCAR1238
+  free  energy   TOTEN  =       -45.42474475 eV
+dir_POSCAR1239
+  free  energy   TOTEN  =       -46.19326132 eV
+dir_POSCAR124
+  free  energy   TOTEN  =       -32.42472423 eV
+dir_POSCAR1240
+  free  energy   TOTEN  =       -46.98424483 eV
+dir_POSCAR1241
+  free  energy   TOTEN  =       -47.46170098 eV
+dir_POSCAR1242
+  free  energy   TOTEN  =       -47.48748451 eV
+dir_POSCAR1243
+  free  energy   TOTEN  =       -47.18014005 eV
+dir_POSCAR1244
+  free  energy   TOTEN  =       -45.73558503 eV
+dir_POSCAR1245
+  free  energy   TOTEN  =       -45.01602777 eV
+dir_POSCAR1246
+  free  energy   TOTEN  =       -46.35115986 eV
+dir_POSCAR1247
+  free  energy   TOTEN  =       -46.93181426 eV
+dir_POSCAR1248
+  free  energy   TOTEN  =       -47.39968910 eV
+dir_POSCAR1249
+  free  energy   TOTEN  =       -47.60575375 eV
+dir_POSCAR125
+  free  energy   TOTEN  =       -32.35609949 eV
+dir_POSCAR1250
+  free  energy   TOTEN  =       -47.33329158 eV
+dir_POSCAR1251
+  free  energy   TOTEN  =       -47.19133842 eV
+dir_POSCAR1252
+  free  energy   TOTEN  =       -47.38342489 eV
+dir_POSCAR1253
+  free  energy   TOTEN  =       -47.56973329 eV
+dir_POSCAR1254
+  free  energy   TOTEN  =       -41.61827605 eV
+dir_POSCAR1255
+  free  energy   TOTEN  =       -42.20382486 eV
+dir_POSCAR1256
+  free  energy   TOTEN  =       -42.29928742 eV
+dir_POSCAR1257
+  free  energy   TOTEN  =       -41.98359533 eV
+dir_POSCAR1258
+  free  energy   TOTEN  =       -41.92764617 eV
+dir_POSCAR1259
+  free  energy   TOTEN  =       -41.91727229 eV
+dir_POSCAR126
+  free  energy   TOTEN  =       -32.24571673 eV
+dir_POSCAR1260
+  free  energy   TOTEN  =       -41.92805569 eV
+dir_POSCAR1261
+  free  energy   TOTEN  =       -42.25752138 eV
+dir_POSCAR1262
+  free  energy   TOTEN  =       -41.70810089 eV
+dir_POSCAR1263
+  free  energy   TOTEN  =       -42.68389902 eV
+dir_POSCAR1264
+  free  energy   TOTEN  =       -42.47774735 eV
+dir_POSCAR1265
+  free  energy   TOTEN  =       -42.52717334 eV
+dir_POSCAR1266
+  free  energy   TOTEN  =       -42.25959018 eV
+dir_POSCAR1267
+  free  energy   TOTEN  =       -42.52853473 eV
+dir_POSCAR1268
+  free  energy   TOTEN  =       -42.74528159 eV
+dir_POSCAR1269
+  free  energy   TOTEN  =       -41.90781334 eV
+dir_POSCAR127
+  free  energy   TOTEN  =       -34.16652162 eV
+dir_POSCAR1270
+  free  energy   TOTEN  =       -42.12575614 eV
+dir_POSCAR1271
+  free  energy   TOTEN  =       -43.47377035 eV
+dir_POSCAR1272
+  free  energy   TOTEN  =       -44.20170512 eV
+dir_POSCAR1273
+  free  energy   TOTEN  =       -44.56431811 eV
+dir_POSCAR1274
+  free  energy   TOTEN  =       -44.24095886 eV
+dir_POSCAR1275
+  free  energy   TOTEN  =       -44.46268964 eV
+dir_POSCAR1276
+  free  energy   TOTEN  =       -44.50322651 eV
+dir_POSCAR1277
+  free  energy   TOTEN  =       -44.25026893 eV
+dir_POSCAR1278
+  free  energy   TOTEN  =       -44.45073171 eV
+dir_POSCAR1279
+  free  energy   TOTEN  =       -43.63156933 eV
+dir_POSCAR128
+  free  energy   TOTEN  =       -34.27934146 eV
+dir_POSCAR1280
+  free  energy   TOTEN  =       -44.77019255 eV
+dir_POSCAR1281
+  free  energy   TOTEN  =       -44.89649376 eV
+dir_POSCAR1282
+  free  energy   TOTEN  =       -44.92530571 eV
+dir_POSCAR1283
+  free  energy   TOTEN  =       -44.84864806 eV
+dir_POSCAR1284
+  free  energy   TOTEN  =       -45.08889695 eV
+dir_POSCAR1285
+  free  energy   TOTEN  =       -45.06556710 eV
+dir_POSCAR1286
+  free  energy   TOTEN  =       -44.52782321 eV
+dir_POSCAR1287
+  free  energy   TOTEN  =       -44.65916071 eV
+dir_POSCAR1288
+  free  energy   TOTEN  =       -44.33342481 eV
+dir_POSCAR1289
+  free  energy   TOTEN  =       -44.46543539 eV
+dir_POSCAR129
+  free  energy   TOTEN  =       -34.43672386 eV
+dir_POSCAR1290
+  free  energy   TOTEN  =       -44.62371487 eV
+dir_POSCAR1291
+  free  energy   TOTEN  =       -44.85582865 eV
+dir_POSCAR1292
+  free  energy   TOTEN  =       -44.99752792 eV
+dir_POSCAR1293
+  free  energy   TOTEN  =       -44.94345994 eV
+dir_POSCAR1294
+  free  energy   TOTEN  =       -44.93044815 eV
+dir_POSCAR1295
+  free  energy   TOTEN  =       -44.59423984 eV
+dir_POSCAR1296
+  free  energy   TOTEN  =       -44.27763702 eV
+dir_POSCAR1297
+  free  energy   TOTEN  =       -44.75769015 eV
+dir_POSCAR1298
+  free  energy   TOTEN  =       -44.97576172 eV
+dir_POSCAR1299
+  free  energy   TOTEN  =       -45.08640335 eV
+dir_POSCAR13
+  free  energy   TOTEN  =       -17.22224529 eV
+dir_POSCAR130
+  free  energy   TOTEN  =       -34.46811165 eV
+dir_POSCAR1300
+  free  energy   TOTEN  =       -45.10333275 eV
+dir_POSCAR1301
+  free  energy   TOTEN  =       -45.02153758 eV
+dir_POSCAR1302
+  free  energy   TOTEN  =       -44.83419549 eV
+dir_POSCAR1303
+  free  energy   TOTEN  =       -44.99913120 eV
+dir_POSCAR1304
+  free  energy   TOTEN  =       -45.30226171 eV
+dir_POSCAR1305
+  free  energy   TOTEN  =       -45.64803638 eV
+dir_POSCAR1306
+  free  energy   TOTEN  =       -46.10382078 eV
+dir_POSCAR1307
+  free  energy   TOTEN  =       -46.69664644 eV
+dir_POSCAR1308
+  free  energy   TOTEN  =       -47.01314665 eV
+dir_POSCAR1309
+  free  energy   TOTEN  =       -47.40074337 eV
+dir_POSCAR131
+  free  energy   TOTEN  =       -34.33496717 eV
+dir_POSCAR1310
+  free  energy   TOTEN  =       -47.40881194 eV
+dir_POSCAR1311
+  free  energy   TOTEN  =       -47.16251661 eV
+dir_POSCAR1312
+  free  energy   TOTEN  =       -46.42107468 eV
+dir_POSCAR1313
+  free  energy   TOTEN  =       -45.74601416 eV
+dir_POSCAR1314
+  free  energy   TOTEN  =       -46.77457577 eV
+dir_POSCAR1315
+  free  energy   TOTEN  =       -47.26000083 eV
+dir_POSCAR1316
+  free  energy   TOTEN  =       -47.43260348 eV
+dir_POSCAR1317
+  free  energy   TOTEN  =       -47.56166390 eV
+dir_POSCAR1318
+  free  energy   TOTEN  =       -47.49716229 eV
+dir_POSCAR1319
+  free  energy   TOTEN  =       -47.29306397 eV
+dir_POSCAR132
+  free  energy   TOTEN  =       -34.20117334 eV
+dir_POSCAR1320
+  free  energy   TOTEN  =       -47.41541446 eV
+dir_POSCAR1321
+  free  energy   TOTEN  =       -47.55363497 eV
+dir_POSCAR1322
+  free  energy   TOTEN  =       -45.61604580 eV
+dir_POSCAR1323
+  free  energy   TOTEN  =       -46.20495026 eV
+dir_POSCAR1324
+  free  energy   TOTEN  =       -46.68174597 eV
+dir_POSCAR1325
+  free  energy   TOTEN  =       -46.61087170 eV
+dir_POSCAR1326
+  free  energy   TOTEN  =       -47.20552697 eV
+dir_POSCAR1327
+  free  energy   TOTEN  =       -47.34422124 eV
+dir_POSCAR1328
+  free  energy   TOTEN  =       -46.78249066 eV
+dir_POSCAR1329
+  free  energy   TOTEN  =       -46.47952656 eV
+dir_POSCAR133
+  free  energy   TOTEN  =       -34.43920156 eV
+dir_POSCAR1330
+  free  energy   TOTEN  =       -45.81349727 eV
+dir_POSCAR1331
+  free  energy   TOTEN  =       -46.74042151 eV
+dir_POSCAR1332
+  free  energy   TOTEN  =       -47.07655360 eV
+dir_POSCAR1333
+  free  energy   TOTEN  =       -47.25022365 eV
+dir_POSCAR1334
+  free  energy   TOTEN  =       -47.35734274 eV
+dir_POSCAR1335
+  free  energy   TOTEN  =       -47.41839166 eV
+dir_POSCAR1336
+  free  energy   TOTEN  =       -47.27071199 eV
+dir_POSCAR1337
+  free  energy   TOTEN  =       -47.31413023 eV
+dir_POSCAR1338
+  free  energy   TOTEN  =       -47.45723507 eV
+dir_POSCAR1339
+  free  energy   TOTEN  =       -47.43791667 eV
+dir_POSCAR134
+  free  energy   TOTEN  =       -34.44612890 eV
+dir_POSCAR1340
+  free  energy   TOTEN  =       -47.91153249 eV
+dir_POSCAR1341
+  free  energy   TOTEN  =       -48.66036471 eV
+dir_POSCAR1342
+  free  energy   TOTEN  =       -49.30425057 eV
+dir_POSCAR1343
+  free  energy   TOTEN  =       -49.97754074 eV
+dir_POSCAR1344
+  free  energy   TOTEN  =       -50.10379826 eV
+dir_POSCAR1345
+  free  energy   TOTEN  =       -49.59570058 eV
+dir_POSCAR1346
+  free  energy   TOTEN  =       -48.18999607 eV
+dir_POSCAR1347
+  free  energy   TOTEN  =       -47.58583533 eV
+dir_POSCAR1348
+  free  energy   TOTEN  =       -48.71775557 eV
+dir_POSCAR1349
+  free  energy   TOTEN  =       -49.31945131 eV
+dir_POSCAR135
+  free  energy   TOTEN  =       -34.48493516 eV
+dir_POSCAR1350
+  free  energy   TOTEN  =       -49.77490543 eV
+dir_POSCAR1351
+  free  energy   TOTEN  =       -49.96544463 eV
+dir_POSCAR1352
+  free  energy   TOTEN  =       -49.79049115 eV
+dir_POSCAR1353
+  free  energy   TOTEN  =       -49.62782401 eV
+dir_POSCAR1354
+  free  energy   TOTEN  =       -49.97899634 eV
+dir_POSCAR1355
+  free  energy   TOTEN  =       -50.00387423 eV
+dir_POSCAR1356
+  free  energy   TOTEN  =       -43.47305651 eV
+dir_POSCAR1357
+  free  energy   TOTEN  =       -44.24203059 eV
+dir_POSCAR1358
+  free  energy   TOTEN  =       -44.79823082 eV
+dir_POSCAR1359
+  free  energy   TOTEN  =       -44.55538865 eV
+dir_POSCAR136
+  free  energy   TOTEN  =       -34.51668313 eV
+dir_POSCAR1360
+  free  energy   TOTEN  =       -43.95658377 eV
+dir_POSCAR1361
+  free  energy   TOTEN  =       -43.86240611 eV
+dir_POSCAR1362
+  free  energy   TOTEN  =       -44.38933797 eV
+dir_POSCAR1363
+  free  energy   TOTEN  =       -44.53596769 eV
+dir_POSCAR1364
+  free  energy   TOTEN  =       -43.62605840 eV
+dir_POSCAR1365
+  free  energy   TOTEN  =       -44.95527553 eV
+dir_POSCAR1366
+  free  energy   TOTEN  =       -45.00547689 eV
+dir_POSCAR1367
+  free  energy   TOTEN  =       -44.73940173 eV
+dir_POSCAR1368
+  free  energy   TOTEN  =       -44.50997834 eV
+dir_POSCAR1369
+  free  energy   TOTEN  =       -44.98103628 eV
+dir_POSCAR137
+  free  energy   TOTEN  =       -28.11344579 eV
+dir_POSCAR1370
+  free  energy   TOTEN  =       -44.99242204 eV
+dir_POSCAR1371
+  free  energy   TOTEN  =       -43.86439737 eV
+dir_POSCAR1372
+  free  energy   TOTEN  =       -43.97905692 eV
+dir_POSCAR1373
+  free  energy   TOTEN  =       -44.36690224 eV
+dir_POSCAR1374
+  free  energy   TOTEN  =       -44.68957382 eV
+dir_POSCAR1375
+  free  energy   TOTEN  =       -44.56158931 eV
+dir_POSCAR1376
+  free  energy   TOTEN  =       -44.80424817 eV
+dir_POSCAR1377
+  free  energy   TOTEN  =       -44.69870686 eV
+dir_POSCAR1378
+  free  energy   TOTEN  =       -44.67719147 eV
+dir_POSCAR1379
+  free  energy   TOTEN  =       -44.78284217 eV
+dir_POSCAR138
+  free  energy   TOTEN  =       -28.41363443 eV
+dir_POSCAR1380
+  free  energy   TOTEN  =       -44.78232998 eV
+dir_POSCAR1381
+  free  energy   TOTEN  =       -44.38543373 eV
+dir_POSCAR1382
+  free  energy   TOTEN  =       -44.90094610 eV
+dir_POSCAR1383
+  free  energy   TOTEN  =       -45.01046490 eV
+dir_POSCAR1384
+  free  energy   TOTEN  =       -44.95624877 eV
+dir_POSCAR1385
+  free  energy   TOTEN  =       -45.00103614 eV
+dir_POSCAR1386
+  free  energy   TOTEN  =       -44.74843382 eV
+dir_POSCAR1387
+  free  energy   TOTEN  =       -44.43493181 eV
+dir_POSCAR1388
+  free  energy   TOTEN  =       -44.67277441 eV
+dir_POSCAR1389
+  free  energy   TOTEN  =       -44.86138512 eV
+dir_POSCAR139
+  free  energy   TOTEN  =       -28.49428910 eV
+dir_POSCAR1390
+  free  energy   TOTEN  =       -45.68157250 eV
+dir_POSCAR1391
+  free  energy   TOTEN  =       -46.38509320 eV
+dir_POSCAR1392
+  free  energy   TOTEN  =       -46.87903340 eV
+dir_POSCAR1393
+  free  energy   TOTEN  =       -47.02774403 eV
+dir_POSCAR1394
+  free  energy   TOTEN  =       -46.83765864 eV
+dir_POSCAR1395
+  free  energy   TOTEN  =       -46.80848094 eV
+dir_POSCAR1396
+  free  energy   TOTEN  =       -46.96515915 eV
+dir_POSCAR1397
+  free  energy   TOTEN  =       -46.71775758 eV
+dir_POSCAR1398
+  free  energy   TOTEN  =       -45.83046714 eV
+dir_POSCAR1399
+  free  energy   TOTEN  =       -47.12037679 eV
+dir_POSCAR14
+  free  energy   TOTEN  =       -17.63483494 eV
+dir_POSCAR140
+  free  energy   TOTEN  =       -28.45328675 eV
+dir_POSCAR1400
+  free  energy   TOTEN  =       -47.32704738 eV
+dir_POSCAR1401
+  free  energy   TOTEN  =       -47.33911211 eV
+dir_POSCAR1402
+  free  energy   TOTEN  =       -47.24848263 eV
+dir_POSCAR1403
+  free  energy   TOTEN  =       -47.33249051 eV
+dir_POSCAR1404
+  free  energy   TOTEN  =       -47.26202890 eV
+dir_POSCAR1405
+  free  energy   TOTEN  =       -46.76985806 eV
+dir_POSCAR1406
+  free  energy   TOTEN  =       -46.90130313 eV
+dir_POSCAR1407
+  free  energy   TOTEN  =       -46.44259890 eV
+dir_POSCAR1408
+  free  energy   TOTEN  =       -46.74003739 eV
+dir_POSCAR1409
+  free  energy   TOTEN  =       -47.03968196 eV
+dir_POSCAR141
+  free  energy   TOTEN  =       -28.16376738 eV
+dir_POSCAR1410
+  free  energy   TOTEN  =       -47.20438536 eV
+dir_POSCAR1411
+  free  energy   TOTEN  =       -47.15976955 eV
+dir_POSCAR1412
+  free  energy   TOTEN  =       -47.08654487 eV
+dir_POSCAR1413
+  free  energy   TOTEN  =       -47.26188324 eV
+dir_POSCAR1414
+  free  energy   TOTEN  =       -46.97242579 eV
+dir_POSCAR1415
+  free  energy   TOTEN  =       -46.46259168 eV
+dir_POSCAR1416
+  free  energy   TOTEN  =       -47.09876457 eV
+dir_POSCAR1417
+  free  energy   TOTEN  =       -47.40946076 eV
+dir_POSCAR1418
+  free  energy   TOTEN  =       -47.28223878 eV
+dir_POSCAR1419
+  free  energy   TOTEN  =       -47.40028552 eV
+dir_POSCAR142
+  free  energy   TOTEN  =       -28.66306401 eV
+dir_POSCAR1420
+  free  energy   TOTEN  =       -47.38374369 eV
+dir_POSCAR1421
+  free  energy   TOTEN  =       -47.05395551 eV
+dir_POSCAR1422
+  free  energy   TOTEN  =       -47.14256143 eV
+dir_POSCAR1423
+  free  energy   TOTEN  =       -47.29751824 eV
+dir_POSCAR1424
+  free  energy   TOTEN  =       -46.43503179 eV
+dir_POSCAR1425
+  free  energy   TOTEN  =       -46.67310513 eV
+dir_POSCAR1426
+  free  energy   TOTEN  =       -46.69401270 eV
+dir_POSCAR1427
+  free  energy   TOTEN  =       -47.15073733 eV
+dir_POSCAR1428
+  free  energy   TOTEN  =       -47.45773790 eV
+dir_POSCAR1429
+  free  energy   TOTEN  =       -47.51538054 eV
+dir_POSCAR143
+  free  energy   TOTEN  =       -29.85400200 eV
+dir_POSCAR1430
+  free  energy   TOTEN  =       -47.30868988 eV
+dir_POSCAR1431
+  free  energy   TOTEN  =       -46.76387978 eV
+dir_POSCAR1432
+  free  energy   TOTEN  =       -46.47748272 eV
+dir_POSCAR1433
+  free  energy   TOTEN  =       -46.89392955 eV
+dir_POSCAR1434
+  free  energy   TOTEN  =       -47.17468686 eV
+dir_POSCAR1435
+  free  energy   TOTEN  =       -47.33970487 eV
+dir_POSCAR1436
+  free  energy   TOTEN  =       -47.54912295 eV
+dir_POSCAR1437
+  free  energy   TOTEN  =       -47.14743766 eV
+dir_POSCAR1438
+  free  energy   TOTEN  =       -46.84494396 eV
+dir_POSCAR1439
+  free  energy   TOTEN  =       -47.48137463 eV
+dir_POSCAR144
+  free  energy   TOTEN  =       -30.41238643 eV
+dir_POSCAR1440
+  free  energy   TOTEN  =       -47.57373099 eV
+dir_POSCAR1441
+  free  energy   TOTEN  =       -48.13966234 eV
+dir_POSCAR1442
+  free  energy   TOTEN  =       -48.51612052 eV
+dir_POSCAR1443
+  free  energy   TOTEN  =       -48.95124754 eV
+dir_POSCAR1444
+  free  energy   TOTEN  =       -49.52194180 eV
+dir_POSCAR1445
+  free  energy   TOTEN  =       -49.82563187 eV
+dir_POSCAR1446
+  free  energy   TOTEN  =       -49.85145996 eV
+dir_POSCAR1447
+  free  energy   TOTEN  =       -49.70376438 eV
+dir_POSCAR1448
+  free  energy   TOTEN  =       -48.75186600 eV
+dir_POSCAR1449
+  free  energy   TOTEN  =       -48.21110205 eV
+dir_POSCAR145
+  free  energy   TOTEN  =       -30.98296759 eV
+dir_POSCAR1450
+  free  energy   TOTEN  =       -49.12097739 eV
+dir_POSCAR1451
+  free  energy   TOTEN  =       -49.53149728 eV
+dir_POSCAR1452
+  free  energy   TOTEN  =       -49.77211070 eV
+dir_POSCAR1453
+  free  energy   TOTEN  =       -49.93994601 eV
+dir_POSCAR1454
+  free  energy   TOTEN  =       -49.67247309 eV
+dir_POSCAR1455
+  free  energy   TOTEN  =       -49.44713813 eV
+dir_POSCAR1456
+  free  energy   TOTEN  =       -49.77841785 eV
+dir_POSCAR1457
+  free  energy   TOTEN  =       -49.86322523 eV
+dir_POSCAR1458
+  free  energy   TOTEN  =       -45.67744469 eV
+dir_POSCAR1459
+  free  energy   TOTEN  =       -46.55901765 eV
+dir_POSCAR146
+  free  energy   TOTEN  =       -30.99591938 eV
+dir_POSCAR1460
+  free  energy   TOTEN  =       -47.26487646 eV
+dir_POSCAR1461
+  free  energy   TOTEN  =       -46.75877065 eV
+dir_POSCAR1462
+  free  energy   TOTEN  =       -46.29643974 eV
+dir_POSCAR1463
+  free  energy   TOTEN  =       -46.30029290 eV
+dir_POSCAR1464
+  free  energy   TOTEN  =       -46.52436625 eV
+dir_POSCAR1465
+  free  energy   TOTEN  =       -46.97610864 eV
+dir_POSCAR1466
+  free  energy   TOTEN  =       -45.89627295 eV
+dir_POSCAR1467
+  free  energy   TOTEN  =       -47.25118732 eV
+dir_POSCAR1468
+  free  energy   TOTEN  =       -47.37326867 eV
+dir_POSCAR1469
+  free  energy   TOTEN  =       -47.15487649 eV
+dir_POSCAR147
+  free  energy   TOTEN  =       -29.99163110 eV
+dir_POSCAR1470
+  free  energy   TOTEN  =       -46.93731329 eV
+dir_POSCAR1471
+  free  energy   TOTEN  =       -47.49786150 eV
+dir_POSCAR1472
+  free  energy   TOTEN  =       -47.51501571 eV
+dir_POSCAR1473
+  free  energy   TOTEN  =       -46.32067005 eV
+dir_POSCAR1474
+  free  energy   TOTEN  =       -46.43972965 eV
+dir_POSCAR1475
+  free  energy   TOTEN  =       -48.08611608 eV
+dir_POSCAR1476
+  free  energy   TOTEN  =       -48.67319106 eV
+dir_POSCAR1477
+  free  energy   TOTEN  =       -49.25323930 eV
+dir_POSCAR1478
+  free  energy   TOTEN  =       -49.27480563 eV
+dir_POSCAR1479
+  free  energy   TOTEN  =       -49.33023528 eV
+dir_POSCAR148
+  free  energy   TOTEN  =       -31.01204024 eV
+dir_POSCAR1480
+  free  energy   TOTEN  =       -49.41504777 eV
+dir_POSCAR1481
+  free  energy   TOTEN  =       -49.27224326 eV
+dir_POSCAR1482
+  free  energy   TOTEN  =       -49.02045863 eV
+dir_POSCAR1483
+  free  energy   TOTEN  =       -48.25860410 eV
+dir_POSCAR1484
+  free  energy   TOTEN  =       -49.31636971 eV
+dir_POSCAR1485
+  free  energy   TOTEN  =       -49.59809381 eV
+dir_POSCAR1486
+  free  energy   TOTEN  =       -49.60317475 eV
+dir_POSCAR1487
+  free  energy   TOTEN  =       -49.62336683 eV
+dir_POSCAR1488
+  free  energy   TOTEN  =       -49.78636516 eV
+dir_POSCAR1489
+  free  energy   TOTEN  =       -49.63052929 eV
+dir_POSCAR149
+  free  energy   TOTEN  =       -30.75879906 eV
+dir_POSCAR1490
+  free  energy   TOTEN  =       -49.36329456 eV
+dir_POSCAR1491
+  free  energy   TOTEN  =       -49.50413580 eV
+dir_POSCAR1492
+  free  energy   TOTEN  =       -50.15724849 eV
+dir_POSCAR1493
+  free  energy   TOTEN  =       -50.55472147 eV
+dir_POSCAR1494
+  free  energy   TOTEN  =       -51.14603948 eV
+dir_POSCAR1495
+  free  energy   TOTEN  =       -51.70261815 eV
+dir_POSCAR1496
+  free  energy   TOTEN  =       -52.18664224 eV
+dir_POSCAR1497
+  free  energy   TOTEN  =       -52.33320238 eV
+dir_POSCAR1498
+  free  energy   TOTEN  =       -51.93166595 eV
+dir_POSCAR1499
+  free  energy   TOTEN  =       -50.79969816 eV
+dir_POSCAR15
+  free  energy   TOTEN  =       -19.40139903 eV
+dir_POSCAR150
+  free  energy   TOTEN  =       -30.92612647 eV
+dir_POSCAR1500
+  free  energy   TOTEN  =       -50.28927058 eV
+dir_POSCAR1501
+  free  energy   TOTEN  =       -51.22204397 eV
+dir_POSCAR1502
+  free  energy   TOTEN  =       -51.69450109 eV
+dir_POSCAR1503
+  free  energy   TOTEN  =       -52.03475236 eV
+dir_POSCAR1504
+  free  energy   TOTEN  =       -52.20556596 eV
+dir_POSCAR1505
+  free  energy   TOTEN  =       -52.07144787 eV
+dir_POSCAR1506
+  free  energy   TOTEN  =       -51.87120906 eV
+dir_POSCAR1507
+  free  energy   TOTEN  =       -52.13872890 eV
+dir_POSCAR1508
+  free  energy   TOTEN  =       -52.14854797 eV
+dir_POSCAR1509
+  free  energy   TOTEN  =       -44.36619433 eV
+dir_POSCAR151
+  free  energy   TOTEN  =       -31.02735958 eV
+dir_POSCAR1510
+  free  energy   TOTEN  =       -44.78017830 eV
+dir_POSCAR1511
+  free  energy   TOTEN  =       -44.93052371 eV
+dir_POSCAR1512
+  free  energy   TOTEN  =       -44.62948277 eV
+dir_POSCAR1513
+  free  energy   TOTEN  =       -44.63052183 eV
+dir_POSCAR1514
+  free  energy   TOTEN  =       -44.56220509 eV
+dir_POSCAR1515
+  free  energy   TOTEN  =       -44.62249279 eV
+dir_POSCAR1516
+  free  energy   TOTEN  =       -44.89686326 eV
+dir_POSCAR1517
+  free  energy   TOTEN  =       -44.37384041 eV
+dir_POSCAR1518
+  free  energy   TOTEN  =       -45.16860052 eV
+dir_POSCAR1519
+  free  energy   TOTEN  =       -45.04059777 eV
+dir_POSCAR152
+  free  energy   TOTEN  =       -31.26323370 eV
+dir_POSCAR1520
+  free  energy   TOTEN  =       -45.05142839 eV
+dir_POSCAR1521
+  free  energy   TOTEN  =       -44.96210941 eV
+dir_POSCAR1522
+  free  energy   TOTEN  =       -45.09015275 eV
+dir_POSCAR1523
+  free  energy   TOTEN  =       -45.25676973 eV
+dir_POSCAR1524
+  free  energy   TOTEN  =       -44.59776561 eV
+dir_POSCAR1525
+  free  energy   TOTEN  =       -44.71309117 eV
+dir_POSCAR1526
+  free  energy   TOTEN  =       -45.68016274 eV
+dir_POSCAR1527
+  free  energy   TOTEN  =       -46.44097244 eV
+dir_POSCAR1528
+  free  energy   TOTEN  =       -47.17988244 eV
+dir_POSCAR1529
+  free  energy   TOTEN  =       -47.12271927 eV
+dir_POSCAR153
+  free  energy   TOTEN  =       -30.74840623 eV
+dir_POSCAR1530
+  free  energy   TOTEN  =       -46.57050235 eV
+dir_POSCAR1531
+  free  energy   TOTEN  =       -46.42898612 eV
+dir_POSCAR1532
+  free  energy   TOTEN  =       -46.96405686 eV
+dir_POSCAR1533
+  free  energy   TOTEN  =       -46.81998442 eV
+dir_POSCAR1534
+  free  energy   TOTEN  =       -45.82000747 eV
+dir_POSCAR1535
+  free  energy   TOTEN  =       -47.31624966 eV
+dir_POSCAR1536
+  free  energy   TOTEN  =       -47.45048352 eV
+dir_POSCAR1537
+  free  energy   TOTEN  =       -47.26975595 eV
+dir_POSCAR1538
+  free  energy   TOTEN  =       -47.18101491 eV
+dir_POSCAR1539
+  free  energy   TOTEN  =       -47.50022321 eV
+dir_POSCAR154
+  free  energy   TOTEN  =       -31.19328687 eV
+dir_POSCAR1540
+  free  energy   TOTEN  =       -47.53604309 eV
+dir_POSCAR1541
+  free  energy   TOTEN  =       -46.43457932 eV
+dir_POSCAR1542
+  free  energy   TOTEN  =       -46.44757190 eV
+dir_POSCAR1543
+  free  energy   TOTEN  =       -44.39269737 eV
+dir_POSCAR1544
+  free  energy   TOTEN  =       -45.01601068 eV
+dir_POSCAR1545
+  free  energy   TOTEN  =       -44.70326673 eV
+dir_POSCAR1546
+  free  energy   TOTEN  =       -44.27006217 eV
+dir_POSCAR1547
+  free  energy   TOTEN  =       -44.80926746 eV
+dir_POSCAR1548
+  free  energy   TOTEN  =       -44.85008657 eV
+dir_POSCAR1549
+  free  energy   TOTEN  =       -44.34519964 eV
+dir_POSCAR155
+  free  energy   TOTEN  =       -32.12772843 eV
+dir_POSCAR1550
+  free  energy   TOTEN  =       -45.04998904 eV
+dir_POSCAR1551
+  free  energy   TOTEN  =       -44.48205938 eV
+dir_POSCAR1552
+  free  energy   TOTEN  =       -45.23534855 eV
+dir_POSCAR1553
+  free  energy   TOTEN  =       -45.11165227 eV
+dir_POSCAR1554
+  free  energy   TOTEN  =       -45.10067757 eV
+dir_POSCAR1555
+  free  energy   TOTEN  =       -45.20897525 eV
+dir_POSCAR1556
+  free  energy   TOTEN  =       -45.05220457 eV
+dir_POSCAR1557
+  free  energy   TOTEN  =       -44.86804806 eV
+dir_POSCAR1558
+  free  energy   TOTEN  =       -44.85556124 eV
+dir_POSCAR1559
+  free  energy   TOTEN  =       -45.09997148 eV
+dir_POSCAR156
+  free  energy   TOTEN  =       -32.66166428 eV
+dir_POSCAR1560
+  free  energy   TOTEN  =       -46.47747150 eV
+dir_POSCAR1561
+  free  energy   TOTEN  =       -46.98614148 eV
+dir_POSCAR1562
+  free  energy   TOTEN  =       -47.03264687 eV
+dir_POSCAR1563
+  free  energy   TOTEN  =       -46.97003592 eV
+dir_POSCAR1564
+  free  energy   TOTEN  =       -47.04779632 eV
+dir_POSCAR1565
+  free  energy   TOTEN  =       -47.07477043 eV
+dir_POSCAR1566
+  free  energy   TOTEN  =       -47.00646274 eV
+dir_POSCAR1567
+  free  energy   TOTEN  =       -47.13902797 eV
+dir_POSCAR1568
+  free  energy   TOTEN  =       -46.56465827 eV
+dir_POSCAR1569
+  free  energy   TOTEN  =       -47.30013442 eV
+dir_POSCAR157
+  free  energy   TOTEN  =       -33.37801324 eV
+dir_POSCAR1570
+  free  energy   TOTEN  =       -47.38348143 eV
+dir_POSCAR1571
+  free  energy   TOTEN  =       -47.33763210 eV
+dir_POSCAR1572
+  free  energy   TOTEN  =       -47.41207460 eV
+dir_POSCAR1573
+  free  energy   TOTEN  =       -47.32643057 eV
+dir_POSCAR1574
+  free  energy   TOTEN  =       -47.10218047 eV
+dir_POSCAR1575
+  free  energy   TOTEN  =       -47.05707812 eV
+dir_POSCAR1576
+  free  energy   TOTEN  =       -47.21080921 eV
+dir_POSCAR1577
+  free  energy   TOTEN  =       -46.47617679 eV
+dir_POSCAR1578
+  free  energy   TOTEN  =       -46.98317003 eV
+dir_POSCAR1579
+  free  energy   TOTEN  =       -47.11978934 eV
+dir_POSCAR158
+  free  energy   TOTEN  =       -33.79366613 eV
+dir_POSCAR1580
+  free  energy   TOTEN  =       -46.77717794 eV
+dir_POSCAR1581
+  free  energy   TOTEN  =       -47.28051957 eV
+dir_POSCAR1582
+  free  energy   TOTEN  =       -47.31188657 eV
+dir_POSCAR1583
+  free  energy   TOTEN  =       -46.88877263 eV
+dir_POSCAR1584
+  free  energy   TOTEN  =       -47.16106355 eV
+dir_POSCAR1585
+  free  energy   TOTEN  =       -46.55963510 eV
+dir_POSCAR1586
+  free  energy   TOTEN  =       -47.29722333 eV
+dir_POSCAR1587
+  free  energy   TOTEN  =       -47.40602228 eV
+dir_POSCAR1588
+  free  energy   TOTEN  =       -47.41388492 eV
+dir_POSCAR1589
+  free  energy   TOTEN  =       -47.58339509 eV
+dir_POSCAR159
+  free  energy   TOTEN  =       -32.25903363 eV
+dir_POSCAR1590
+  free  energy   TOTEN  =       -47.54069190 eV
+dir_POSCAR1591
+  free  energy   TOTEN  =       -47.46765482 eV
+dir_POSCAR1592
+  free  energy   TOTEN  =       -47.35247756 eV
+dir_POSCAR1593
+  free  energy   TOTEN  =       -47.38550199 eV
+dir_POSCAR1594
+  free  energy   TOTEN  =       -48.17470991 eV
+dir_POSCAR1595
+  free  energy   TOTEN  =       -48.77851438 eV
+dir_POSCAR1596
+  free  energy   TOTEN  =       -49.21341813 eV
+dir_POSCAR1597
+  free  energy   TOTEN  =       -49.42198087 eV
+dir_POSCAR1598
+  free  energy   TOTEN  =       -49.48543639 eV
+dir_POSCAR1599
+  free  energy   TOTEN  =       -49.47236398 eV
+dir_POSCAR16
+  free  energy   TOTEN  =       -19.75877607 eV
+dir_POSCAR160
+  free  energy   TOTEN  =       -33.46302995 eV
+dir_POSCAR1600
+  free  energy   TOTEN  =       -49.45508919 eV
+dir_POSCAR1601
+  free  energy   TOTEN  =       -49.02840094 eV
+dir_POSCAR1602
+  free  energy   TOTEN  =       -48.28505533 eV
+dir_POSCAR1603
+  free  energy   TOTEN  =       -49.45897217 eV
+dir_POSCAR1604
+  free  energy   TOTEN  =       -49.68310800 eV
+dir_POSCAR1605
+  free  energy   TOTEN  =       -49.76704275 eV
+dir_POSCAR1606
+  free  energy   TOTEN  =       -49.85421047 eV
+dir_POSCAR1607
+  free  energy   TOTEN  =       -49.79602630 eV
+dir_POSCAR1608
+  free  energy   TOTEN  =       -49.72634516 eV
+dir_POSCAR1609
+  free  energy   TOTEN  =       -49.42941878 eV
+dir_POSCAR161
+  free  energy   TOTEN  =       -30.78787830 eV
+dir_POSCAR1610
+  free  energy   TOTEN  =       -49.46150969 eV
+dir_POSCAR1611
+  free  energy   TOTEN  =       -46.49341195 eV
+dir_POSCAR1612
+  free  energy   TOTEN  =       -47.01019908 eV
+dir_POSCAR1613
+  free  energy   TOTEN  =       -47.33822007 eV
+dir_POSCAR1614
+  free  energy   TOTEN  =       -47.01129236 eV
+dir_POSCAR1615
+  free  energy   TOTEN  =       -46.82049483 eV
+dir_POSCAR1616
+  free  energy   TOTEN  =       -46.73112614 eV
+dir_POSCAR1617
+  free  energy   TOTEN  =       -46.96642243 eV
+dir_POSCAR1618
+  free  energy   TOTEN  =       -47.30339410 eV
+dir_POSCAR1619
+  free  energy   TOTEN  =       -46.55659957 eV
+dir_POSCAR162
+  free  energy   TOTEN  =       -31.23525382 eV
+dir_POSCAR1620
+  free  energy   TOTEN  =       -47.40772345 eV
+dir_POSCAR1621
+  free  energy   TOTEN  =       -47.47884893 eV
+dir_POSCAR1622
+  free  energy   TOTEN  =       -47.29850803 eV
+dir_POSCAR1623
+  free  energy   TOTEN  =       -47.24979451 eV
+dir_POSCAR1624
+  free  energy   TOTEN  =       -47.44125376 eV
+dir_POSCAR1625
+  free  energy   TOTEN  =       -47.39415772 eV
+dir_POSCAR1626
+  free  energy   TOTEN  =       -46.80981131 eV
+dir_POSCAR1627
+  free  energy   TOTEN  =       -46.83844959 eV
+dir_POSCAR1628
+  free  energy   TOTEN  =       -47.26989519 eV
+dir_POSCAR1629
+  free  energy   TOTEN  =       -47.27170448 eV
+dir_POSCAR163
+  free  energy   TOTEN  =       -31.06470711 eV
+dir_POSCAR1630
+  free  energy   TOTEN  =       -47.51773214 eV
+dir_POSCAR1631
+  free  energy   TOTEN  =       -47.36021855 eV
+dir_POSCAR1632
+  free  energy   TOTEN  =       -47.53392081 eV
+dir_POSCAR1633
+  free  energy   TOTEN  =       -47.36375017 eV
+dir_POSCAR1634
+  free  energy   TOTEN  =       -47.52072295 eV
+dir_POSCAR1635
+  free  energy   TOTEN  =       -47.50258171 eV
+dir_POSCAR1636
+  free  energy   TOTEN  =       -47.10345191 eV
+dir_POSCAR1637
+  free  energy   TOTEN  =       -47.50446743 eV
+dir_POSCAR1638
+  free  energy   TOTEN  =       -47.70068505 eV
+dir_POSCAR1639
+  free  energy   TOTEN  =       -47.54518063 eV
+dir_POSCAR164
+  free  energy   TOTEN  =       -30.66616825 eV
+dir_POSCAR1640
+  free  energy   TOTEN  =       -47.71099312 eV
+dir_POSCAR1641
+  free  energy   TOTEN  =       -47.72927325 eV
+dir_POSCAR1642
+  free  energy   TOTEN  =       -47.54694547 eV
+dir_POSCAR1643
+  free  energy   TOTEN  =       -47.54038612 eV
+dir_POSCAR1644
+  free  energy   TOTEN  =       -47.52860893 eV
+dir_POSCAR1645
+  free  energy   TOTEN  =       -48.84095624 eV
+dir_POSCAR1646
+  free  energy   TOTEN  =       -49.16955189 eV
+dir_POSCAR1647
+  free  energy   TOTEN  =       -49.67952804 eV
+dir_POSCAR1648
+  free  energy   TOTEN  =       -49.65985622 eV
+dir_POSCAR1649
+  free  energy   TOTEN  =       -49.58900609 eV
+dir_POSCAR165
+  free  energy   TOTEN  =       -30.84715701 eV
+dir_POSCAR1650
+  free  energy   TOTEN  =       -49.44900718 eV
+dir_POSCAR1651
+  free  energy   TOTEN  =       -49.70775521 eV
+dir_POSCAR1652
+  free  energy   TOTEN  =       -49.51652870 eV
+dir_POSCAR1653
+  free  energy   TOTEN  =       -48.82464212 eV
+dir_POSCAR1654
+  free  energy   TOTEN  =       -49.67442640 eV
+dir_POSCAR1655
+  free  energy   TOTEN  =       -49.97796939 eV
+dir_POSCAR1656
+  free  energy   TOTEN  =       -49.77817543 eV
+dir_POSCAR1657
+  free  energy   TOTEN  =       -49.90869391 eV
+dir_POSCAR1658
+  free  energy   TOTEN  =       -49.99659991 eV
+dir_POSCAR1659
+  free  energy   TOTEN  =       -49.79639155 eV
+dir_POSCAR166
+  free  energy   TOTEN  =       -31.42639799 eV
+dir_POSCAR1660
+  free  energy   TOTEN  =       -49.54667519 eV
+dir_POSCAR1661
+  free  energy   TOTEN  =       -49.52635331 eV
+dir_POSCAR1662
+  free  energy   TOTEN  =       -48.79829837 eV
+dir_POSCAR1663
+  free  energy   TOTEN  =       -49.20510377 eV
+dir_POSCAR1664
+  free  energy   TOTEN  =       -49.33561408 eV
+dir_POSCAR1665
+  free  energy   TOTEN  =       -49.25092716 eV
+dir_POSCAR1666
+  free  energy   TOTEN  =       -49.62694317 eV
+dir_POSCAR1667
+  free  energy   TOTEN  =       -49.72233328 eV
+dir_POSCAR1668
+  free  energy   TOTEN  =       -49.39465051 eV
+dir_POSCAR1669
+  free  energy   TOTEN  =       -49.34083078 eV
+dir_POSCAR167
+  free  energy   TOTEN  =       -32.90178576 eV
+dir_POSCAR1670
+  free  energy   TOTEN  =       -48.90446704 eV
+dir_POSCAR1671
+  free  energy   TOTEN  =       -49.40347622 eV
+dir_POSCAR1672
+  free  energy   TOTEN  =       -49.57826963 eV
+dir_POSCAR1673
+  free  energy   TOTEN  =       -49.65650776 eV
+dir_POSCAR1674
+  free  energy   TOTEN  =       -49.81110618 eV
+dir_POSCAR1675
+  free  energy   TOTEN  =       -49.68130137 eV
+dir_POSCAR1676
+  free  energy   TOTEN  =       -49.55507613 eV
+dir_POSCAR1677
+  free  energy   TOTEN  =       -49.70586389 eV
+dir_POSCAR1678
+  free  energy   TOTEN  =       -49.73550530 eV
+dir_POSCAR1679
+  free  energy   TOTEN  =       -48.83776975 eV
+dir_POSCAR168
+  free  energy   TOTEN  =       -33.27557734 eV
+dir_POSCAR1680
+  free  energy   TOTEN  =       -49.09533500 eV
+dir_POSCAR1681
+  free  energy   TOTEN  =       -49.50400837 eV
+dir_POSCAR1682
+  free  energy   TOTEN  =       -49.46898660 eV
+dir_POSCAR1683
+  free  energy   TOTEN  =       -49.98856946 eV
+dir_POSCAR1684
+  free  energy   TOTEN  =       -50.00317165 eV
+dir_POSCAR1685
+  free  energy   TOTEN  =       -49.64079302 eV
+dir_POSCAR1686
+  free  energy   TOTEN  =       -49.39520752 eV
+dir_POSCAR1687
+  free  energy   TOTEN  =       -48.83927662 eV
+dir_POSCAR1688
+  free  energy   TOTEN  =       -49.52388236 eV
+dir_POSCAR1689
+  free  energy   TOTEN  =       -49.87375449 eV
+dir_POSCAR169
+  free  energy   TOTEN  =       -33.48233824 eV
+dir_POSCAR1690
+  free  energy   TOTEN  =       -49.91456867 eV
+dir_POSCAR1691
+  free  energy   TOTEN  =       -50.18502878 eV
+dir_POSCAR1692
+  free  energy   TOTEN  =       -50.08620297 eV
+dir_POSCAR1693
+  free  energy   TOTEN  =       -49.86332540 eV
+dir_POSCAR1694
+  free  energy   TOTEN  =       -50.07050729 eV
+dir_POSCAR1695
+  free  energy   TOTEN  =       -50.02017319 eV
+dir_POSCAR1696
+  free  energy   TOTEN  =       -50.78950473 eV
+dir_POSCAR1697
+  free  energy   TOTEN  =       -51.10758958 eV
+dir_POSCAR1698
+  free  energy   TOTEN  =       -51.53206097 eV
+dir_POSCAR1699
+  free  energy   TOTEN  =       -51.86040464 eV
+dir_POSCAR17
+  free  energy   TOTEN  =       -19.89805459 eV
+dir_POSCAR170
+  free  energy   TOTEN  =       -33.40238610 eV
+dir_POSCAR1700
+  free  energy   TOTEN  =       -52.25917980 eV
+dir_POSCAR1701
+  free  energy   TOTEN  =       -52.31613739 eV
+dir_POSCAR1702
+  free  energy   TOTEN  =       -52.04855249 eV
+dir_POSCAR1703
+  free  energy   TOTEN  =       -51.32305923 eV
+dir_POSCAR1704
+  free  energy   TOTEN  =       -50.85112165 eV
+dir_POSCAR1705
+  free  energy   TOTEN  =       -51.59005440 eV
+dir_POSCAR1706
+  free  energy   TOTEN  =       -51.95556363 eV
+dir_POSCAR1707
+  free  energy   TOTEN  =       -52.17385823 eV
+dir_POSCAR1708
+  free  energy   TOTEN  =       -52.37328836 eV
+dir_POSCAR1709
+  free  energy   TOTEN  =       -52.21615845 eV
+dir_POSCAR171
+  free  energy   TOTEN  =       -32.95852744 eV
+dir_POSCAR1710
+  free  energy   TOTEN  =       -52.03198715 eV
+dir_POSCAR1711
+  free  energy   TOTEN  =       -52.27290071 eV
+dir_POSCAR1712
+  free  energy   TOTEN  =       -52.26668385 eV
+dir_POSCAR1713
+  free  energy   TOTEN  =       -48.13959296 eV
+dir_POSCAR1714
+  free  energy   TOTEN  =       -48.98494232 eV
+dir_POSCAR1715
+  free  energy   TOTEN  =       -49.73540810 eV
+dir_POSCAR1716
+  free  energy   TOTEN  =       -49.45359498 eV
+dir_POSCAR1717
+  free  energy   TOTEN  =       -48.59462270 eV
+dir_POSCAR1718
+  free  energy   TOTEN  =       -48.44583344 eV
+dir_POSCAR1719
+  free  energy   TOTEN  =       -49.07346861 eV
+dir_POSCAR172
+  free  energy   TOTEN  =       -33.58227697 eV
+dir_POSCAR1720
+  free  energy   TOTEN  =       -49.42400151 eV
+dir_POSCAR1721
+  free  energy   TOTEN  =       -48.33411187 eV
+dir_POSCAR1722
+  free  energy   TOTEN  =       -49.73764016 eV
+dir_POSCAR1723
+  free  energy   TOTEN  =       -49.80703146 eV
+dir_POSCAR1724
+  free  energy   TOTEN  =       -49.53862159 eV
+dir_POSCAR1725
+  free  energy   TOTEN  =       -49.24314530 eV
+dir_POSCAR1726
+  free  energy   TOTEN  =       -49.83828880 eV
+dir_POSCAR1727
+  free  energy   TOTEN  =       -49.85953682 eV
+dir_POSCAR1728
+  free  energy   TOTEN  =       -48.45100947 eV
+dir_POSCAR1729
+  free  energy   TOTEN  =       -48.55231685 eV
+dir_POSCAR173
+  free  energy   TOTEN  =       -34.75417584 eV
+dir_POSCAR1730
+  free  energy   TOTEN  =       -48.80459161 eV
+dir_POSCAR1731
+  free  energy   TOTEN  =       -49.28914181 eV
+dir_POSCAR1732
+  free  energy   TOTEN  =       -49.58316718 eV
+dir_POSCAR1733
+  free  energy   TOTEN  =       -49.51507646 eV
+dir_POSCAR1734
+  free  energy   TOTEN  =       -49.14851164 eV
+dir_POSCAR1735
+  free  energy   TOTEN  =       -49.04950863 eV
+dir_POSCAR1736
+  free  energy   TOTEN  =       -49.40420832 eV
+dir_POSCAR1737
+  free  energy   TOTEN  =       -49.51127896 eV
+dir_POSCAR1738
+  free  energy   TOTEN  =       -48.89097880 eV
+dir_POSCAR1739
+  free  energy   TOTEN  =       -49.66459976 eV
+dir_POSCAR174
+  free  energy   TOTEN  =       -35.21322585 eV
+dir_POSCAR1740
+  free  energy   TOTEN  =       -49.75758106 eV
+dir_POSCAR1741
+  free  energy   TOTEN  =       -49.59259048 eV
+dir_POSCAR1742
+  free  energy   TOTEN  =       -49.51195812 eV
+dir_POSCAR1743
+  free  energy   TOTEN  =       -49.77027907 eV
+dir_POSCAR1744
+  free  energy   TOTEN  =       -49.47673782 eV
+dir_POSCAR1745
+  free  energy   TOTEN  =       -49.04361344 eV
+dir_POSCAR1746
+  free  energy   TOTEN  =       -49.27796680 eV
+dir_POSCAR1747
+  free  energy   TOTEN  =       -50.74000001 eV
+dir_POSCAR1748
+  free  energy   TOTEN  =       -51.27421569 eV
+dir_POSCAR1749
+  free  energy   TOTEN  =       -51.66508111 eV
+dir_POSCAR175
+  free  energy   TOTEN  =       -35.73858533 eV
+dir_POSCAR1750
+  free  energy   TOTEN  =       -51.77550911 eV
+dir_POSCAR1751
+  free  energy   TOTEN  =       -51.65060055 eV
+dir_POSCAR1752
+  free  energy   TOTEN  =       -51.63844695 eV
+dir_POSCAR1753
+  free  energy   TOTEN  =       -51.72438363 eV
+dir_POSCAR1754
+  free  energy   TOTEN  =       -51.47821896 eV
+dir_POSCAR1755
+  free  energy   TOTEN  =       -50.87908462 eV
+dir_POSCAR1756
+  free  energy   TOTEN  =       -51.76185594 eV
+dir_POSCAR1757
+  free  energy   TOTEN  =       -51.92663946 eV
+dir_POSCAR1758
+  free  energy   TOTEN  =       -51.97387969 eV
+dir_POSCAR1759
+  free  energy   TOTEN  =       -51.92577416 eV
+dir_POSCAR176
+  free  energy   TOTEN  =       -36.13336637 eV
+dir_POSCAR1760
+  free  energy   TOTEN  =       -52.07472982 eV
+dir_POSCAR1761
+  free  energy   TOTEN  =       -51.93770324 eV
+dir_POSCAR1762
+  free  energy   TOTEN  =       -51.58836363 eV
+dir_POSCAR1763
+  free  energy   TOTEN  =       -51.69997048 eV
+dir_POSCAR1764
+  free  energy   TOTEN  =       -50.72496714 eV
+dir_POSCAR1765
+  free  energy   TOTEN  =       -51.33249204 eV
+dir_POSCAR1766
+  free  energy   TOTEN  =       -51.95100078 eV
+dir_POSCAR1767
+  free  energy   TOTEN  =       -51.86687715 eV
+dir_POSCAR1768
+  free  energy   TOTEN  =       -51.41262178 eV
+dir_POSCAR1769
+  free  energy   TOTEN  =       -51.35179383 eV
+dir_POSCAR177
+  free  energy   TOTEN  =       -34.85209040 eV
+dir_POSCAR1770
+  free  energy   TOTEN  =       -51.65949725 eV
+dir_POSCAR1771
+  free  energy   TOTEN  =       -51.72356638 eV
+dir_POSCAR1772
+  free  energy   TOTEN  =       -50.86386148 eV
+dir_POSCAR1773
+  free  energy   TOTEN  =       -52.00329261 eV
+dir_POSCAR1774
+  free  energy   TOTEN  =       -52.16178888 eV
+dir_POSCAR1775
+  free  energy   TOTEN  =       -51.94527755 eV
+dir_POSCAR1776
+  free  energy   TOTEN  =       -51.82350694 eV
+dir_POSCAR1777
+  free  energy   TOTEN  =       -52.23336061 eV
+dir_POSCAR1778
+  free  energy   TOTEN  =       -52.17787330 eV
+dir_POSCAR1779
+  free  energy   TOTEN  =       -51.34864512 eV
+dir_POSCAR178
+  free  energy   TOTEN  =       -35.83055988 eV
+dir_POSCAR1780
+  free  energy   TOTEN  =       -51.41686318 eV
+dir_POSCAR1781
+  free  energy   TOTEN  =       -52.96184891 eV
+dir_POSCAR1782
+  free  energy   TOTEN  =       -53.32319189 eV
+dir_POSCAR1783
+  free  energy   TOTEN  =       -53.75467177 eV
+dir_POSCAR1784
+  free  energy   TOTEN  =       -54.12608313 eV
+dir_POSCAR1785
+  free  energy   TOTEN  =       -54.32337014 eV
+dir_POSCAR1786
+  free  energy   TOTEN  =       -54.36687796 eV
+dir_POSCAR1787
+  free  energy   TOTEN  =       -54.21175737 eV
+dir_POSCAR1788
+  free  energy   TOTEN  =       -53.50371207 eV
+dir_POSCAR1789
+  free  energy   TOTEN  =       -53.05806745 eV
+dir_POSCAR179
+  free  energy   TOTEN  =       -32.94070952 eV
+dir_POSCAR1790
+  free  energy   TOTEN  =       -53.79240845 eV
+dir_POSCAR1791
+  free  energy   TOTEN  =       -54.12288865 eV
+dir_POSCAR1792
+  free  energy   TOTEN  =       -54.33270159 eV
+dir_POSCAR1793
+  free  energy   TOTEN  =       -54.39799674 eV
+dir_POSCAR1794
+  free  energy   TOTEN  =       -54.42752885 eV
+dir_POSCAR1795
+  free  energy   TOTEN  =       -54.27466115 eV
+dir_POSCAR1796
+  free  energy   TOTEN  =       -54.24454753 eV
+dir_POSCAR1797
+  free  energy   TOTEN  =       -54.26338241 eV
+dir_POSCAR1798
+  free  energy   TOTEN  =       -46.52078156 eV
+dir_POSCAR1799
+  free  energy   TOTEN  =       -47.24901705 eV
+dir_POSCAR18
+  free  energy   TOTEN  =       -19.49008155 eV
+dir_POSCAR180
+  free  energy   TOTEN  =       -33.48511000 eV
+dir_POSCAR1800
+  free  energy   TOTEN  =       -47.23113078 eV
+dir_POSCAR1801
+  free  energy   TOTEN  =       -46.53543014 eV
+dir_POSCAR1802
+  free  energy   TOTEN  =       -47.09461425 eV
+dir_POSCAR1803
+  free  energy   TOTEN  =       -47.27746677 eV
+dir_POSCAR1804
+  free  energy   TOTEN  =       -46.60296012 eV
+dir_POSCAR1805
+  free  energy   TOTEN  =       -47.41546457 eV
+dir_POSCAR1806
+  free  energy   TOTEN  =       -46.65131807 eV
+dir_POSCAR1807
+  free  energy   TOTEN  =       -47.52263169 eV
+dir_POSCAR1808
+  free  energy   TOTEN  =       -47.50628483 eV
+dir_POSCAR1809
+  free  energy   TOTEN  =       -47.52490637 eV
+dir_POSCAR181
+  free  energy   TOTEN  =       -33.56440903 eV
+dir_POSCAR1810
+  free  energy   TOTEN  =       -47.45498508 eV
+dir_POSCAR1811
+  free  energy   TOTEN  =       -47.53901596 eV
+dir_POSCAR1812
+  free  energy   TOTEN  =       -47.48614088 eV
+dir_POSCAR1813
+  free  energy   TOTEN  =       -47.28265826 eV
+dir_POSCAR1814
+  free  energy   TOTEN  =       -47.36101496 eV
+dir_POSCAR1815
+  free  energy   TOTEN  =       -47.30061523 eV
+dir_POSCAR1816
+  free  energy   TOTEN  =       -47.46346920 eV
+dir_POSCAR1817
+  free  energy   TOTEN  =       -47.22126827 eV
+dir_POSCAR1818
+  free  energy   TOTEN  =       -47.26769433 eV
+dir_POSCAR1819
+  free  energy   TOTEN  =       -47.45392871 eV
+dir_POSCAR182
+  free  energy   TOTEN  =       -32.99596497 eV
+dir_POSCAR1820
+  free  energy   TOTEN  =       -47.44716169 eV
+dir_POSCAR1821
+  free  energy   TOTEN  =       -47.38519674 eV
+dir_POSCAR1822
+  free  energy   TOTEN  =       -47.55878331 eV
+dir_POSCAR1823
+  free  energy   TOTEN  =       -47.22067965 eV
+dir_POSCAR1824
+  free  energy   TOTEN  =       -47.52835519 eV
+dir_POSCAR1825
+  free  energy   TOTEN  =       -47.64236549 eV
+dir_POSCAR1826
+  free  energy   TOTEN  =       -47.53883434 eV
+dir_POSCAR1827
+  free  energy   TOTEN  =       -47.64237265 eV
+dir_POSCAR1828
+  free  energy   TOTEN  =       -47.34707124 eV
+dir_POSCAR1829
+  free  energy   TOTEN  =       -47.00867958 eV
+dir_POSCAR183
+  free  energy   TOTEN  =       -33.04591218 eV
+dir_POSCAR1830
+  free  energy   TOTEN  =       -47.51953699 eV
+dir_POSCAR1831
+  free  energy   TOTEN  =       -47.54117324 eV
+dir_POSCAR1832
+  free  energy   TOTEN  =       -48.87029815 eV
+dir_POSCAR1833
+  free  energy   TOTEN  =       -49.32657764 eV
+dir_POSCAR1834
+  free  energy   TOTEN  =       -49.49018076 eV
+dir_POSCAR1835
+  free  energy   TOTEN  =       -49.39389709 eV
+dir_POSCAR1836
+  free  energy   TOTEN  =       -49.62851922 eV
+dir_POSCAR1837
+  free  energy   TOTEN  =       -49.74168205 eV
+dir_POSCAR1838
+  free  energy   TOTEN  =       -49.47884791 eV
+dir_POSCAR1839
+  free  energy   TOTEN  =       -49.53509540 eV
+dir_POSCAR184
+  free  energy   TOTEN  =       -33.72257353 eV
+dir_POSCAR1840
+  free  energy   TOTEN  =       -48.93235700 eV
+dir_POSCAR1841
+  free  energy   TOTEN  =       -49.70768891 eV
+dir_POSCAR1842
+  free  energy   TOTEN  =       -49.86875752 eV
+dir_POSCAR1843
+  free  energy   TOTEN  =       -49.89617392 eV
+dir_POSCAR1844
+  free  energy   TOTEN  =       -49.88577960 eV
+dir_POSCAR1845
+  free  energy   TOTEN  =       -49.79387516 eV
+dir_POSCAR1846
+  free  energy   TOTEN  =       -49.67423923 eV
+dir_POSCAR1847
+  free  energy   TOTEN  =       -49.72844098 eV
+dir_POSCAR1848
+  free  energy   TOTEN  =       -49.77906535 eV
+dir_POSCAR1849
+  free  energy   TOTEN  =       -48.83186040 eV
+dir_POSCAR185
+  free  energy   TOTEN  =       -33.70124426 eV
+dir_POSCAR1850
+  free  energy   TOTEN  =       -49.40172619 eV
+dir_POSCAR1851
+  free  energy   TOTEN  =       -49.53981253 eV
+dir_POSCAR1852
+  free  energy   TOTEN  =       -48.93443184 eV
+dir_POSCAR1853
+  free  energy   TOTEN  =       -49.61357568 eV
+dir_POSCAR1854
+  free  energy   TOTEN  =       -49.89411282 eV
+dir_POSCAR1855
+  free  energy   TOTEN  =       -49.05774906 eV
+dir_POSCAR1856
+  free  energy   TOTEN  =       -49.60659265 eV
+dir_POSCAR1857
+  free  energy   TOTEN  =       -48.98677800 eV
+dir_POSCAR1858
+  free  energy   TOTEN  =       -49.68447894 eV
+dir_POSCAR1859
+  free  energy   TOTEN  =       -49.73883550 eV
+dir_POSCAR186
+  free  energy   TOTEN  =       -33.72628972 eV
+dir_POSCAR1860
+  free  energy   TOTEN  =       -49.84640556 eV
+dir_POSCAR1861
+  free  energy   TOTEN  =       -49.85418836 eV
+dir_POSCAR1862
+  free  energy   TOTEN  =       -49.91909794 eV
+dir_POSCAR1863
+  free  energy   TOTEN  =       -49.85391372 eV
+dir_POSCAR1864
+  free  energy   TOTEN  =       -49.87638075 eV
+dir_POSCAR1865
+  free  energy   TOTEN  =       -49.86336089 eV
+dir_POSCAR1866
+  free  energy   TOTEN  =       -50.82333076 eV
+dir_POSCAR1867
+  free  energy   TOTEN  =       -51.27345935 eV
+dir_POSCAR1868
+  free  energy   TOTEN  =       -51.63213170 eV
+dir_POSCAR1869
+  free  energy   TOTEN  =       -51.71013898 eV
+dir_POSCAR187
+  free  energy   TOTEN  =       -33.57199852 eV
+dir_POSCAR1870
+  free  energy   TOTEN  =       -52.06270444 eV
+dir_POSCAR1871
+  free  energy   TOTEN  =       -52.23694067 eV
+dir_POSCAR1872
+  free  energy   TOTEN  =       -51.83630126 eV
+dir_POSCAR1873
+  free  energy   TOTEN  =       -51.45999724 eV
+dir_POSCAR1874
+  free  energy   TOTEN  =       -50.93008023 eV
+dir_POSCAR1875
+  free  energy   TOTEN  =       -51.79018686 eV
+dir_POSCAR1876
+  free  energy   TOTEN  =       -52.04140049 eV
+dir_POSCAR1877
+  free  energy   TOTEN  =       -52.24660634 eV
+dir_POSCAR1878
+  free  energy   TOTEN  =       -52.24329827 eV
+dir_POSCAR1879
+  free  energy   TOTEN  =       -52.18757279 eV
+dir_POSCAR188
+  free  energy   TOTEN  =       -33.64592145 eV
+dir_POSCAR1880
+  free  energy   TOTEN  =       -52.13558098 eV
+dir_POSCAR1881
+  free  energy   TOTEN  =       -52.17521623 eV
+dir_POSCAR1882
+  free  energy   TOTEN  =       -52.17102670 eV
+dir_POSCAR1883
+  free  energy   TOTEN  =       -48.88052984 eV
+dir_POSCAR1884
+  free  energy   TOTEN  =       -49.33631142 eV
+dir_POSCAR1885
+  free  energy   TOTEN  =       -49.52397675 eV
+dir_POSCAR1886
+  free  energy   TOTEN  =       -49.56952848 eV
+dir_POSCAR1887
+  free  energy   TOTEN  =       -49.32991638 eV
+dir_POSCAR1888
+  free  energy   TOTEN  =       -49.25365761 eV
+dir_POSCAR1889
+  free  energy   TOTEN  =       -49.50749834 eV
+dir_POSCAR189
+  free  energy   TOTEN  =       -33.59801790 eV
+dir_POSCAR1890
+  free  energy   TOTEN  =       -49.61052681 eV
+dir_POSCAR1891
+  free  energy   TOTEN  =       -48.93130062 eV
+dir_POSCAR1892
+  free  energy   TOTEN  =       -49.75526562 eV
+dir_POSCAR1893
+  free  energy   TOTEN  =       -49.77302680 eV
+dir_POSCAR1894
+  free  energy   TOTEN  =       -49.74594098 eV
+dir_POSCAR1895
+  free  energy   TOTEN  =       -49.65162347 eV
+dir_POSCAR1896
+  free  energy   TOTEN  =       -49.67068238 eV
+dir_POSCAR1897
+  free  energy   TOTEN  =       -49.50643548 eV
+dir_POSCAR1898
+  free  energy   TOTEN  =       -49.26868174 eV
+dir_POSCAR1899
+  free  energy   TOTEN  =       -49.35178747 eV
+dir_POSCAR19
+  free  energy   TOTEN  =       -19.89164705 eV
+dir_POSCAR190
+  free  energy   TOTEN  =       -33.80237169 eV
+dir_POSCAR1900
+  free  energy   TOTEN  =       -49.55927190 eV
+dir_POSCAR1901
+  free  energy   TOTEN  =       -49.68343622 eV
+dir_POSCAR1902
+  free  energy   TOTEN  =       -49.82171390 eV
+dir_POSCAR1903
+  free  energy   TOTEN  =       -49.63204329 eV
+dir_POSCAR1904
+  free  energy   TOTEN  =       -49.80000983 eV
+dir_POSCAR1905
+  free  energy   TOTEN  =       -49.70512432 eV
+dir_POSCAR1906
+  free  energy   TOTEN  =       -49.76348235 eV
+dir_POSCAR1907
+  free  energy   TOTEN  =       -49.92002808 eV
+dir_POSCAR1908
+  free  energy   TOTEN  =       -49.46571902 eV
+dir_POSCAR1909
+  free  energy   TOTEN  =       -49.84623479 eV
+dir_POSCAR191
+  free  energy   TOTEN  =       -35.40150819 eV
+dir_POSCAR1910
+  free  energy   TOTEN  =       -50.04946870 eV
+dir_POSCAR1911
+  free  energy   TOTEN  =       -49.83990810 eV
+dir_POSCAR1912
+  free  energy   TOTEN  =       -50.03582310 eV
+dir_POSCAR1913
+  free  energy   TOTEN  =       -49.96388582 eV
+dir_POSCAR1914
+  free  energy   TOTEN  =       -49.72992081 eV
+dir_POSCAR1915
+  free  energy   TOTEN  =       -49.84866201 eV
+dir_POSCAR1916
+  free  energy   TOTEN  =       -49.76974436 eV
+dir_POSCAR1917
+  free  energy   TOTEN  =       -49.54805199 eV
+dir_POSCAR1918
+  free  energy   TOTEN  =       -49.66250735 eV
+dir_POSCAR1919
+  free  energy   TOTEN  =       -49.45177628 eV
+dir_POSCAR192
+  free  energy   TOTEN  =       -35.69039017 eV
+dir_POSCAR1920
+  free  energy   TOTEN  =       -49.72385327 eV
+dir_POSCAR1921
+  free  energy   TOTEN  =       -49.77477235 eV
+dir_POSCAR1922
+  free  energy   TOTEN  =       -49.86913433 eV
+dir_POSCAR1923
+  free  energy   TOTEN  =       -49.83207143 eV
+dir_POSCAR1924
+  free  energy   TOTEN  =       -49.69405584 eV
+dir_POSCAR1925
+  free  energy   TOTEN  =       -49.48810573 eV
+dir_POSCAR1926
+  free  energy   TOTEN  =       -49.71603706 eV
+dir_POSCAR1927
+  free  energy   TOTEN  =       -49.80062754 eV
+dir_POSCAR1928
+  free  energy   TOTEN  =       -49.80160390 eV
+dir_POSCAR1929
+  free  energy   TOTEN  =       -49.92295643 eV
+dir_POSCAR193
+  free  energy   TOTEN  =       -35.91670695 eV
+dir_POSCAR1930
+  free  energy   TOTEN  =       -49.55189929 eV
+dir_POSCAR1931
+  free  energy   TOTEN  =       -49.19176818 eV
+dir_POSCAR1932
+  free  energy   TOTEN  =       -49.87778598 eV
+dir_POSCAR1933
+  free  energy   TOTEN  =       -49.76890804 eV
+dir_POSCAR1934
+  free  energy   TOTEN  =       -51.42957908 eV
+dir_POSCAR1935
+  free  energy   TOTEN  =       -51.66764676 eV
+dir_POSCAR1936
+  free  energy   TOTEN  =       -51.82611538 eV
+dir_POSCAR1937
+  free  energy   TOTEN  =       -52.04586053 eV
+dir_POSCAR1938
+  free  energy   TOTEN  =       -52.13332598 eV
+dir_POSCAR1939
+  free  energy   TOTEN  =       -52.07821912 eV
+dir_POSCAR194
+  free  energy   TOTEN  =       -35.88547595 eV
+dir_POSCAR1940
+  free  energy   TOTEN  =       -52.16218984 eV
+dir_POSCAR1941
+  free  energy   TOTEN  =       -51.84852461 eV
+dir_POSCAR1942
+  free  energy   TOTEN  =       -51.39478998 eV
+dir_POSCAR1943
+  free  energy   TOTEN  =       -52.00881840 eV
+dir_POSCAR1944
+  free  energy   TOTEN  =       -52.17930008 eV
+dir_POSCAR1945
+  free  energy   TOTEN  =       -52.20646444 eV
+dir_POSCAR1946
+  free  energy   TOTEN  =       -52.32568695 eV
+dir_POSCAR1947
+  free  energy   TOTEN  =       -52.13050529 eV
+dir_POSCAR1948
+  free  energy   TOTEN  =       -51.88513987 eV
+dir_POSCAR1949
+  free  energy   TOTEN  =       -52.08861986 eV
+dir_POSCAR195
+  free  energy   TOTEN  =       -35.44247012 eV
+dir_POSCAR1950
+  free  energy   TOTEN  =       -52.12211743 eV
+dir_POSCAR1951
+  free  energy   TOTEN  =       -48.85186740 eV
+dir_POSCAR1952
+  free  energy   TOTEN  =       -49.44220823 eV
+dir_POSCAR1953
+  free  energy   TOTEN  =       -49.71704781 eV
+dir_POSCAR1954
+  free  energy   TOTEN  =       -49.16712799 eV
+dir_POSCAR1955
+  free  energy   TOTEN  =       -49.20108690 eV
+dir_POSCAR1956
+  free  energy   TOTEN  =       -49.30278399 eV
+dir_POSCAR1957
+  free  energy   TOTEN  =       -49.08816285 eV
+dir_POSCAR1958
+  free  energy   TOTEN  =       -49.70572838 eV
+dir_POSCAR1959
+  free  energy   TOTEN  =       -48.98752818 eV
+dir_POSCAR196
+  free  energy   TOTEN  =       -36.04150729 eV
+dir_POSCAR1960
+  free  energy   TOTEN  =       -49.73581915 eV
+dir_POSCAR1961
+  free  energy   TOTEN  =       -49.77914111 eV
+dir_POSCAR1962
+  free  energy   TOTEN  =       -49.69534375 eV
+dir_POSCAR1963
+  free  energy   TOTEN  =       -49.64099582 eV
+dir_POSCAR1964
+  free  energy   TOTEN  =       -49.86659778 eV
+dir_POSCAR1965
+  free  energy   TOTEN  =       -49.84480199 eV
+dir_POSCAR1966
+  free  energy   TOTEN  =       -49.31760848 eV
+dir_POSCAR1967
+  free  energy   TOTEN  =       -49.38837948 eV
+dir_POSCAR1968
+  free  energy   TOTEN  =       -51.36471255 eV
+dir_POSCAR1969
+  free  energy   TOTEN  =       -51.72508080 eV
+dir_POSCAR197
+  free  energy   TOTEN  =       -35.35729877 eV
+dir_POSCAR1970
+  free  energy   TOTEN  =       -51.83503758 eV
+dir_POSCAR1971
+  free  energy   TOTEN  =       -51.73696595 eV
+dir_POSCAR1972
+  free  energy   TOTEN  =       -51.84585466 eV
+dir_POSCAR1973
+  free  energy   TOTEN  =       -51.95621448 eV
+dir_POSCAR1974
+  free  energy   TOTEN  =       -51.76844449 eV
+dir_POSCAR1975
+  free  energy   TOTEN  =       -51.87684435 eV
+dir_POSCAR1976
+  free  energy   TOTEN  =       -51.44704451 eV
+dir_POSCAR1977
+  free  energy   TOTEN  =       -51.96526613 eV
+dir_POSCAR1978
+  free  energy   TOTEN  =       -52.02515576 eV
+dir_POSCAR1979
+  free  energy   TOTEN  =       -52.06840253 eV
+dir_POSCAR198
+  free  energy   TOTEN  =       -35.75867343 eV
+dir_POSCAR1980
+  free  energy   TOTEN  =       -52.07629174 eV
+dir_POSCAR1981
+  free  energy   TOTEN  =       -52.02881145 eV
+dir_POSCAR1982
+  free  energy   TOTEN  =       -51.88412606 eV
+dir_POSCAR1983
+  free  energy   TOTEN  =       -51.92137264 eV
+dir_POSCAR1984
+  free  energy   TOTEN  =       -52.01316955 eV
+dir_POSCAR1985
+  free  energy   TOTEN  =       -51.36688098 eV
+dir_POSCAR1986
+  free  energy   TOTEN  =       -51.69026299 eV
+dir_POSCAR1987
+  free  energy   TOTEN  =       -52.00549361 eV
+dir_POSCAR1988
+  free  energy   TOTEN  =       -51.67891709 eV
+dir_POSCAR1989
+  free  energy   TOTEN  =       -51.98602583 eV
+dir_POSCAR199
+  free  energy   TOTEN  =       -35.96016982 eV
+dir_POSCAR1990
+  free  energy   TOTEN  =       -52.13949762 eV
+dir_POSCAR1991
+  free  energy   TOTEN  =       -51.72065928 eV
+dir_POSCAR1992
+  free  energy   TOTEN  =       -51.96521545 eV
+dir_POSCAR1993
+  free  energy   TOTEN  =       -51.44287626 eV
+dir_POSCAR1994
+  free  energy   TOTEN  =       -52.05629378 eV
+dir_POSCAR1995
+  free  energy   TOTEN  =       -52.17912343 eV
+dir_POSCAR1996
+  free  energy   TOTEN  =       -52.19479012 eV
+dir_POSCAR1997
+  free  energy   TOTEN  =       -52.23602381 eV
+dir_POSCAR1998
+  free  energy   TOTEN  =       -52.33877553 eV
+dir_POSCAR1999
+  free  energy   TOTEN  =       -52.22067016 eV
+dir_POSCAR2
+  free  energy   TOTEN  =       -10.05583681 eV
+dir_POSCAR20
+  free  energy   TOTEN  =       -22.01065825 eV
+dir_POSCAR200
+  free  energy   TOTEN  =       -35.43749628 eV
+dir_POSCAR2000
+  free  energy   TOTEN  =       -52.15595000 eV
+dir_POSCAR2001
+  free  energy   TOTEN  =       -52.15770632 eV
+dir_POSCAR2002
+  free  energy   TOTEN  =       -51.42530963 eV
+dir_POSCAR2003
+  free  energy   TOTEN  =       -51.63231023 eV
+dir_POSCAR2004
+  free  energy   TOTEN  =       -51.68423094 eV
+dir_POSCAR2005
+  free  energy   TOTEN  =       -51.96650839 eV
+dir_POSCAR2006
+  free  energy   TOTEN  =       -52.20558971 eV
+dir_POSCAR2007
+  free  energy   TOTEN  =       -52.34860956 eV
+dir_POSCAR2008
+  free  energy   TOTEN  =       -52.13114458 eV
+dir_POSCAR2009
+  free  energy   TOTEN  =       -51.71099627 eV
+dir_POSCAR201
+  free  energy   TOTEN  =       -35.48518447 eV
+dir_POSCAR2010
+  free  energy   TOTEN  =       -51.41394571 eV
+dir_POSCAR2011
+  free  energy   TOTEN  =       -51.90247414 eV
+dir_POSCAR2012
+  free  energy   TOTEN  =       -52.09921474 eV
+dir_POSCAR2013
+  free  energy   TOTEN  =       -52.22762938 eV
+dir_POSCAR2014
+  free  energy   TOTEN  =       -52.33550750 eV
+dir_POSCAR2015
+  free  energy   TOTEN  =       -51.96517108 eV
+dir_POSCAR2016
+  free  energy   TOTEN  =       -51.74455151 eV
+dir_POSCAR2017
+  free  energy   TOTEN  =       -52.29879651 eV
+dir_POSCAR2018
+  free  energy   TOTEN  =       -52.24147923 eV
+dir_POSCAR2019
+  free  energy   TOTEN  =       -53.52815928 eV
+dir_POSCAR202
+  free  energy   TOTEN  =       -35.96472033 eV
+dir_POSCAR2020
+  free  energy   TOTEN  =       -53.74564083 eV
+dir_POSCAR2021
+  free  energy   TOTEN  =       -53.98597760 eV
+dir_POSCAR2022
+  free  energy   TOTEN  =       -54.17419698 eV
+dir_POSCAR2023
+  free  energy   TOTEN  =       -54.52150334 eV
+dir_POSCAR2024
+  free  energy   TOTEN  =       -54.66378268 eV
+dir_POSCAR2025
+  free  energy   TOTEN  =       -54.31944724 eV
+dir_POSCAR2026
+  free  energy   TOTEN  =       -53.86844474 eV
+dir_POSCAR2027
+  free  energy   TOTEN  =       -53.56720064 eV
+dir_POSCAR2028
+  free  energy   TOTEN  =       -54.07835664 eV
+dir_POSCAR2029
+  free  energy   TOTEN  =       -54.30801809 eV
+dir_POSCAR203
+  free  energy   TOTEN  =       -37.51510028 eV
+dir_POSCAR2030
+  free  energy   TOTEN  =       -54.51636442 eV
+dir_POSCAR2031
+  free  energy   TOTEN  =       -54.59999934 eV
+dir_POSCAR2032
+  free  energy   TOTEN  =       -54.43758120 eV
+dir_POSCAR2033
+  free  energy   TOTEN  =       -54.28341025 eV
+dir_POSCAR2034
+  free  energy   TOTEN  =       -54.59521316 eV
+dir_POSCAR2035
+  free  energy   TOTEN  =       -54.62764650 eV
+dir_POSCAR2036
+  free  energy   TOTEN  =       -50.79191210 eV
+dir_POSCAR2037
+  free  energy   TOTEN  =       -51.45055975 eV
+dir_POSCAR2038
+  free  energy   TOTEN  =       -51.96966266 eV
+dir_POSCAR2039
+  free  energy   TOTEN  =       -51.75062943 eV
+dir_POSCAR204
+  free  energy   TOTEN  =       -37.79772315 eV
+dir_POSCAR2040
+  free  energy   TOTEN  =       -51.27989814 eV
+dir_POSCAR2041
+  free  energy   TOTEN  =       -51.28783764 eV
+dir_POSCAR2042
+  free  energy   TOTEN  =       -51.49848847 eV
+dir_POSCAR2043
+  free  energy   TOTEN  =       -51.75520771 eV
+dir_POSCAR2044
+  free  energy   TOTEN  =       -50.95937248 eV
+dir_POSCAR2045
+  free  energy   TOTEN  =       -51.99158301 eV
+dir_POSCAR2046
+  free  energy   TOTEN  =       -52.08666279 eV
+dir_POSCAR2047
+  free  energy   TOTEN  =       -52.01269032 eV
+dir_POSCAR2048
+  free  energy   TOTEN  =       -51.80529212 eV
+dir_POSCAR2049
+  free  energy   TOTEN  =       -52.18307250 eV
+dir_POSCAR205
+  free  energy   TOTEN  =       -38.16646831 eV
+dir_POSCAR2050
+  free  energy   TOTEN  =       -52.23783328 eV
+dir_POSCAR2051
+  free  energy   TOTEN  =       -51.28057028 eV
+dir_POSCAR2052
+  free  energy   TOTEN  =       -51.32822785 eV
+dir_POSCAR2053
+  free  energy   TOTEN  =       -51.37216569 eV
+dir_POSCAR2054
+  free  energy   TOTEN  =       -51.79778548 eV
+dir_POSCAR2055
+  free  energy   TOTEN  =       -52.15399012 eV
+dir_POSCAR2056
+  free  energy   TOTEN  =       -51.88702543 eV
+dir_POSCAR2057
+  free  energy   TOTEN  =       -51.63126700 eV
+dir_POSCAR2058
+  free  energy   TOTEN  =       -51.57886922 eV
+dir_POSCAR2059
+  free  energy   TOTEN  =       -51.76344390 eV
+dir_POSCAR206
+  free  energy   TOTEN  =       -38.28419249 eV
+dir_POSCAR2060
+  free  energy   TOTEN  =       -52.07252369 eV
+dir_POSCAR2061
+  free  energy   TOTEN  =       -51.43079249 eV
+dir_POSCAR2062
+  free  energy   TOTEN  =       -52.17046185 eV
+dir_POSCAR2063
+  free  energy   TOTEN  =       -52.26491542 eV
+dir_POSCAR2064
+  free  energy   TOTEN  =       -52.08714722 eV
+dir_POSCAR2065
+  free  energy   TOTEN  =       -51.99264722 eV
+dir_POSCAR2066
+  free  energy   TOTEN  =       -52.27898416 eV
+dir_POSCAR2067
+  free  energy   TOTEN  =       -52.19401175 eV
+dir_POSCAR2068
+  free  energy   TOTEN  =       -51.61590971 eV
+dir_POSCAR2069
+  free  energy   TOTEN  =       -51.68547165 eV
+dir_POSCAR207
+  free  energy   TOTEN  =       -37.61119563 eV
+dir_POSCAR2070
+  free  energy   TOTEN  =       -51.32929726 eV
+dir_POSCAR2071
+  free  energy   TOTEN  =       -51.77247788 eV
+dir_POSCAR2072
+  free  energy   TOTEN  =       -51.90861570 eV
+dir_POSCAR2073
+  free  energy   TOTEN  =       -51.38014558 eV
+dir_POSCAR2074
+  free  energy   TOTEN  =       -51.79533293 eV
+dir_POSCAR2075
+  free  energy   TOTEN  =       -52.07644695 eV
+dir_POSCAR2076
+  free  energy   TOTEN  =       -51.41279733 eV
+dir_POSCAR2077
+  free  energy   TOTEN  =       -51.92481914 eV
+dir_POSCAR2078
+  free  energy   TOTEN  =       -51.49255615 eV
+dir_POSCAR2079
+  free  energy   TOTEN  =       -51.90720385 eV
+dir_POSCAR208
+  free  energy   TOTEN  =       -38.18837411 eV
+dir_POSCAR2080
+  free  energy   TOTEN  =       -51.93671916 eV
+dir_POSCAR2081
+  free  energy   TOTEN  =       -52.05410589 eV
+dir_POSCAR2082
+  free  energy   TOTEN  =       -52.04832641 eV
+dir_POSCAR2083
+  free  energy   TOTEN  =       -52.15232305 eV
+dir_POSCAR2084
+  free  energy   TOTEN  =       -52.08921657 eV
+dir_POSCAR2085
+  free  energy   TOTEN  =       -52.04577545 eV
+dir_POSCAR2086
+  free  energy   TOTEN  =       -52.08409174 eV
+dir_POSCAR2087
+  free  energy   TOTEN  =       -53.47032461 eV
+dir_POSCAR2088
+  free  energy   TOTEN  =       -53.84790014 eV
+dir_POSCAR2089
+  free  energy   TOTEN  =       -54.19335031 eV
+dir_POSCAR209
+  free  energy   TOTEN  =       -36.01722746 eV
+dir_POSCAR2090
+  free  energy   TOTEN  =       -54.04532358 eV
+dir_POSCAR2091
+  free  energy   TOTEN  =       -54.11094016 eV
+dir_POSCAR2092
+  free  energy   TOTEN  =       -54.22206651 eV
+dir_POSCAR2093
+  free  energy   TOTEN  =       -53.99883074 eV
+dir_POSCAR2094
+  free  energy   TOTEN  =       -54.02720241 eV
+dir_POSCAR2095
+  free  energy   TOTEN  =       -53.60100682 eV
+dir_POSCAR2096
+  free  energy   TOTEN  =       -54.20580707 eV
+dir_POSCAR2097
+  free  energy   TOTEN  =       -54.32321207 eV
+dir_POSCAR2098
+  free  energy   TOTEN  =       -54.42201437 eV
+dir_POSCAR2099
+  free  energy   TOTEN  =       -54.33986934 eV
+dir_POSCAR21
+  free  energy   TOTEN  =       -22.13820692 eV
+dir_POSCAR210
+  free  energy   TOTEN  =       -36.03338520 eV
+dir_POSCAR2100
+  free  energy   TOTEN  =       -54.53719038 eV
+dir_POSCAR2101
+  free  energy   TOTEN  =       -54.51885928 eV
+dir_POSCAR2102
+  free  energy   TOTEN  =       -54.20627515 eV
+dir_POSCAR2103
+  free  energy   TOTEN  =       -54.24968856 eV
+dir_POSCAR2104
+  free  energy   TOTEN  =       -53.46599948 eV
+dir_POSCAR2105
+  free  energy   TOTEN  =       -53.94994385 eV
+dir_POSCAR2106
+  free  energy   TOTEN  =       -54.26733377 eV
+dir_POSCAR2107
+  free  energy   TOTEN  =       -54.22193895 eV
+dir_POSCAR2108
+  free  energy   TOTEN  =       -53.75898470 eV
+dir_POSCAR2109
+  free  energy   TOTEN  =       -53.72111925 eV
+dir_POSCAR211
+  free  energy   TOTEN  =       -35.98205968 eV
+dir_POSCAR2110
+  free  energy   TOTEN  =       -54.04113986 eV
+dir_POSCAR2111
+  free  energy   TOTEN  =       -54.17785776 eV
+dir_POSCAR2112
+  free  energy   TOTEN  =       -53.58156195 eV
+dir_POSCAR2113
+  free  energy   TOTEN  =       -54.38091900 eV
+dir_POSCAR2114
+  free  energy   TOTEN  =       -54.42067278 eV
+dir_POSCAR2115
+  free  energy   TOTEN  =       -54.32784460 eV
+dir_POSCAR2116
+  free  energy   TOTEN  =       -54.11651467 eV
+dir_POSCAR2117
+  free  energy   TOTEN  =       -54.40841997 eV
+dir_POSCAR2118
+  free  energy   TOTEN  =       -54.39944171 eV
+dir_POSCAR2119
+  free  energy   TOTEN  =       -53.71538820 eV
+dir_POSCAR212
+  free  energy   TOTEN  =       -35.93355450 eV
+dir_POSCAR2120
+  free  energy   TOTEN  =       -53.80682057 eV
+dir_POSCAR2121
+  free  energy   TOTEN  =       -55.76976790 eV
+dir_POSCAR2122
+  free  energy   TOTEN  =       -56.01760539 eV
+dir_POSCAR2123
+  free  energy   TOTEN  =       -56.31044127 eV
+dir_POSCAR2124
+  free  energy   TOTEN  =       -56.41940063 eV
+dir_POSCAR2125
+  free  energy   TOTEN  =       -56.43401373 eV
+dir_POSCAR2126
+  free  energy   TOTEN  =       -56.49520668 eV
+dir_POSCAR2127
+  free  energy   TOTEN  =       -56.40568611 eV
+dir_POSCAR2128
+  free  energy   TOTEN  =       -56.15030055 eV
+dir_POSCAR2129
+  free  energy   TOTEN  =       -55.84773767 eV
+dir_POSCAR213
+  free  energy   TOTEN  =       -35.92341224 eV
+dir_POSCAR2130
+  free  energy   TOTEN  =       -56.32053899 eV
+dir_POSCAR2131
+  free  energy   TOTEN  =       -56.51243013 eV
+dir_POSCAR2132
+  free  energy   TOTEN  =       -56.63547353 eV
+dir_POSCAR2133
+  free  energy   TOTEN  =       -56.56587111 eV
+dir_POSCAR2134
+  free  energy   TOTEN  =       -56.68998691 eV
+dir_POSCAR2135
+  free  energy   TOTEN  =       -56.61501204 eV
+dir_POSCAR2136
+  free  energy   TOTEN  =       -56.43658782 eV
+dir_POSCAR2137
+  free  energy   TOTEN  =       -56.47987570 eV
+dir_POSCAR2138
+  free  energy   TOTEN  =       -52.02539847 eV
+dir_POSCAR2139
+  free  energy   TOTEN  =       -51.96920306 eV
+dir_POSCAR214
+  free  energy   TOTEN  =       -36.07678241 eV
+dir_POSCAR2140
+  free  energy   TOTEN  =       -52.34958815 eV
+dir_POSCAR2141
+  free  energy   TOTEN  =       -52.16648963 eV
+dir_POSCAR2142
+  free  energy   TOTEN  =       -52.40296320 eV
+dir_POSCAR2143
+  free  energy   TOTEN  =       -52.20988625 eV
+dir_POSCAR2144
+  free  energy   TOTEN  =       -52.36421636 eV
+dir_POSCAR2145
+  free  energy   TOTEN  =       -52.34238515 eV
+dir_POSCAR2146
+  free  energy   TOTEN  =       -51.83825977 eV
+dir_POSCAR2147
+  free  energy   TOTEN  =       -52.18653611 eV
+dir_POSCAR2148
+  free  energy   TOTEN  =       -52.48115588 eV
+dir_POSCAR2149
+  free  energy   TOTEN  =       -52.25344040 eV
+dir_POSCAR215
+  free  energy   TOTEN  =       -38.03727912 eV
+dir_POSCAR2150
+  free  energy   TOTEN  =       -52.51940153 eV
+dir_POSCAR2151
+  free  energy   TOTEN  =       -52.47298113 eV
+dir_POSCAR2152
+  free  energy   TOTEN  =       -52.22650084 eV
+dir_POSCAR2153
+  free  energy   TOTEN  =       -52.40606377 eV
+dir_POSCAR2154
+  free  energy   TOTEN  =       -52.15438972 eV
+dir_POSCAR2155
+  free  energy   TOTEN  =       -51.97474353 eV
+dir_POSCAR2156
+  free  energy   TOTEN  =       -52.03691590 eV
+dir_POSCAR2157
+  free  energy   TOTEN  =       -51.95105398 eV
+dir_POSCAR2158
+  free  energy   TOTEN  =       -51.94868788 eV
+dir_POSCAR2159
+  free  energy   TOTEN  =       -52.19012138 eV
+dir_POSCAR216
+  free  energy   TOTEN  =       -38.17621544 eV
+dir_POSCAR2160
+  free  energy   TOTEN  =       -52.28014702 eV
+dir_POSCAR2161
+  free  energy   TOTEN  =       -52.13031859 eV
+dir_POSCAR2162
+  free  energy   TOTEN  =       -52.10501615 eV
+dir_POSCAR2163
+  free  energy   TOTEN  =       -51.91406679 eV
+dir_POSCAR2164
+  free  energy   TOTEN  =       -52.04270137 eV
+dir_POSCAR2165
+  free  energy   TOTEN  =       -52.15051011 eV
+dir_POSCAR2166
+  free  energy   TOTEN  =       -52.12409870 eV
+dir_POSCAR2167
+  free  energy   TOTEN  =       -52.37404517 eV
+dir_POSCAR2168
+  free  energy   TOTEN  =       -52.04395356 eV
+dir_POSCAR2169
+  free  energy   TOTEN  =       -51.80492458 eV
+dir_POSCAR217
+  free  energy   TOTEN  =       -38.24890519 eV
+dir_POSCAR2170
+  free  energy   TOTEN  =       -52.31153539 eV
+dir_POSCAR2171
+  free  energy   TOTEN  =       -52.18739439 eV
+dir_POSCAR2172
+  free  energy   TOTEN  =       -54.05814697 eV
+dir_POSCAR2173
+  free  energy   TOTEN  =       -54.09417621 eV
+dir_POSCAR2174
+  free  energy   TOTEN  =       -54.26961072 eV
+dir_POSCAR2175
+  free  energy   TOTEN  =       -54.46481007 eV
+dir_POSCAR2176
+  free  energy   TOTEN  =       -54.75219808 eV
+dir_POSCAR2177
+  free  energy   TOTEN  =       -54.72326765 eV
+dir_POSCAR2178
+  free  energy   TOTEN  =       -54.66473315 eV
+dir_POSCAR2179
+  free  energy   TOTEN  =       -54.27876109 eV
+dir_POSCAR218
+  free  energy   TOTEN  =       -38.28625302 eV
+dir_POSCAR2180
+  free  energy   TOTEN  =       -53.96420751 eV
+dir_POSCAR2181
+  free  energy   TOTEN  =       -54.29138782 eV
+dir_POSCAR2182
+  free  energy   TOTEN  =       -54.49544337 eV
+dir_POSCAR2183
+  free  energy   TOTEN  =       -54.59544466 eV
+dir_POSCAR2184
+  free  energy   TOTEN  =       -54.79959118 eV
+dir_POSCAR2185
+  free  energy   TOTEN  =       -54.55717017 eV
+dir_POSCAR2186
+  free  energy   TOTEN  =       -54.35915643 eV
+dir_POSCAR2187
+  free  energy   TOTEN  =       -54.78342443 eV
+dir_POSCAR2188
+  free  energy   TOTEN  =       -54.69186886 eV
+dir_POSCAR2189
+  free  energy   TOTEN  =       -54.00680858 eV
+dir_POSCAR219
+  free  energy   TOTEN  =       -38.00496003 eV
+dir_POSCAR2190
+  free  energy   TOTEN  =       -54.20350836 eV
+dir_POSCAR2191
+  free  energy   TOTEN  =       -54.23190411 eV
+dir_POSCAR2192
+  free  energy   TOTEN  =       -54.27306262 eV
+dir_POSCAR2193
+  free  energy   TOTEN  =       -54.30122174 eV
+dir_POSCAR2194
+  free  energy   TOTEN  =       -54.33484045 eV
+dir_POSCAR2195
+  free  energy   TOTEN  =       -54.32796275 eV
+dir_POSCAR2196
+  free  energy   TOTEN  =       -54.26094436 eV
+dir_POSCAR2197
+  free  energy   TOTEN  =       -54.00465962 eV
+dir_POSCAR2198
+  free  energy   TOTEN  =       -54.37314837 eV
+dir_POSCAR2199
+  free  energy   TOTEN  =       -54.43592279 eV
+dir_POSCAR22
+  free  energy   TOTEN  =       -22.25591321 eV
+dir_POSCAR220
+  free  energy   TOTEN  =       -38.37477188 eV
+dir_POSCAR2200
+  free  energy   TOTEN  =       -54.39882803 eV
+dir_POSCAR2201
+  free  energy   TOTEN  =       -54.46503383 eV
+dir_POSCAR2202
+  free  energy   TOTEN  =       -54.33991570 eV
+dir_POSCAR2203
+  free  energy   TOTEN  =       -54.11128405 eV
+dir_POSCAR2204
+  free  energy   TOTEN  =       -54.33345703 eV
+dir_POSCAR2205
+  free  energy   TOTEN  =       -54.36288719 eV
+dir_POSCAR2206
+  free  energy   TOTEN  =       -53.99152401 eV
+dir_POSCAR2207
+  free  energy   TOTEN  =       -54.21394870 eV
+dir_POSCAR2208
+  free  energy   TOTEN  =       -54.59591025 eV
+dir_POSCAR2209
+  free  energy   TOTEN  =       -54.29916476 eV
+dir_POSCAR221
+  free  energy   TOTEN  =       -37.97430705 eV
+dir_POSCAR2210
+  free  energy   TOTEN  =       -54.25674626 eV
+dir_POSCAR2211
+  free  energy   TOTEN  =       -54.22117331 eV
+dir_POSCAR2212
+  free  energy   TOTEN  =       -54.24533748 eV
+dir_POSCAR2213
+  free  energy   TOTEN  =       -54.52659627 eV
+dir_POSCAR2214
+  free  energy   TOTEN  =       -53.98012946 eV
+dir_POSCAR2215
+  free  energy   TOTEN  =       -54.58240413 eV
+dir_POSCAR2216
+  free  energy   TOTEN  =       -54.63301376 eV
+dir_POSCAR2217
+  free  energy   TOTEN  =       -54.49467960 eV
+dir_POSCAR2218
+  free  energy   TOTEN  =       -54.46130054 eV
+dir_POSCAR2219
+  free  energy   TOTEN  =       -54.72464592 eV
+dir_POSCAR222
+  free  energy   TOTEN  =       -38.14273774 eV
+dir_POSCAR2220
+  free  energy   TOTEN  =       -54.68883077 eV
+dir_POSCAR2221
+  free  energy   TOTEN  =       -54.30501360 eV
+dir_POSCAR2222
+  free  energy   TOTEN  =       -54.21959470 eV
+dir_POSCAR2223
+  free  energy   TOTEN  =       -56.24915652 eV
+dir_POSCAR2224
+  free  energy   TOTEN  =       -56.33261226 eV
+dir_POSCAR2225
+  free  energy   TOTEN  =       -56.46233113 eV
+dir_POSCAR2226
+  free  energy   TOTEN  =       -56.63035258 eV
+dir_POSCAR2227
+  free  energy   TOTEN  =       -56.84071314 eV
+dir_POSCAR2228
+  free  energy   TOTEN  =       -56.89201678 eV
+dir_POSCAR2229
+  free  energy   TOTEN  =       -56.73681765 eV
+dir_POSCAR223
+  free  energy   TOTEN  =       -38.30040715 eV
+dir_POSCAR2230
+  free  energy   TOTEN  =       -56.42070833 eV
+dir_POSCAR2231
+  free  energy   TOTEN  =       -56.20167634 eV
+dir_POSCAR2232
+  free  energy   TOTEN  =       -56.52939635 eV
+dir_POSCAR2233
+  free  energy   TOTEN  =       -56.65421455 eV
+dir_POSCAR2234
+  free  energy   TOTEN  =       -56.75988886 eV
+dir_POSCAR2235
+  free  energy   TOTEN  =       -56.84258133 eV
+dir_POSCAR2236
+  free  energy   TOTEN  =       -56.73058715 eV
+dir_POSCAR2237
+  free  energy   TOTEN  =       -56.56555065 eV
+dir_POSCAR2238
+  free  energy   TOTEN  =       -56.87503754 eV
+dir_POSCAR2239
+  free  energy   TOTEN  =       -56.89606831 eV
+dir_POSCAR224
+  free  energy   TOTEN  =       -37.95823951 eV
+dir_POSCAR2240
+  free  energy   TOTEN  =       -53.94723104 eV
+dir_POSCAR2241
+  free  energy   TOTEN  =       -54.16963304 eV
+dir_POSCAR2242
+  free  energy   TOTEN  =       -54.29225321 eV
+dir_POSCAR2243
+  free  energy   TOTEN  =       -53.91757901 eV
+dir_POSCAR2244
+  free  energy   TOTEN  =       -54.23851456 eV
+dir_POSCAR2245
+  free  energy   TOTEN  =       -54.47355113 eV
+dir_POSCAR2246
+  free  energy   TOTEN  =       -53.96149657 eV
+dir_POSCAR2247
+  free  energy   TOTEN  =       -54.28590772 eV
+dir_POSCAR2248
+  free  energy   TOTEN  =       -54.04320848 eV
+dir_POSCAR2249
+  free  energy   TOTEN  =       -54.31600958 eV
+dir_POSCAR225
+  free  energy   TOTEN  =       -38.04075160 eV
+dir_POSCAR2250
+  free  energy   TOTEN  =       -54.30820239 eV
+dir_POSCAR2251
+  free  energy   TOTEN  =       -54.39780518 eV
+dir_POSCAR2252
+  free  energy   TOTEN  =       -54.45209833 eV
+dir_POSCAR2253
+  free  energy   TOTEN  =       -54.46430644 eV
+dir_POSCAR2254
+  free  energy   TOTEN  =       -54.36912774 eV
+dir_POSCAR2255
+  free  energy   TOTEN  =       -54.45873721 eV
+dir_POSCAR2256
+  free  energy   TOTEN  =       -54.50789603 eV
+dir_POSCAR2257
+  free  energy   TOTEN  =       -56.19216324 eV
+dir_POSCAR2258
+  free  energy   TOTEN  =       -56.34060142 eV
+dir_POSCAR2259
+  free  energy   TOTEN  =       -56.47315327 eV
+dir_POSCAR226
+  free  energy   TOTEN  =       -38.31637301 eV
+dir_POSCAR2260
+  free  energy   TOTEN  =       -56.36629209 eV
+dir_POSCAR2261
+  free  energy   TOTEN  =       -56.59351133 eV
+dir_POSCAR2262
+  free  energy   TOTEN  =       -56.74700388 eV
+dir_POSCAR2263
+  free  energy   TOTEN  =       -56.41679095 eV
+dir_POSCAR2264
+  free  energy   TOTEN  =       -56.39207265 eV
+dir_POSCAR2265
+  free  energy   TOTEN  =       -56.24928525 eV
+dir_POSCAR2266
+  free  energy   TOTEN  =       -56.49953943 eV
+dir_POSCAR2267
+  free  energy   TOTEN  =       -56.56486591 eV
+dir_POSCAR2268
+  free  energy   TOTEN  =       -56.65844516 eV
+dir_POSCAR2269
+  free  energy   TOTEN  =       -56.70397208 eV
+dir_POSCAR227
+  free  energy   TOTEN  =       -40.25162370 eV
+dir_POSCAR2270
+  free  energy   TOTEN  =       -56.68427307 eV
+dir_POSCAR2271
+  free  energy   TOTEN  =       -56.57063599 eV
+dir_POSCAR2272
+  free  energy   TOTEN  =       -56.70898901 eV
+dir_POSCAR2273
+  free  energy   TOTEN  =       -56.78933861 eV
+dir_POSCAR2274
+  free  energy   TOTEN  =       -56.17178340 eV
+dir_POSCAR2275
+  free  energy   TOTEN  =       -56.43179897 eV
+dir_POSCAR2276
+  free  energy   TOTEN  =       -56.66755808 eV
+dir_POSCAR2277
+  free  energy   TOTEN  =       -56.50130411 eV
+dir_POSCAR2278
+  free  energy   TOTEN  =       -56.39308755 eV
+dir_POSCAR2279
+  free  energy   TOTEN  =       -56.43854574 eV
+dir_POSCAR228
+  free  energy   TOTEN  =       -40.36276597 eV
+dir_POSCAR2280
+  free  energy   TOTEN  =       -56.42581116 eV
+dir_POSCAR2281
+  free  energy   TOTEN  =       -56.58633827 eV
+dir_POSCAR2282
+  free  energy   TOTEN  =       -56.23438200 eV
+dir_POSCAR2283
+  free  energy   TOTEN  =       -56.70806841 eV
+dir_POSCAR2284
+  free  energy   TOTEN  =       -56.68236145 eV
+dir_POSCAR2285
+  free  energy   TOTEN  =       -56.70038494 eV
+dir_POSCAR2286
+  free  energy   TOTEN  =       -56.58653327 eV
+dir_POSCAR2287
+  free  energy   TOTEN  =       -56.79575634 eV
+dir_POSCAR2288
+  free  energy   TOTEN  =       -56.84643655 eV
+dir_POSCAR2289
+  free  energy   TOTEN  =       -56.45959605 eV
+dir_POSCAR229
+  free  energy   TOTEN  =       -40.47909240 eV
+dir_POSCAR2290
+  free  energy   TOTEN  =       -56.47819788 eV
+dir_POSCAR2291
+  free  energy   TOTEN  =       -58.50711336 eV
+dir_POSCAR2292
+  free  energy   TOTEN  =       -58.60618068 eV
+dir_POSCAR2293
+  free  energy   TOTEN  =       -58.71676934 eV
+dir_POSCAR2294
+  free  energy   TOTEN  =       -58.71666130 eV
+dir_POSCAR2295
+  free  energy   TOTEN  =       -58.73674864 eV
+dir_POSCAR2296
+  free  energy   TOTEN  =       -58.78430424 eV
+dir_POSCAR2297
+  free  energy   TOTEN  =       -58.71654147 eV
+dir_POSCAR2298
+  free  energy   TOTEN  =       -58.65603619 eV
+dir_POSCAR2299
+  free  energy   TOTEN  =       -58.52215115 eV
+dir_POSCAR23
+  free  energy   TOTEN  =       -22.04027952 eV
+dir_POSCAR230
+  free  energy   TOTEN  =       -40.42214211 eV
+dir_POSCAR2300
+  free  energy   TOTEN  =       -58.73289576 eV
+dir_POSCAR2301
+  free  energy   TOTEN  =       -58.77977989 eV
+dir_POSCAR2302
+  free  energy   TOTEN  =       -58.81927473 eV
+dir_POSCAR2303
+  free  energy   TOTEN  =       -58.79947063 eV
+dir_POSCAR2304
+  free  energy   TOTEN  =       -58.84180799 eV
+dir_POSCAR2305
+  free  energy   TOTEN  =       -58.80045441 eV
+dir_POSCAR2306
+  free  energy   TOTEN  =       -58.77184207 eV
+dir_POSCAR2307
+  free  energy   TOTEN  =       -58.79456152 eV
+dir_POSCAR2308
+  free  energy   TOTEN  =       -39.78166338 eV
+dir_POSCAR2309
+  free  energy   TOTEN  =       -42.17710332 eV
+dir_POSCAR231
+  free  energy   TOTEN  =       -40.28691090 eV
+dir_POSCAR2310
+  free  energy   TOTEN  =       -42.46385896 eV
+dir_POSCAR2311
+  free  energy   TOTEN  =       -44.68821888 eV
+dir_POSCAR2312
+  free  energy   TOTEN  =       -44.65253754 eV
+dir_POSCAR2313
+  free  energy   TOTEN  =       -47.08442564 eV
+dir_POSCAR2314
+  free  energy   TOTEN  =       -45.00821174 eV
+dir_POSCAR2315
+  free  energy   TOTEN  =       -47.11382365 eV
+dir_POSCAR2316
+  free  energy   TOTEN  =       -46.96749416 eV
+dir_POSCAR2317
+  free  energy   TOTEN  =       -49.42903668 eV
+dir_POSCAR2318
+  free  energy   TOTEN  =       -44.94387321 eV
+dir_POSCAR2319
+  free  energy   TOTEN  =       -47.24273398 eV
+dir_POSCAR232
+  free  energy   TOTEN  =       -40.51217619 eV
+dir_POSCAR2320
+  free  energy   TOTEN  =       -47.28772348 eV
+dir_POSCAR2321
+  free  energy   TOTEN  =       -47.19470793 eV
+dir_POSCAR2322
+  free  energy   TOTEN  =       -49.57649865 eV
+dir_POSCAR2323
+  free  energy   TOTEN  =       -49.48438324 eV
+dir_POSCAR2324
+  free  energy   TOTEN  =       -51.79202606 eV
+dir_POSCAR2325
+  free  energy   TOTEN  =       -47.39264251 eV
+dir_POSCAR2326
+  free  energy   TOTEN  =       -49.64649839 eV
+dir_POSCAR2327
+  free  energy   TOTEN  =       -47.51843353 eV
+dir_POSCAR2328
+  free  energy   TOTEN  =       -49.75544006 eV
+dir_POSCAR2329
+  free  energy   TOTEN  =       -49.55295071 eV
+dir_POSCAR233
+  free  energy   TOTEN  =       -28.70605220 eV
+dir_POSCAR2330
+  free  energy   TOTEN  =       -51.93789747 eV
+dir_POSCAR2331
+  free  energy   TOTEN  =       -49.76852098 eV
+dir_POSCAR2332
+  free  energy   TOTEN  =       -49.70270887 eV
+dir_POSCAR2333
+  free  energy   TOTEN  =       -51.95253330 eV
+dir_POSCAR2334
+  free  energy   TOTEN  =       -52.05160739 eV
+dir_POSCAR2335
+  free  energy   TOTEN  =       -54.19365750 eV
+dir_POSCAR2336
+  free  energy   TOTEN  =       -51.99796146 eV
+dir_POSCAR2337
+  free  energy   TOTEN  =       -52.12242822 eV
+dir_POSCAR2338
+  free  energy   TOTEN  =       -52.09511497 eV
+dir_POSCAR2339
+  free  energy   TOTEN  =       -54.31656055 eV
+dir_POSCAR234
+  free  energy   TOTEN  =       -31.27090759 eV
+dir_POSCAR2340
+  free  energy   TOTEN  =       -54.42200796 eV
+dir_POSCAR2341
+  free  energy   TOTEN  =       -56.54585120 eV
+dir_POSCAR2342
+  free  energy   TOTEN  =       -52.13867520 eV
+dir_POSCAR2343
+  free  energy   TOTEN  =       -54.43554982 eV
+dir_POSCAR2344
+  free  energy   TOTEN  =       -56.67494067 eV
+dir_POSCAR2345
+  free  energy   TOTEN  =       -58.79068074 eV
+dir_POSCAR235
+  free  energy   TOTEN  =       -33.75803663 eV
+dir_POSCAR236
+  free  energy   TOTEN  =       -33.60247129 eV
+dir_POSCAR237
+  free  energy   TOTEN  =       -35.99340381 eV
+dir_POSCAR238
+  free  energy   TOTEN  =       -36.12272978 eV
+dir_POSCAR239
+  free  energy   TOTEN  =       -38.32514309 eV
+dir_POSCAR24
+  free  energy   TOTEN  =       -22.25549623 eV
+dir_POSCAR240
+  free  energy   TOTEN  =       -40.51335178 eV
+dir_POSCAR241
+  free  energy   TOTEN  =       -31.77419535 eV
+dir_POSCAR242
+  free  energy   TOTEN  =       -32.10510187 eV
+dir_POSCAR243
+  free  energy   TOTEN  =       -32.16018276 eV
+dir_POSCAR244
+  free  energy   TOTEN  =       -32.16371475 eV
+dir_POSCAR245
+  free  energy   TOTEN  =       -32.13112273 eV
+dir_POSCAR246
+  free  energy   TOTEN  =       -31.83506331 eV
+dir_POSCAR247
+  free  energy   TOTEN  =       -32.37902267 eV
+dir_POSCAR248
+  free  energy   TOTEN  =       -32.40613079 eV
+dir_POSCAR249
+  free  energy   TOTEN  =       -33.41503037 eV
+dir_POSCAR25
+  free  energy   TOTEN  =       -17.53695412 eV
+dir_POSCAR250
+  free  energy   TOTEN  =       -33.99920183 eV
+dir_POSCAR251
+  free  energy   TOTEN  =       -34.57953376 eV
+dir_POSCAR252
+  free  energy   TOTEN  =       -34.64624380 eV
+dir_POSCAR253
+  free  energy   TOTEN  =       -34.26118594 eV
+dir_POSCAR254
+  free  energy   TOTEN  =       -33.56348822 eV
+dir_POSCAR255
+  free  energy   TOTEN  =       -34.59571761 eV
+dir_POSCAR256
+  free  energy   TOTEN  =       -34.94070695 eV
+dir_POSCAR257
+  free  energy   TOTEN  =       -34.35067940 eV
+dir_POSCAR258
+  free  energy   TOTEN  =       -34.55146225 eV
+dir_POSCAR259
+  free  energy   TOTEN  =       -34.66573208 eV
+dir_POSCAR26
+  free  energy   TOTEN  =       -22.41170624 eV
+dir_POSCAR260
+  free  energy   TOTEN  =       -35.01951633 eV
+dir_POSCAR261
+  free  energy   TOTEN  =       -34.62630430 eV
+dir_POSCAR262
+  free  energy   TOTEN  =       -34.35928721 eV
+dir_POSCAR263
+  free  energy   TOTEN  =       -34.85270690 eV
+dir_POSCAR264
+  free  energy   TOTEN  =       -34.96605486 eV
+dir_POSCAR265
+  free  energy   TOTEN  =       -35.56476056 eV
+dir_POSCAR266
+  free  energy   TOTEN  =       -36.15365785 eV
+dir_POSCAR267
+  free  energy   TOTEN  =       -36.92928069 eV
+dir_POSCAR268
+  free  energy   TOTEN  =       -37.44257323 eV
+dir_POSCAR269
+  free  energy   TOTEN  =       -36.49688623 eV
+dir_POSCAR27
+  free  energy   TOTEN  =       -17.70439569 eV
+dir_POSCAR270
+  free  energy   TOTEN  =       -35.71420154 eV
+dir_POSCAR271
+  free  energy   TOTEN  =       -37.00880757 eV
+dir_POSCAR272
+  free  energy   TOTEN  =       -37.42376006 eV
+dir_POSCAR273
+  free  energy   TOTEN  =       -34.39517300 eV
+dir_POSCAR274
+  free  energy   TOTEN  =       -34.83962235 eV
+dir_POSCAR275
+  free  energy   TOTEN  =       -34.68712548 eV
+dir_POSCAR276
+  free  energy   TOTEN  =       -34.64159988 eV
+dir_POSCAR277
+  free  energy   TOTEN  =       -34.89067756 eV
+dir_POSCAR278
+  free  energy   TOTEN  =       -34.46183888 eV
+dir_POSCAR279
+  free  energy   TOTEN  =       -35.05567209 eV
+dir_POSCAR28
+  free  energy   TOTEN  =       -22.39526619 eV
+dir_POSCAR280
+  free  energy   TOTEN  =       -35.11182548 eV
+dir_POSCAR281
+  free  energy   TOTEN  =       -36.38405329 eV
+dir_POSCAR282
+  free  energy   TOTEN  =       -36.73947401 eV
+dir_POSCAR283
+  free  energy   TOTEN  =       -37.04275737 eV
+dir_POSCAR284
+  free  energy   TOTEN  =       -37.41693364 eV
+dir_POSCAR285
+  free  energy   TOTEN  =       -36.92899301 eV
+dir_POSCAR286
+  free  energy   TOTEN  =       -36.46728274 eV
+dir_POSCAR287
+  free  energy   TOTEN  =       -37.13041607 eV
+dir_POSCAR288
+  free  energy   TOTEN  =       -37.44195021 eV
+dir_POSCAR289
+  free  energy   TOTEN  =       -38.09120270 eV
+dir_POSCAR29
+  free  energy   TOTEN  =       -20.80934385 eV
+dir_POSCAR290
+  free  energy   TOTEN  =       -38.56572883 eV
+dir_POSCAR291
+  free  energy   TOTEN  =       -39.23308220 eV
+dir_POSCAR292
+  free  energy   TOTEN  =       -40.05550162 eV
+dir_POSCAR293
+  free  energy   TOTEN  =       -38.84171455 eV
+dir_POSCAR294
+  free  energy   TOTEN  =       -38.21171682 eV
+dir_POSCAR295
+  free  energy   TOTEN  =       -39.36507653 eV
+dir_POSCAR296
+  free  energy   TOTEN  =       -39.77565591 eV
+dir_POSCAR297
+  free  energy   TOTEN  =       -36.42439541 eV
+dir_POSCAR298
+  free  energy   TOTEN  =       -37.06634441 eV
+dir_POSCAR299
+  free  energy   TOTEN  =       -37.30769983 eV
+dir_POSCAR3
+  free  energy   TOTEN  =        -9.98250885 eV
+dir_POSCAR30
+  free  energy   TOTEN  =       -21.07593959 eV
+dir_POSCAR300
+  free  energy   TOTEN  =       -36.79215212 eV
+dir_POSCAR301
+  free  energy   TOTEN  =       -37.28696133 eV
+dir_POSCAR302
+  free  energy   TOTEN  =       -36.54863832 eV
+dir_POSCAR303
+  free  energy   TOTEN  =       -37.44559665 eV
+dir_POSCAR304
+  free  energy   TOTEN  =       -37.46301275 eV
+dir_POSCAR305
+  free  energy   TOTEN  =       -37.22444253 eV
+dir_POSCAR306
+  free  energy   TOTEN  =       -37.29487248 eV
+dir_POSCAR307
+  free  energy   TOTEN  =       -37.47149095 eV
+dir_POSCAR308
+  free  energy   TOTEN  =       -37.51003774 eV
+dir_POSCAR309
+  free  energy   TOTEN  =       -37.45334060 eV
+dir_POSCAR31
+  free  energy   TOTEN  =       -21.12584079 eV
+dir_POSCAR310
+  free  energy   TOTEN  =       -37.12784823 eV
+dir_POSCAR311
+  free  energy   TOTEN  =       -37.50491672 eV
+dir_POSCAR312
+  free  energy   TOTEN  =       -37.59573369 eV
+dir_POSCAR313
+  free  energy   TOTEN  =       -38.78533373 eV
+dir_POSCAR314
+  free  energy   TOTEN  =       -39.16858329 eV
+dir_POSCAR315
+  free  energy   TOTEN  =       -39.63703101 eV
+dir_POSCAR316
+  free  energy   TOTEN  =       -39.79526416 eV
+dir_POSCAR317
+  free  energy   TOTEN  =       -39.45049326 eV
+dir_POSCAR318
+  free  energy   TOTEN  =       -38.84098488 eV
+dir_POSCAR319
+  free  energy   TOTEN  =       -39.66574669 eV
+dir_POSCAR32
+  free  energy   TOTEN  =       -20.85059643 eV
+dir_POSCAR320
+  free  energy   TOTEN  =       -39.93165424 eV
+dir_POSCAR321
+  free  energy   TOTEN  =       -38.74954270 eV
+dir_POSCAR322
+  free  energy   TOTEN  =       -39.24664615 eV
+dir_POSCAR323
+  free  energy   TOTEN  =       -39.53583106 eV
+dir_POSCAR324
+  free  energy   TOTEN  =       -39.41174167 eV
+dir_POSCAR325
+  free  energy   TOTEN  =       -39.47054240 eV
+dir_POSCAR326
+  free  energy   TOTEN  =       -38.89943905 eV
+dir_POSCAR327
+  free  energy   TOTEN  =       -39.55752978 eV
+dir_POSCAR328
+  free  energy   TOTEN  =       -39.70670187 eV
+dir_POSCAR329
+  free  energy   TOTEN  =       -40.80368314 eV
+dir_POSCAR33
+  free  energy   TOTEN  =       -22.84053394 eV
+dir_POSCAR330
+  free  energy   TOTEN  =       -41.20280973 eV
+dir_POSCAR331
+  free  energy   TOTEN  =       -41.73516032 eV
+dir_POSCAR332
+  free  energy   TOTEN  =       -42.28895436 eV
+dir_POSCAR333
+  free  energy   TOTEN  =       -41.42515303 eV
+dir_POSCAR334
+  free  energy   TOTEN  =       -40.91784568 eV
+dir_POSCAR335
+  free  energy   TOTEN  =       -41.75917615 eV
+dir_POSCAR336
+  free  energy   TOTEN  =       -42.08130046 eV
+dir_POSCAR337
+  free  energy   TOTEN  =       -37.25481991 eV
+dir_POSCAR338
+  free  energy   TOTEN  =       -37.47445437 eV
+dir_POSCAR339
+  free  energy   TOTEN  =       -37.19189199 eV
+dir_POSCAR34
+  free  energy   TOTEN  =       -23.31236633 eV
+dir_POSCAR340
+  free  energy   TOTEN  =       -37.39353121 eV
+dir_POSCAR341
+  free  energy   TOTEN  =       -37.52377132 eV
+dir_POSCAR342
+  free  energy   TOTEN  =       -37.24431160 eV
+dir_POSCAR343
+  free  energy   TOTEN  =       -37.54471755 eV
+dir_POSCAR344
+  free  energy   TOTEN  =       -37.58737486 eV
+dir_POSCAR345
+  free  energy   TOTEN  =       -38.81536656 eV
+dir_POSCAR346
+  free  energy   TOTEN  =       -39.38626322 eV
+dir_POSCAR347
+  free  energy   TOTEN  =       -39.62043698 eV
+dir_POSCAR348
+  free  energy   TOTEN  =       -39.44785686 eV
+dir_POSCAR349
+  free  energy   TOTEN  =       -39.60055034 eV
+dir_POSCAR35
+  free  energy   TOTEN  =       -23.73728116 eV
+dir_POSCAR350
+  free  energy   TOTEN  =       -38.92735040 eV
+dir_POSCAR351
+  free  energy   TOTEN  =       -39.83250238 eV
+dir_POSCAR352
+  free  energy   TOTEN  =       -39.86898821 eV
+dir_POSCAR353
+  free  energy   TOTEN  =       -39.50201739 eV
+dir_POSCAR354
+  free  energy   TOTEN  =       -39.67242065 eV
+dir_POSCAR355
+  free  energy   TOTEN  =       -39.75668333 eV
+dir_POSCAR356
+  free  energy   TOTEN  =       -39.75942029 eV
+dir_POSCAR357
+  free  energy   TOTEN  =       -39.84405715 eV
+dir_POSCAR358
+  free  energy   TOTEN  =       -39.47958909 eV
+dir_POSCAR359
+  free  energy   TOTEN  =       -39.81076277 eV
+dir_POSCAR36
+  free  energy   TOTEN  =       -22.94201898 eV
+dir_POSCAR360
+  free  energy   TOTEN  =       -39.96356706 eV
+dir_POSCAR361
+  free  energy   TOTEN  =       -39.49410622 eV
+dir_POSCAR362
+  free  energy   TOTEN  =       -39.62255992 eV
+dir_POSCAR363
+  free  energy   TOTEN  =       -39.52362913 eV
+dir_POSCAR364
+  free  energy   TOTEN  =       -40.00725559 eV
+dir_POSCAR365
+  free  energy   TOTEN  =       -39.62667663 eV
+dir_POSCAR366
+  free  energy   TOTEN  =       -39.50138494 eV
+dir_POSCAR367
+  free  energy   TOTEN  =       -39.69822112 eV
+dir_POSCAR368
+  free  energy   TOTEN  =       -39.86334903 eV
+dir_POSCAR369
+  free  energy   TOTEN  =       -41.42179318 eV
+dir_POSCAR37
+  free  energy   TOTEN  =       -23.65142224 eV
+dir_POSCAR370
+  free  energy   TOTEN  =       -41.66955161 eV
+dir_POSCAR371
+  free  energy   TOTEN  =       -41.91416259 eV
+dir_POSCAR372
+  free  energy   TOTEN  =       -42.29119575 eV
+dir_POSCAR373
+  free  energy   TOTEN  =       -41.80190083 eV
+dir_POSCAR374
+  free  energy   TOTEN  =       -41.45676074 eV
+dir_POSCAR375
+  free  energy   TOTEN  =       -42.03115396 eV
+dir_POSCAR376
+  free  energy   TOTEN  =       -42.22200460 eV
+dir_POSCAR377
+  free  energy   TOTEN  =       -41.36093898 eV
+dir_POSCAR378
+  free  energy   TOTEN  =       -41.79344299 eV
+dir_POSCAR379
+  free  energy   TOTEN  =       -42.03872286 eV
+dir_POSCAR38
+  free  energy   TOTEN  =       -23.71695916 eV
+dir_POSCAR380
+  free  energy   TOTEN  =       -41.64769729 eV
+dir_POSCAR381
+  free  energy   TOTEN  =       -42.02010602 eV
+dir_POSCAR382
+  free  energy   TOTEN  =       -41.48254604 eV
+dir_POSCAR383
+  free  energy   TOTEN  =       -42.05917941 eV
+dir_POSCAR384
+  free  energy   TOTEN  =       -42.14703516 eV
+dir_POSCAR385
+  free  energy   TOTEN  =       -43.59511711 eV
+dir_POSCAR386
+  free  energy   TOTEN  =       -43.86695526 eV
+dir_POSCAR387
+  free  energy   TOTEN  =       -44.16095386 eV
+dir_POSCAR388
+  free  energy   TOTEN  =       -44.37353827 eV
+dir_POSCAR389
+  free  energy   TOTEN  =       -43.99209438 eV
+dir_POSCAR39
+  free  energy   TOTEN  =       -23.52785489 eV
+dir_POSCAR390
+  free  energy   TOTEN  =       -43.69228788 eV
+dir_POSCAR391
+  free  energy   TOTEN  =       -44.18768613 eV
+dir_POSCAR392
+  free  energy   TOTEN  =       -44.37039312 eV
+dir_POSCAR393
+  free  energy   TOTEN  =       -41.99965827 eV
+dir_POSCAR394
+  free  energy   TOTEN  =       -42.00891865 eV
+dir_POSCAR395
+  free  energy   TOTEN  =       -42.29574179 eV
+dir_POSCAR396
+  free  energy   TOTEN  =       -42.33503001 eV
+dir_POSCAR397
+  free  energy   TOTEN  =       -42.30557969 eV
+dir_POSCAR398
+  free  energy   TOTEN  =       -41.88047598 eV
+dir_POSCAR399
+  free  energy   TOTEN  =       -42.22094518 eV
+dir_POSCAR4
+  free  energy   TOTEN  =       -13.60879384 eV
+dir_POSCAR40
+  free  energy   TOTEN  =       -23.61666391 eV
+dir_POSCAR400
+  free  energy   TOTEN  =       -42.42956654 eV
+dir_POSCAR401
+  free  energy   TOTEN  =       -41.94960002 eV
+dir_POSCAR402
+  free  energy   TOTEN  =       -42.03709997 eV
+dir_POSCAR403
+  free  energy   TOTEN  =       -41.98226078 eV
+dir_POSCAR404
+  free  energy   TOTEN  =       -42.18795904 eV
+dir_POSCAR405
+  free  energy   TOTEN  =       -42.02609187 eV
+dir_POSCAR406
+  free  energy   TOTEN  =       -41.95750111 eV
+dir_POSCAR407
+  free  energy   TOTEN  =       -42.03112325 eV
+dir_POSCAR408
+  free  energy   TOTEN  =       -42.18696015 eV
+dir_POSCAR409
+  free  energy   TOTEN  =       -44.09286697 eV
+dir_POSCAR41
+  free  energy   TOTEN  =       -25.38265837 eV
+dir_POSCAR410
+  free  energy   TOTEN  =       -44.17756454 eV
+dir_POSCAR411
+  free  energy   TOTEN  =       -44.38021417 eV
+dir_POSCAR412
+  free  energy   TOTEN  =       -44.70475350 eV
+dir_POSCAR413
+  free  energy   TOTEN  =       -44.28530240 eV
+dir_POSCAR414
+  free  energy   TOTEN  =       -44.07120328 eV
+dir_POSCAR415
+  free  energy   TOTEN  =       -44.40341419 eV
+dir_POSCAR416
+  free  energy   TOTEN  =       -44.58380035 eV
+dir_POSCAR417
+  free  energy   TOTEN  =       -44.04256365 eV
+dir_POSCAR418
+  free  energy   TOTEN  =       -44.22316923 eV
+dir_POSCAR419
+  free  energy   TOTEN  =       -44.25610276 eV
+dir_POSCAR42
+  free  energy   TOTEN  =       -25.75777069 eV
+dir_POSCAR420
+  free  energy   TOTEN  =       -44.32987125 eV
+dir_POSCAR421
+  free  energy   TOTEN  =       -44.23598603 eV
+dir_POSCAR422
+  free  energy   TOTEN  =       -44.10440362 eV
+dir_POSCAR423
+  free  energy   TOTEN  =       -44.28294577 eV
+dir_POSCAR424
+  free  energy   TOTEN  =       -44.42425839 eV
+dir_POSCAR425
+  free  energy   TOTEN  =       -46.33636937 eV
+dir_POSCAR426
+  free  energy   TOTEN  =       -46.44022000 eV
+dir_POSCAR427
+  free  energy   TOTEN  =       -46.54008159 eV
+dir_POSCAR428
+  free  energy   TOTEN  =       -46.62911950 eV
+dir_POSCAR429
+  free  energy   TOTEN  =       -46.47679719 eV
+dir_POSCAR43
+  free  energy   TOTEN  =       -26.03631407 eV
+dir_POSCAR430
+  free  energy   TOTEN  =       -46.36292741 eV
+dir_POSCAR431
+  free  energy   TOTEN  =       -46.54468518 eV
+dir_POSCAR432
+  free  energy   TOTEN  =       -46.63478605 eV
+dir_POSCAR433
+  free  energy   TOTEN  =       -32.18365272 eV
+dir_POSCAR434
+  free  energy   TOTEN  =       -32.18815783 eV
+dir_POSCAR435
+  free  energy   TOTEN  =       -32.43928413 eV
+dir_POSCAR436
+  free  energy   TOTEN  =       -32.41679339 eV
+dir_POSCAR437
+  free  energy   TOTEN  =       -32.38499358 eV
+dir_POSCAR438
+  free  energy   TOTEN  =       -34.65419786 eV
+dir_POSCAR439
+  free  energy   TOTEN  =       -34.64780867 eV
+dir_POSCAR44
+  free  energy   TOTEN  =       -25.47621409 eV
+dir_POSCAR440
+  free  energy   TOTEN  =       -34.96666220 eV
+dir_POSCAR441
+  free  energy   TOTEN  =       -34.88619452 eV
+dir_POSCAR442
+  free  energy   TOTEN  =       -34.84215665 eV
+dir_POSCAR443
+  free  energy   TOTEN  =       -34.99433020 eV
+dir_POSCAR444
+  free  energy   TOTEN  =       -34.70295547 eV
+dir_POSCAR445
+  free  energy   TOTEN  =       -35.16505837 eV
+dir_POSCAR446
+  free  energy   TOTEN  =       -35.15089182 eV
+dir_POSCAR447
+  free  energy   TOTEN  =       -35.38415191 eV
+dir_POSCAR448
+  free  energy   TOTEN  =       -37.40645165 eV
+dir_POSCAR449
+  free  energy   TOTEN  =       -37.12542270 eV
+dir_POSCAR45
+  free  energy   TOTEN  =       -25.98084012 eV
+dir_POSCAR450
+  free  energy   TOTEN  =       -37.59833859 eV
+dir_POSCAR451
+  free  energy   TOTEN  =       -37.42737035 eV
+dir_POSCAR452
+  free  energy   TOTEN  =       -37.56483091 eV
+dir_POSCAR453
+  free  energy   TOTEN  =       -37.33797349 eV
+dir_POSCAR454
+  free  energy   TOTEN  =       -37.08188258 eV
+dir_POSCAR455
+  free  energy   TOTEN  =       -37.40052146 eV
+dir_POSCAR456
+  free  energy   TOTEN  =       -37.45113005 eV
+dir_POSCAR457
+  free  energy   TOTEN  =       -37.58046890 eV
+dir_POSCAR458
+  free  energy   TOTEN  =       -39.92073237 eV
+dir_POSCAR459
+  free  energy   TOTEN  =       -39.52558709 eV
+dir_POSCAR46
+  free  energy   TOTEN  =       -26.03831198 eV
+dir_POSCAR460
+  free  energy   TOTEN  =       -39.93676785 eV
+dir_POSCAR461
+  free  energy   TOTEN  =       -39.87428960 eV
+dir_POSCAR462
+  free  energy   TOTEN  =       -40.04083766 eV
+dir_POSCAR463
+  free  energy   TOTEN  =       -36.85633566 eV
+dir_POSCAR464
+  free  energy   TOTEN  =       -37.21467505 eV
+dir_POSCAR465
+  free  energy   TOTEN  =       -37.30384311 eV
+dir_POSCAR466
+  free  energy   TOTEN  =       -37.24893446 eV
+dir_POSCAR467
+  free  energy   TOTEN  =       -36.89711453 eV
+dir_POSCAR468
+  free  energy   TOTEN  =       -37.41526733 eV
+dir_POSCAR469
+  free  energy   TOTEN  =       -37.37483493 eV
+dir_POSCAR47
+  free  energy   TOTEN  =       -25.96084405 eV
+dir_POSCAR470
+  free  energy   TOTEN  =       -37.55668681 eV
+dir_POSCAR471
+  free  energy   TOTEN  =       -37.56547796 eV
+dir_POSCAR472
+  free  energy   TOTEN  =       -37.61180590 eV
+dir_POSCAR473
+  free  energy   TOTEN  =       -39.74014752 eV
+dir_POSCAR474
+  free  energy   TOTEN  =       -39.65652402 eV
+dir_POSCAR475
+  free  energy   TOTEN  =       -39.85600390 eV
+dir_POSCAR476
+  free  energy   TOTEN  =       -39.79009038 eV
+dir_POSCAR477
+  free  energy   TOTEN  =       -39.83841191 eV
+dir_POSCAR478
+  free  energy   TOTEN  =       -39.38616319 eV
+dir_POSCAR479
+  free  energy   TOTEN  =       -39.45722677 eV
+dir_POSCAR48
+  free  energy   TOTEN  =       -25.95697104 eV
+dir_POSCAR480
+  free  energy   TOTEN  =       -39.55411694 eV
+dir_POSCAR481
+  free  energy   TOTEN  =       -39.67542000 eV
+dir_POSCAR482
+  free  energy   TOTEN  =       -39.53875302 eV
+dir_POSCAR483
+  free  energy   TOTEN  =       -42.16477396 eV
+dir_POSCAR484
+  free  energy   TOTEN  =       -41.94361802 eV
+dir_POSCAR485
+  free  energy   TOTEN  =       -42.16009930 eV
+dir_POSCAR486
+  free  energy   TOTEN  =       -42.16218621 eV
+dir_POSCAR487
+  free  energy   TOTEN  =       -42.20930184 eV
+dir_POSCAR488
+  free  energy   TOTEN  =       -39.50532103 eV
+dir_POSCAR489
+  free  energy   TOTEN  =       -39.55822363 eV
+dir_POSCAR49
+  free  energy   TOTEN  =       -28.08957858 eV
+dir_POSCAR490
+  free  energy   TOTEN  =       -39.89881042 eV
+dir_POSCAR491
+  free  energy   TOTEN  =       -39.76142998 eV
+dir_POSCAR492
+  free  energy   TOTEN  =       -39.48016422 eV
+dir_POSCAR493
+  free  energy   TOTEN  =       -42.21584546 eV
+dir_POSCAR494
+  free  energy   TOTEN  =       -41.97231472 eV
+dir_POSCAR495
+  free  energy   TOTEN  =       -42.31408376 eV
+dir_POSCAR496
+  free  energy   TOTEN  =       -42.22858348 eV
+dir_POSCAR497
+  free  energy   TOTEN  =       -42.28244810 eV
+dir_POSCAR498
+  free  energy   TOTEN  =       -41.70645402 eV
+dir_POSCAR499
+  free  energy   TOTEN  =       -41.85450056 eV
+dir_POSCAR5
+  free  energy   TOTEN  =       -13.78879835 eV
+dir_POSCAR50
+  free  energy   TOTEN  =       -28.24341543 eV
+dir_POSCAR500
+  free  energy   TOTEN  =       -41.94183043 eV
+dir_POSCAR501
+  free  energy   TOTEN  =       -41.94564055 eV
+dir_POSCAR502
+  free  energy   TOTEN  =       -41.72656990 eV
+dir_POSCAR503
+  free  energy   TOTEN  =       -44.34002043 eV
+dir_POSCAR504
+  free  energy   TOTEN  =       -44.20607345 eV
+dir_POSCAR505
+  free  energy   TOTEN  =       -44.39453336 eV
+dir_POSCAR506
+  free  energy   TOTEN  =       -44.40688521 eV
+dir_POSCAR507
+  free  energy   TOTEN  =       -44.37282268 eV
+dir_POSCAR508
+  free  energy   TOTEN  =       -42.25808455 eV
+dir_POSCAR509
+  free  energy   TOTEN  =       -42.20086363 eV
+dir_POSCAR51
+  free  energy   TOTEN  =       -28.27652948 eV
+dir_POSCAR510
+  free  energy   TOTEN  =       -42.30249549 eV
+dir_POSCAR511
+  free  energy   TOTEN  =       -42.18604487 eV
+dir_POSCAR512
+  free  energy   TOTEN  =       -42.31101292 eV
+dir_POSCAR513
+  free  energy   TOTEN  =       -44.63448327 eV
+dir_POSCAR514
+  free  energy   TOTEN  =       -44.43185124 eV
+dir_POSCAR515
+  free  energy   TOTEN  =       -44.62758158 eV
+dir_POSCAR516
+  free  energy   TOTEN  =       -44.59563701 eV
+dir_POSCAR517
+  free  energy   TOTEN  =       -44.75234067 eV
+dir_POSCAR518
+  free  energy   TOTEN  =       -46.60257142 eV
+dir_POSCAR519
+  free  energy   TOTEN  =       -46.52460958 eV
+dir_POSCAR52
+  free  energy   TOTEN  =       -28.11601636 eV
+dir_POSCAR520
+  free  energy   TOTEN  =       -46.62133699 eV
+dir_POSCAR521
+  free  energy   TOTEN  =       -46.64628042 eV
+dir_POSCAR522
+  free  energy   TOTEN  =       -46.66935030 eV
+dir_POSCAR523
+  free  energy   TOTEN  =       -32.17774321 eV
+dir_POSCAR524
+  free  energy   TOTEN  =       -34.64388279 eV
+dir_POSCAR525
+  free  energy   TOTEN  =       -37.47956674 eV
+dir_POSCAR526
+  free  energy   TOTEN  =       -34.63653558 eV
+dir_POSCAR527
+  free  energy   TOTEN  =       -36.76807077 eV
+dir_POSCAR528
+  free  energy   TOTEN  =       -37.49641870 eV
+dir_POSCAR529
+  free  energy   TOTEN  =       -37.30202826 eV
+dir_POSCAR53
+  free  energy   TOTEN  =       -21.30131188 eV
+dir_POSCAR530
+  free  energy   TOTEN  =       -39.77294407 eV
+dir_POSCAR531
+  free  energy   TOTEN  =       -37.38865133 eV
+dir_POSCAR532
+  free  energy   TOTEN  =       -39.48979903 eV
+dir_POSCAR533
+  free  energy   TOTEN  =       -39.97487775 eV
+dir_POSCAR534
+  free  energy   TOTEN  =       -42.37366989 eV
+dir_POSCAR535
+  free  energy   TOTEN  =       -39.68694724 eV
+dir_POSCAR536
+  free  energy   TOTEN  =       -39.28835866 eV
+dir_POSCAR537
+  free  energy   TOTEN  =       -41.62537405 eV
+dir_POSCAR538
+  free  energy   TOTEN  =       -42.09466213 eV
+dir_POSCAR539
+  free  energy   TOTEN  =       -44.31688752 eV
+dir_POSCAR54
+  free  energy   TOTEN  =       -23.72619770 eV
+dir_POSCAR540
+  free  energy   TOTEN  =       -42.30451004 eV
+dir_POSCAR541
+  free  energy   TOTEN  =       -42.23833399 eV
+dir_POSCAR542
+  free  energy   TOTEN  =       -44.28043977 eV
+dir_POSCAR543
+  free  energy   TOTEN  =       -46.60354726 eV
+dir_POSCAR544
+  free  energy   TOTEN  =       -32.18575162 eV
+dir_POSCAR545
+  free  energy   TOTEN  =       -32.43221747 eV
+dir_POSCAR546
+  free  energy   TOTEN  =       -32.43577913 eV
+dir_POSCAR547
+  free  energy   TOTEN  =       -34.66123055 eV
+dir_POSCAR548
+  free  energy   TOTEN  =       -34.93776991 eV
+dir_POSCAR549
+  free  energy   TOTEN  =       -34.79672193 eV
+dir_POSCAR55
+  free  energy   TOTEN  =       -26.07429521 eV
+dir_POSCAR550
+  free  energy   TOTEN  =       -37.49552987 eV
+dir_POSCAR551
+  free  energy   TOTEN  =       -37.59016478 eV
+dir_POSCAR552
+  free  energy   TOTEN  =       -37.51390484 eV
+dir_POSCAR553
+  free  energy   TOTEN  =       -37.23023973 eV
+dir_POSCAR554
+  free  energy   TOTEN  =       -37.30007629 eV
+dir_POSCAR555
+  free  energy   TOTEN  =       -36.81064004 eV
+dir_POSCAR556
+  free  energy   TOTEN  =       -37.41343804 eV
+dir_POSCAR557
+  free  energy   TOTEN  =       -37.56774975 eV
+dir_POSCAR558
+  free  energy   TOTEN  =       -37.57003643 eV
+dir_POSCAR559
+  free  energy   TOTEN  =       -36.85428319 eV
+dir_POSCAR56
+  free  energy   TOTEN  =       -28.35094977 eV
+dir_POSCAR560
+  free  energy   TOTEN  =       -37.51799920 eV
+dir_POSCAR561
+  free  energy   TOTEN  =       -37.32091243 eV
+dir_POSCAR562
+  free  energy   TOTEN  =       -39.71094764 eV
+dir_POSCAR563
+  free  energy   TOTEN  =       -39.91710002 eV
+dir_POSCAR564
+  free  energy   TOTEN  =       -39.71089259 eV
+dir_POSCAR565
+  free  energy   TOTEN  =       -39.90889705 eV
+dir_POSCAR566
+  free  energy   TOTEN  =       -39.92033200 eV
+dir_POSCAR567
+  free  energy   TOTEN  =       -39.49571549 eV
+dir_POSCAR568
+  free  energy   TOTEN  =       -39.62694017 eV
+dir_POSCAR569
+  free  energy   TOTEN  =       -40.12125001 eV
+dir_POSCAR57
+  free  energy   TOTEN  =       -24.45075070 eV
+dir_POSCAR570
+  free  energy   TOTEN  =       -39.90414583 eV
+dir_POSCAR571
+  free  energy   TOTEN  =       -42.36034693 eV
+dir_POSCAR572
+  free  energy   TOTEN  =       -42.48035516 eV
+dir_POSCAR573
+  free  energy   TOTEN  =       -42.18425694 eV
+dir_POSCAR574
+  free  energy   TOTEN  =       -39.22301547 eV
+dir_POSCAR575
+  free  energy   TOTEN  =       -39.68313705 eV
+dir_POSCAR576
+  free  energy   TOTEN  =       -39.34127248 eV
+dir_POSCAR577
+  free  energy   TOTEN  =       -41.89557227 eV
+dir_POSCAR578
+  free  energy   TOTEN  =       -42.00281461 eV
+dir_POSCAR579
+  free  energy   TOTEN  =       -41.70070567 eV
+dir_POSCAR58
+  free  energy   TOTEN  =       -24.76058103 eV
+dir_POSCAR580
+  free  energy   TOTEN  =       -41.68028602 eV
+dir_POSCAR581
+  free  energy   TOTEN  =       -42.17314968 eV
+dir_POSCAR582
+  free  energy   TOTEN  =       -42.10147883 eV
+dir_POSCAR583
+  free  energy   TOTEN  =       -44.24900082 eV
+dir_POSCAR584
+  free  energy   TOTEN  =       -44.45095047 eV
+dir_POSCAR585
+  free  energy   TOTEN  =       -44.30030097 eV
+dir_POSCAR586
+  free  energy   TOTEN  =       -42.22426810 eV
+dir_POSCAR587
+  free  energy   TOTEN  =       -42.34376734 eV
+dir_POSCAR588
+  free  energy   TOTEN  =       -42.22544111 eV
+dir_POSCAR589
+  free  energy   TOTEN  =       -46.54607167 eV
+dir_POSCAR59
+  free  energy   TOTEN  =       -24.83384347 eV
+dir_POSCAR590
+  free  energy   TOTEN  =       -46.64766591 eV
+dir_POSCAR591
+  free  energy   TOTEN  =       -46.62608780 eV
+dir_POSCAR592
+  free  energy   TOTEN  =       -32.47956730 eV
+dir_POSCAR593
+  free  energy   TOTEN  =       -34.99596973 eV
+dir_POSCAR594
+  free  energy   TOTEN  =       -37.60547204 eV
+dir_POSCAR595
+  free  energy   TOTEN  =       -35.15329619 eV
+dir_POSCAR596
+  free  energy   TOTEN  =       -37.46655808 eV
+dir_POSCAR597
+  free  energy   TOTEN  =       -37.55623783 eV
+dir_POSCAR598
+  free  energy   TOTEN  =       -40.01868272 eV
+dir_POSCAR599
+  free  energy   TOTEN  =       -37.59028567 eV
+dir_POSCAR6
+  free  energy   TOTEN  =       -13.63333251 eV
+dir_POSCAR60
+  free  energy   TOTEN  =       -24.83127208 eV
+dir_POSCAR600
+  free  energy   TOTEN  =       -39.96158340 eV
+dir_POSCAR601
+  free  energy   TOTEN  =       -42.46907206 eV
+dir_POSCAR602
+  free  energy   TOTEN  =       -39.92561939 eV
+dir_POSCAR603
+  free  energy   TOTEN  =       -39.73397703 eV
+dir_POSCAR604
+  free  energy   TOTEN  =       -42.20118001 eV
+dir_POSCAR605
+  free  energy   TOTEN  =       -44.56738341 eV
+dir_POSCAR606
+  free  energy   TOTEN  =       -42.41979781 eV
+dir_POSCAR607
+  free  energy   TOTEN  =       -42.35368060 eV
+dir_POSCAR608
+  free  energy   TOTEN  =       -44.53191895 eV
+dir_POSCAR609
+  free  energy   TOTEN  =       -46.73128529 eV
+dir_POSCAR61
+  free  energy   TOTEN  =       -24.78738235 eV
+dir_POSCAR610
+  free  energy   TOTEN  =       -32.48972495 eV
+dir_POSCAR611
+  free  energy   TOTEN  =       -34.89071650 eV
+dir_POSCAR612
+  free  energy   TOTEN  =       -37.55734054 eV
+dir_POSCAR613
+  free  energy   TOTEN  =       -37.19841391 eV
+dir_POSCAR614
+  free  energy   TOTEN  =       -37.55416576 eV
+dir_POSCAR615
+  free  energy   TOTEN  =       -39.73794300 eV
+dir_POSCAR616
+  free  energy   TOTEN  =       -39.81208295 eV
+dir_POSCAR617
+  free  energy   TOTEN  =       -42.27919547 eV
+dir_POSCAR618
+  free  energy   TOTEN  =       -39.50246200 eV
+dir_POSCAR619
+  free  energy   TOTEN  =       -41.96332213 eV
+dir_POSCAR62
+  free  energy   TOTEN  =       -24.50384004 eV
+dir_POSCAR620
+  free  energy   TOTEN  =       -44.37476921 eV
+dir_POSCAR621
+  free  energy   TOTEN  =       -42.17823249 eV
+dir_POSCAR622
+  free  energy   TOTEN  =       -46.62509592 eV
+dir_POSCAR623
+  free  energy   TOTEN  =       -32.56841315 eV
+dir_POSCAR624
+  free  energy   TOTEN  =       -37.56872140 eV
+dir_POSCAR625
+  free  energy   TOTEN  =       -40.12554889 eV
+dir_POSCAR626
+  free  energy   TOTEN  =       -37.62612074 eV
+dir_POSCAR627
+  free  energy   TOTEN  =       -40.06098905 eV
+dir_POSCAR628
+  free  energy   TOTEN  =       -42.56410282 eV
+dir_POSCAR629
+  free  energy   TOTEN  =       -42.45764347 eV
+dir_POSCAR63
+  free  energy   TOTEN  =       -25.03959904 eV
+dir_POSCAR630
+  free  energy   TOTEN  =       -46.88969459 eV
+dir_POSCAR631
+  free  energy   TOTEN  =       -35.45536266 eV
+dir_POSCAR632
+  free  energy   TOTEN  =       -35.77601496 eV
+dir_POSCAR633
+  free  energy   TOTEN  =       -35.86437010 eV
+dir_POSCAR634
+  free  energy   TOTEN  =       -35.85349425 eV
+dir_POSCAR635
+  free  energy   TOTEN  =       -35.81295444 eV
+dir_POSCAR636
+  free  energy   TOTEN  =       -35.86299383 eV
+dir_POSCAR637
+  free  energy   TOTEN  =       -35.51529476 eV
+dir_POSCAR638
+  free  energy   TOTEN  =       -36.05468338 eV
+dir_POSCAR639
+  free  energy   TOTEN  =       -36.09557258 eV
+dir_POSCAR64
+  free  energy   TOTEN  =       -25.02686381 eV
+dir_POSCAR640
+  free  energy   TOTEN  =       -36.09820470 eV
+dir_POSCAR641
+  free  energy   TOTEN  =       -37.00317101 eV
+dir_POSCAR642
+  free  energy   TOTEN  =       -37.60928950 eV
+dir_POSCAR643
+  free  energy   TOTEN  =       -38.21927182 eV
+dir_POSCAR644
+  free  energy   TOTEN  =       -38.30771082 eV
+dir_POSCAR645
+  free  energy   TOTEN  =       -38.24875646 eV
+dir_POSCAR646
+  free  energy   TOTEN  =       -38.27984102 eV
+dir_POSCAR647
+  free  energy   TOTEN  =       -37.15423277 eV
+dir_POSCAR648
+  free  energy   TOTEN  =       -38.24252553 eV
+dir_POSCAR649
+  free  energy   TOTEN  =       -38.58968060 eV
+dir_POSCAR65
+  free  energy   TOTEN  =       -24.81692107 eV
+dir_POSCAR650
+  free  energy   TOTEN  =       -38.56871696 eV
+dir_POSCAR651
+  free  energy   TOTEN  =       -37.96429605 eV
+dir_POSCAR652
+  free  energy   TOTEN  =       -38.18703655 eV
+dir_POSCAR653
+  free  energy   TOTEN  =       -38.31444954 eV
+dir_POSCAR654
+  free  energy   TOTEN  =       -38.57328002 eV
+dir_POSCAR655
+  free  energy   TOTEN  =       -38.61004714 eV
+dir_POSCAR656
+  free  energy   TOTEN  =       -38.35380668 eV
+dir_POSCAR657
+  free  energy   TOTEN  =       -37.97606189 eV
+dir_POSCAR658
+  free  energy   TOTEN  =       -38.48953327 eV
+dir_POSCAR659
+  free  energy   TOTEN  =       -38.62641067 eV
+dir_POSCAR66
+  free  energy   TOTEN  =       -25.04441823 eV
+dir_POSCAR660
+  free  energy   TOTEN  =       -38.78099608 eV
+dir_POSCAR661
+  free  energy   TOTEN  =       -39.04073263 eV
+dir_POSCAR662
+  free  energy   TOTEN  =       -39.65353888 eV
+dir_POSCAR663
+  free  energy   TOTEN  =       -40.46749149 eV
+dir_POSCAR664
+  free  energy   TOTEN  =       -40.99079362 eV
+dir_POSCAR665
+  free  energy   TOTEN  =       -41.01825640 eV
+dir_POSCAR666
+  free  energy   TOTEN  =       -40.70517407 eV
+dir_POSCAR667
+  free  energy   TOTEN  =       -39.19446289 eV
+dir_POSCAR668
+  free  energy   TOTEN  =       -40.55097843 eV
+dir_POSCAR669
+  free  energy   TOTEN  =       -41.04748632 eV
+dir_POSCAR67
+  free  energy   TOTEN  =       -26.32651942 eV
+dir_POSCAR670
+  free  energy   TOTEN  =       -41.08239476 eV
+dir_POSCAR671
+  free  energy   TOTEN  =       -37.99278837 eV
+dir_POSCAR672
+  free  energy   TOTEN  =       -38.49339068 eV
+dir_POSCAR673
+  free  energy   TOTEN  =       -38.37602807 eV
+dir_POSCAR674
+  free  energy   TOTEN  =       -38.33107578 eV
+dir_POSCAR675
+  free  energy   TOTEN  =       -38.53249568 eV
+dir_POSCAR676
+  free  energy   TOTEN  =       -38.34523624 eV
+dir_POSCAR677
+  free  energy   TOTEN  =       -38.07997142 eV
+dir_POSCAR678
+  free  energy   TOTEN  =       -38.76237463 eV
+dir_POSCAR679
+  free  energy   TOTEN  =       -38.78735832 eV
+dir_POSCAR68
+  free  energy   TOTEN  =       -26.83719561 eV
+dir_POSCAR680
+  free  energy   TOTEN  =       -38.57797460 eV
+dir_POSCAR681
+  free  energy   TOTEN  =       -39.89440364 eV
+dir_POSCAR682
+  free  energy   TOTEN  =       -40.33082576 eV
+dir_POSCAR683
+  free  energy   TOTEN  =       -40.66617047 eV
+dir_POSCAR684
+  free  energy   TOTEN  =       -40.91894412 eV
+dir_POSCAR685
+  free  energy   TOTEN  =       -41.21209211 eV
+dir_POSCAR686
+  free  energy   TOTEN  =       -40.71497693 eV
+dir_POSCAR687
+  free  energy   TOTEN  =       -39.99349521 eV
+dir_POSCAR688
+  free  energy   TOTEN  =       -40.79493426 eV
+dir_POSCAR689
+  free  energy   TOTEN  =       -41.07804844 eV
+dir_POSCAR69
+  free  energy   TOTEN  =       -27.37029271 eV
+dir_POSCAR690
+  free  energy   TOTEN  =       -41.06975792 eV
+dir_POSCAR691
+  free  energy   TOTEN  =       -41.46621449 eV
+dir_POSCAR692
+  free  energy   TOTEN  =       -42.00721209 eV
+dir_POSCAR693
+  free  energy   TOTEN  =       -42.74130171 eV
+dir_POSCAR694
+  free  energy   TOTEN  =       -43.46965332 eV
+dir_POSCAR695
+  free  energy   TOTEN  =       -43.85886769 eV
+dir_POSCAR696
+  free  energy   TOTEN  =       -43.05104500 eV
+dir_POSCAR697
+  free  energy   TOTEN  =       -41.59749861 eV
+dir_POSCAR698
+  free  energy   TOTEN  =       -42.89703292 eV
+dir_POSCAR699
+  free  energy   TOTEN  =       -43.38535203 eV
+dir_POSCAR7
+  free  energy   TOTEN  =       -15.97261040 eV
+dir_POSCAR70
+  free  energy   TOTEN  =       -27.40392010 eV
+dir_POSCAR700
+  free  energy   TOTEN  =       -43.48418289 eV
+dir_POSCAR701
+  free  energy   TOTEN  =       -37.99276803 eV
+dir_POSCAR702
+  free  energy   TOTEN  =       -38.53138536 eV
+dir_POSCAR703
+  free  energy   TOTEN  =       -38.60986972 eV
+dir_POSCAR704
+  free  energy   TOTEN  =       -38.31902754 eV
+dir_POSCAR705
+  free  energy   TOTEN  =       -37.88231302 eV
+dir_POSCAR706
+  free  energy   TOTEN  =       -38.59492436 eV
+dir_POSCAR707
+  free  energy   TOTEN  =       -38.06607052 eV
+dir_POSCAR708
+  free  energy   TOTEN  =       -38.94952821 eV
+dir_POSCAR709
+  free  energy   TOTEN  =       -38.80021165 eV
+dir_POSCAR71
+  free  energy   TOTEN  =       -27.09078409 eV
+dir_POSCAR710
+  free  energy   TOTEN  =       -38.78207079 eV
+dir_POSCAR711
+  free  energy   TOTEN  =       -39.93528014 eV
+dir_POSCAR712
+  free  energy   TOTEN  =       -40.61644103 eV
+dir_POSCAR713
+  free  energy   TOTEN  =       -40.92679056 eV
+dir_POSCAR714
+  free  energy   TOTEN  =       -40.71248276 eV
+dir_POSCAR715
+  free  energy   TOTEN  =       -40.49239462 eV
+dir_POSCAR716
+  free  energy   TOTEN  =       -40.89069100 eV
+dir_POSCAR717
+  free  energy   TOTEN  =       -40.07765971 eV
+dir_POSCAR718
+  free  energy   TOTEN  =       -41.09778337 eV
+dir_POSCAR719
+  free  energy   TOTEN  =       -41.24659564 eV
+dir_POSCAR72
+  free  energy   TOTEN  =       -26.45208599 eV
+dir_POSCAR720
+  free  energy   TOTEN  =       -41.06142858 eV
+dir_POSCAR721
+  free  energy   TOTEN  =       -40.76907455 eV
+dir_POSCAR722
+  free  energy   TOTEN  =       -40.88791387 eV
+dir_POSCAR723
+  free  energy   TOTEN  =       -41.02826915 eV
+dir_POSCAR724
+  free  energy   TOTEN  =       -41.16881937 eV
+dir_POSCAR725
+  free  energy   TOTEN  =       -40.94795135 eV
+dir_POSCAR726
+  free  energy   TOTEN  =       -41.04150791 eV
+dir_POSCAR727
+  free  energy   TOTEN  =       -40.69563649 eV
+dir_POSCAR728
+  free  energy   TOTEN  =       -41.17962651 eV
+dir_POSCAR729
+  free  energy   TOTEN  =       -41.27614807 eV
+dir_POSCAR73
+  free  energy   TOTEN  =       -27.38223182 eV
+dir_POSCAR730
+  free  energy   TOTEN  =       -41.35158077 eV
+dir_POSCAR731
+  free  energy   TOTEN  =       -42.20195997 eV
+dir_POSCAR732
+  free  energy   TOTEN  =       -42.62866808 eV
+dir_POSCAR733
+  free  energy   TOTEN  =       -43.15182793 eV
+dir_POSCAR734
+  free  energy   TOTEN  =       -43.46747782 eV
+dir_POSCAR735
+  free  energy   TOTEN  =       -43.46676395 eV
+dir_POSCAR736
+  free  energy   TOTEN  =       -43.27779768 eV
+dir_POSCAR737
+  free  energy   TOTEN  =       -42.28262687 eV
+dir_POSCAR738
+  free  energy   TOTEN  =       -43.26658165 eV
+dir_POSCAR739
+  free  energy   TOTEN  =       -43.60708930 eV
+dir_POSCAR74
+  free  energy   TOTEN  =       -27.58648891 eV
+dir_POSCAR740
+  free  energy   TOTEN  =       -43.52088520 eV
+dir_POSCAR741
+  free  energy   TOTEN  =       -42.16892194 eV
+dir_POSCAR742
+  free  energy   TOTEN  =       -42.72381286 eV
+dir_POSCAR743
+  free  energy   TOTEN  =       -43.13080529 eV
+dir_POSCAR744
+  free  energy   TOTEN  =       -43.15351590 eV
+dir_POSCAR745
+  free  energy   TOTEN  =       -43.27808478 eV
+dir_POSCAR746
+  free  energy   TOTEN  =       -43.10630514 eV
+dir_POSCAR747
+  free  energy   TOTEN  =       -42.34485703 eV
+dir_POSCAR748
+  free  energy   TOTEN  =       -43.18776952 eV
+dir_POSCAR749
+  free  energy   TOTEN  =       -43.45975768 eV
+dir_POSCAR75
+  free  energy   TOTEN  =       -27.39736920 eV
+dir_POSCAR750
+  free  energy   TOTEN  =       -43.40728680 eV
+dir_POSCAR751
+  free  energy   TOTEN  =       -44.10831813 eV
+dir_POSCAR752
+  free  energy   TOTEN  =       -44.53093841 eV
+dir_POSCAR753
+  free  energy   TOTEN  =       -45.21592591 eV
+dir_POSCAR754
+  free  energy   TOTEN  =       -45.82450093 eV
+dir_POSCAR755
+  free  energy   TOTEN  =       -46.16912071 eV
+dir_POSCAR756
+  free  energy   TOTEN  =       -45.48420600 eV
+dir_POSCAR757
+  free  energy   TOTEN  =       -44.24264672 eV
+dir_POSCAR758
+  free  energy   TOTEN  =       -45.25438177 eV
+dir_POSCAR759
+  free  energy   TOTEN  =       -45.74759467 eV
+dir_POSCAR76
+  free  energy   TOTEN  =       -27.54243133 eV
+dir_POSCAR760
+  free  energy   TOTEN  =       -45.86261492 eV
+dir_POSCAR761
+  free  energy   TOTEN  =       -39.93560238 eV
+dir_POSCAR762
+  free  energy   TOTEN  =       -40.70130716 eV
+dir_POSCAR763
+  free  energy   TOTEN  =       -41.16855410 eV
+dir_POSCAR764
+  free  energy   TOTEN  =       -40.76515554 eV
+dir_POSCAR765
+  free  energy   TOTEN  =       -40.01382730 eV
+dir_POSCAR766
+  free  energy   TOTEN  =       -41.15350301 eV
+dir_POSCAR767
+  free  energy   TOTEN  =       -40.07051110 eV
+dir_POSCAR768
+  free  energy   TOTEN  =       -41.31671229 eV
+dir_POSCAR769
+  free  energy   TOTEN  =       -41.25611611 eV
+dir_POSCAR77
+  free  energy   TOTEN  =       -27.19038667 eV
+dir_POSCAR770
+  free  energy   TOTEN  =       -41.24417644 eV
+dir_POSCAR771
+  free  energy   TOTEN  =       -40.79990590 eV
+dir_POSCAR772
+  free  energy   TOTEN  =       -41.14346981 eV
+dir_POSCAR773
+  free  energy   TOTEN  =       -41.02181543 eV
+dir_POSCAR774
+  free  energy   TOTEN  =       -40.95059316 eV
+dir_POSCAR775
+  free  energy   TOTEN  =       -40.87216398 eV
+dir_POSCAR776
+  free  energy   TOTEN  =       -41.01183144 eV
+dir_POSCAR777
+  free  energy   TOTEN  =       -40.80186431 eV
+dir_POSCAR778
+  free  energy   TOTEN  =       -41.35773955 eV
+dir_POSCAR779
+  free  energy   TOTEN  =       -41.22584971 eV
+dir_POSCAR78
+  free  energy   TOTEN  =       -27.33837408 eV
+dir_POSCAR780
+  free  energy   TOTEN  =       -41.17500953 eV
+dir_POSCAR781
+  free  energy   TOTEN  =       -42.23338481 eV
+dir_POSCAR782
+  free  energy   TOTEN  =       -42.91547605 eV
+dir_POSCAR783
+  free  energy   TOTEN  =       -43.32921607 eV
+dir_POSCAR784
+  free  energy   TOTEN  =       -43.31039067 eV
+dir_POSCAR785
+  free  energy   TOTEN  =       -42.92542167 eV
+dir_POSCAR786
+  free  energy   TOTEN  =       -43.41073816 eV
+dir_POSCAR787
+  free  energy   TOTEN  =       -42.36223025 eV
+dir_POSCAR788
+  free  energy   TOTEN  =       -43.55378848 eV
+dir_POSCAR789
+  free  energy   TOTEN  =       -43.61025750 eV
+dir_POSCAR79
+  free  energy   TOTEN  =       -27.48332796 eV
+dir_POSCAR790
+  free  energy   TOTEN  =       -43.54676045 eV
+dir_POSCAR791
+  free  energy   TOTEN  =       -42.96141050 eV
+dir_POSCAR792
+  free  energy   TOTEN  =       -43.28695788 eV
+dir_POSCAR793
+  free  energy   TOTEN  =       -43.51702983 eV
+dir_POSCAR794
+  free  energy   TOTEN  =       -43.46859750 eV
+dir_POSCAR795
+  free  energy   TOTEN  =       -43.20810121 eV
+dir_POSCAR796
+  free  energy   TOTEN  =       -43.49116643 eV
+dir_POSCAR797
+  free  energy   TOTEN  =       -42.95588809 eV
+dir_POSCAR798
+  free  energy   TOTEN  =       -43.62553972 eV
+dir_POSCAR799
+  free  energy   TOTEN  =       -43.65359237 eV
+dir_POSCAR8
+  free  energy   TOTEN  =       -16.00870330 eV
+dir_POSCAR80
+  free  energy   TOTEN  =       -27.41930108 eV
+dir_POSCAR800
+  free  energy   TOTEN  =       -43.61931042 eV
+dir_POSCAR801
+  free  energy   TOTEN  =       -42.95321389 eV
+dir_POSCAR802
+  free  energy   TOTEN  =       -43.21082002 eV
+dir_POSCAR803
+  free  energy   TOTEN  =       -43.24572812 eV
+dir_POSCAR804
+  free  energy   TOTEN  =       -43.38769258 eV
+dir_POSCAR805
+  free  energy   TOTEN  =       -43.64919393 eV
+dir_POSCAR806
+  free  energy   TOTEN  =       -43.27845184 eV
+dir_POSCAR807
+  free  energy   TOTEN  =       -42.97312782 eV
+dir_POSCAR808
+  free  energy   TOTEN  =       -43.41216051 eV
+dir_POSCAR809
+  free  energy   TOTEN  =       -43.41794087 eV
+dir_POSCAR81
+  free  energy   TOTEN  =       -27.44496082 eV
+dir_POSCAR810
+  free  energy   TOTEN  =       -43.46348845 eV
+dir_POSCAR811
+  free  energy   TOTEN  =       -44.77136848 eV
+dir_POSCAR812
+  free  energy   TOTEN  =       -45.15509003 eV
+dir_POSCAR813
+  free  energy   TOTEN  =       -45.51843412 eV
+dir_POSCAR814
+  free  energy   TOTEN  =       -45.86460357 eV
+dir_POSCAR815
+  free  energy   TOTEN  =       -45.94704221 eV
+dir_POSCAR816
+  free  energy   TOTEN  =       -45.68326709 eV
+dir_POSCAR817
+  free  energy   TOTEN  =       -44.81913147 eV
+dir_POSCAR818
+  free  energy   TOTEN  =       -45.66268927 eV
+dir_POSCAR819
+  free  energy   TOTEN  =       -45.83756739 eV
+dir_POSCAR82
+  free  energy   TOTEN  =       -27.16535847 eV
+dir_POSCAR820
+  free  energy   TOTEN  =       -45.89615054 eV
+dir_POSCAR821
+  free  energy   TOTEN  =       -42.23036258 eV
+dir_POSCAR822
+  free  energy   TOTEN  =       -43.07208383 eV
+dir_POSCAR823
+  free  energy   TOTEN  =       -43.62915090 eV
+dir_POSCAR824
+  free  energy   TOTEN  =       -43.11217613 eV
+dir_POSCAR825
+  free  energy   TOTEN  =       -42.28369208 eV
+dir_POSCAR826
+  free  energy   TOTEN  =       -43.50665575 eV
+dir_POSCAR827
+  free  energy   TOTEN  =       -42.41825282 eV
+dir_POSCAR828
+  free  energy   TOTEN  =       -43.60389804 eV
+dir_POSCAR829
+  free  energy   TOTEN  =       -43.67815489 eV
+dir_POSCAR83
+  free  energy   TOTEN  =       -27.55944519 eV
+dir_POSCAR830
+  free  energy   TOTEN  =       -43.54901722 eV
+dir_POSCAR831
+  free  energy   TOTEN  =       -44.71596849 eV
+dir_POSCAR832
+  free  energy   TOTEN  =       -45.27885261 eV
+dir_POSCAR833
+  free  energy   TOTEN  =       -45.73844727 eV
+dir_POSCAR834
+  free  energy   TOTEN  =       -45.66253281 eV
+dir_POSCAR835
+  free  energy   TOTEN  =       -45.34798517 eV
+dir_POSCAR836
+  free  energy   TOTEN  =       -45.70473965 eV
+dir_POSCAR837
+  free  energy   TOTEN  =       -44.86344539 eV
+dir_POSCAR838
+  free  energy   TOTEN  =       -45.79709658 eV
+dir_POSCAR839
+  free  energy   TOTEN  =       -45.96064345 eV
+dir_POSCAR84
+  free  energy   TOTEN  =       -27.48280368 eV
+dir_POSCAR840
+  free  energy   TOTEN  =       -45.86007087 eV
+dir_POSCAR841
+  free  energy   TOTEN  =       -46.87482233 eV
+dir_POSCAR842
+  free  energy   TOTEN  =       -47.25538877 eV
+dir_POSCAR843
+  free  energy   TOTEN  =       -47.71808483 eV
+dir_POSCAR844
+  free  energy   TOTEN  =       -48.13409992 eV
+dir_POSCAR845
+  free  energy   TOTEN  =       -48.29305248 eV
+dir_POSCAR846
+  free  energy   TOTEN  =       -47.89330641 eV
+dir_POSCAR847
+  free  energy   TOTEN  =       -46.98874614 eV
+dir_POSCAR848
+  free  energy   TOTEN  =       -47.76628326 eV
+dir_POSCAR849
+  free  energy   TOTEN  =       -48.06791028 eV
+dir_POSCAR85
+  free  energy   TOTEN  =       -27.47271043 eV
+dir_POSCAR850
+  free  energy   TOTEN  =       -48.17399286 eV
+dir_POSCAR851
+  free  energy   TOTEN  =       -42.99386535 eV
+dir_POSCAR852
+  free  energy   TOTEN  =       -43.41353022 eV
+dir_POSCAR853
+  free  energy   TOTEN  =       -43.36441303 eV
+dir_POSCAR854
+  free  energy   TOTEN  =       -43.33338311 eV
+dir_POSCAR855
+  free  energy   TOTEN  =       -43.53888540 eV
+dir_POSCAR856
+  free  energy   TOTEN  =       -43.33287696 eV
+dir_POSCAR857
+  free  energy   TOTEN  =       -43.06367333 eV
+dir_POSCAR858
+  free  energy   TOTEN  =       -43.57279751 eV
+dir_POSCAR859
+  free  energy   TOTEN  =       -43.65184479 eV
+dir_POSCAR86
+  free  energy   TOTEN  =       -27.58362670 eV
+dir_POSCAR860
+  free  energy   TOTEN  =       -43.42939521 eV
+dir_POSCAR861
+  free  energy   TOTEN  =       -44.80542702 eV
+dir_POSCAR862
+  free  energy   TOTEN  =       -45.30745019 eV
+dir_POSCAR863
+  free  energy   TOTEN  =       -45.57797267 eV
+dir_POSCAR864
+  free  energy   TOTEN  =       -45.81765102 eV
+dir_POSCAR865
+  free  energy   TOTEN  =       -45.82180138 eV
+dir_POSCAR866
+  free  energy   TOTEN  =       -45.72757246 eV
+dir_POSCAR867
+  free  energy   TOTEN  =       -44.89696727 eV
+dir_POSCAR868
+  free  energy   TOTEN  =       -45.79970260 eV
+dir_POSCAR869
+  free  energy   TOTEN  =       -45.97573882 eV
+dir_POSCAR87
+  free  energy   TOTEN  =       -28.73295446 eV
+dir_POSCAR870
+  free  energy   TOTEN  =       -45.92487710 eV
+dir_POSCAR871
+  free  energy   TOTEN  =       -43.01114824 eV
+dir_POSCAR872
+  free  energy   TOTEN  =       -43.42331700 eV
+dir_POSCAR873
+  free  energy   TOTEN  =       -43.48386908 eV
+dir_POSCAR874
+  free  energy   TOTEN  =       -43.20168439 eV
+dir_POSCAR875
+  free  energy   TOTEN  =       -42.98090456 eV
+dir_POSCAR876
+  free  energy   TOTEN  =       -43.38581763 eV
+dir_POSCAR877
+  free  energy   TOTEN  =       -43.05768502 eV
+dir_POSCAR878
+  free  energy   TOTEN  =       -43.65121613 eV
+dir_POSCAR879
+  free  energy   TOTEN  =       -43.58409301 eV
+dir_POSCAR88
+  free  energy   TOTEN  =       -29.22837112 eV
+dir_POSCAR880
+  free  energy   TOTEN  =       -43.43258503 eV
+dir_POSCAR881
+  free  energy   TOTEN  =       -43.75567280 eV
+dir_POSCAR882
+  free  energy   TOTEN  =       -43.71333147 eV
+dir_POSCAR883
+  free  energy   TOTEN  =       -43.63450032 eV
+dir_POSCAR884
+  free  energy   TOTEN  =       -43.64255142 eV
+dir_POSCAR885
+  free  energy   TOTEN  =       -43.42680138 eV
+dir_POSCAR886
+  free  energy   TOTEN  =       -43.62702585 eV
+dir_POSCAR887
+  free  energy   TOTEN  =       -43.58021285 eV
+dir_POSCAR888
+  free  energy   TOTEN  =       -43.82809444 eV
+dir_POSCAR889
+  free  energy   TOTEN  =       -43.75331517 eV
+dir_POSCAR89
+  free  energy   TOTEN  =       -29.85752091 eV
+dir_POSCAR890
+  free  energy   TOTEN  =       -43.70062003 eV
+dir_POSCAR891
+  free  energy   TOTEN  =       -45.43470143 eV
+dir_POSCAR892
+  free  energy   TOTEN  =       -45.69462026 eV
+dir_POSCAR893
+  free  energy   TOTEN  =       -45.88607024 eV
+dir_POSCAR894
+  free  energy   TOTEN  =       -45.82583740 eV
+dir_POSCAR895
+  free  energy   TOTEN  =       -45.57407089 eV
+dir_POSCAR896
+  free  energy   TOTEN  =       -45.88754284 eV
+dir_POSCAR897
+  free  energy   TOTEN  =       -45.40682701 eV
+dir_POSCAR898
+  free  energy   TOTEN  =       -46.04054426 eV
+dir_POSCAR899
+  free  energy   TOTEN  =       -46.03735466 eV
+dir_POSCAR9
+  free  energy   TOTEN  =       -16.00514571 eV
+dir_POSCAR90
+  free  energy   TOTEN  =       -29.96383296 eV
+dir_POSCAR900
+  free  energy   TOTEN  =       -45.91133547 eV
+dir_POSCAR901
+  free  energy   TOTEN  =       -45.38884915 eV
+dir_POSCAR902
+  free  energy   TOTEN  =       -45.65376311 eV
+dir_POSCAR903
+  free  energy   TOTEN  =       -45.70709332 eV
+dir_POSCAR904
+  free  energy   TOTEN  =       -45.62681282 eV
+dir_POSCAR905
+  free  energy   TOTEN  =       -45.78278966 eV
+dir_POSCAR906
+  free  energy   TOTEN  =       -45.63409993 eV
+dir_POSCAR907
+  free  energy   TOTEN  =       -45.47083458 eV
+dir_POSCAR908
+  free  energy   TOTEN  =       -45.77733338 eV
+dir_POSCAR909
+  free  energy   TOTEN  =       -45.81524762 eV
+dir_POSCAR91
+  free  energy   TOTEN  =       -29.53339202 eV
+dir_POSCAR910
+  free  energy   TOTEN  =       -45.74913244 eV
+dir_POSCAR911
+  free  energy   TOTEN  =       -45.43343033 eV
+dir_POSCAR912
+  free  energy   TOTEN  =       -45.60622356 eV
+dir_POSCAR913
+  free  energy   TOTEN  =       -45.81416486 eV
+dir_POSCAR914
+  free  energy   TOTEN  =       -45.93113120 eV
+dir_POSCAR915
+  free  energy   TOTEN  =       -45.96340871 eV
+dir_POSCAR916
+  free  energy   TOTEN  =       -45.87398639 eV
+dir_POSCAR917
+  free  energy   TOTEN  =       -45.42553725 eV
+dir_POSCAR918
+  free  energy   TOTEN  =       -45.94194270 eV
+dir_POSCAR919
+  free  energy   TOTEN  =       -46.09813754 eV
+dir_POSCAR92
+  free  energy   TOTEN  =       -28.84154861 eV
+dir_POSCAR920
+  free  energy   TOTEN  =       -45.91724603 eV
+dir_POSCAR921
+  free  energy   TOTEN  =       -47.46656995 eV
+dir_POSCAR922
+  free  energy   TOTEN  =       -47.68447248 eV
+dir_POSCAR923
+  free  energy   TOTEN  =       -47.97694874 eV
+dir_POSCAR924
+  free  energy   TOTEN  =       -48.22405806 eV
+dir_POSCAR925
+  free  energy   TOTEN  =       -48.29576669 eV
+dir_POSCAR926
+  free  energy   TOTEN  =       -48.09778766 eV
+dir_POSCAR927
+  free  energy   TOTEN  =       -47.51365145 eV
+dir_POSCAR928
+  free  energy   TOTEN  =       -48.04695711 eV
+dir_POSCAR929
+  free  energy   TOTEN  =       -48.23173162 eV
+dir_POSCAR93
+  free  energy   TOTEN  =       -29.85563784 eV
+dir_POSCAR930
+  free  energy   TOTEN  =       -48.26356434 eV
+dir_POSCAR931
+  free  energy   TOTEN  =       -44.76823930 eV
+dir_POSCAR932
+  free  energy   TOTEN  =       -45.48488299 eV
+dir_POSCAR933
+  free  energy   TOTEN  =       -45.92146689 eV
+dir_POSCAR934
+  free  energy   TOTEN  =       -45.53287124 eV
+dir_POSCAR935
+  free  energy   TOTEN  =       -44.80409861 eV
+dir_POSCAR936
+  free  energy   TOTEN  =       -45.81309723 eV
+dir_POSCAR937
+  free  energy   TOTEN  =       -44.94074770 eV
+dir_POSCAR938
+  free  energy   TOTEN  =       -45.94525586 eV
+dir_POSCAR939
+  free  energy   TOTEN  =       -45.98946381 eV
+dir_POSCAR94
+  free  energy   TOTEN  =       -29.95854061 eV
+dir_POSCAR940
+  free  energy   TOTEN  =       -45.86980299 eV
+dir_POSCAR941
+  free  energy   TOTEN  =       -45.38897284 eV
+dir_POSCAR942
+  free  energy   TOTEN  =       -45.76423939 eV
+dir_POSCAR943
+  free  energy   TOTEN  =       -45.96093055 eV
+dir_POSCAR944
+  free  energy   TOTEN  =       -45.78767904 eV
+dir_POSCAR945
+  free  energy   TOTEN  =       -45.49141914 eV
+dir_POSCAR946
+  free  energy   TOTEN  =       -45.87399041 eV
+dir_POSCAR947
+  free  energy   TOTEN  =       -45.45415625 eV
+dir_POSCAR948
+  free  energy   TOTEN  =       -46.00599316 eV
+dir_POSCAR949
+  free  energy   TOTEN  =       -46.06944131 eV
+dir_POSCAR95
+  free  energy   TOTEN  =       -29.98240559 eV
+dir_POSCAR950
+  free  energy   TOTEN  =       -45.90916285 eV
+dir_POSCAR951
+  free  energy   TOTEN  =       -47.41264563 eV
+dir_POSCAR952
+  free  energy   TOTEN  =       -47.81450743 eV
+dir_POSCAR953
+  free  energy   TOTEN  =       -48.07249498 eV
+dir_POSCAR954
+  free  energy   TOTEN  =       -48.06911492 eV
+dir_POSCAR955
+  free  energy   TOTEN  =       -47.83993893 eV
+dir_POSCAR956
+  free  energy   TOTEN  =       -48.06102772 eV
+dir_POSCAR957
+  free  energy   TOTEN  =       -47.53150259 eV
+dir_POSCAR958
+  free  energy   TOTEN  =       -48.14152441 eV
+dir_POSCAR959
+  free  energy   TOTEN  =       -48.23800654 eV
+dir_POSCAR96
+  free  energy   TOTEN  =       -29.97435940 eV
+dir_POSCAR960
+  free  energy   TOTEN  =       -48.21325803 eV
+dir_POSCAR961
+  free  energy   TOTEN  =       -47.40212677 eV
+dir_POSCAR962
+  free  energy   TOTEN  =       -47.89782126 eV
+dir_POSCAR963
+  free  energy   TOTEN  =       -48.21858574 eV
+dir_POSCAR964
+  free  energy   TOTEN  =       -47.91944510 eV
+dir_POSCAR965
+  free  energy   TOTEN  =       -47.44894165 eV
+dir_POSCAR966
+  free  energy   TOTEN  =       -48.09651669 eV
+dir_POSCAR967
+  free  energy   TOTEN  =       -47.52340206 eV
+dir_POSCAR968
+  free  energy   TOTEN  =       -48.30233743 eV
+dir_POSCAR969
+  free  energy   TOTEN  =       -48.33012794 eV
+dir_POSCAR97
+  free  energy   TOTEN  =       -29.45009542 eV
+dir_POSCAR970
+  free  energy   TOTEN  =       -48.13887394 eV
+dir_POSCAR971
+  free  energy   TOTEN  =       -49.68577902 eV
+dir_POSCAR972
+  free  energy   TOTEN  =       -49.94079340 eV
+dir_POSCAR973
+  free  energy   TOTEN  =       -50.20613704 eV
+dir_POSCAR974
+  free  energy   TOTEN  =       -50.40797749 eV
+dir_POSCAR975
+  free  energy   TOTEN  =       -50.38566119 eV
+dir_POSCAR976
+  free  energy   TOTEN  =       -50.27830468 eV
+dir_POSCAR977
+  free  energy   TOTEN  =       -49.77275432 eV
+dir_POSCAR978
+  free  energy   TOTEN  =       -50.23219866 eV
+dir_POSCAR979
+  free  energy   TOTEN  =       -50.42750229 eV
+dir_POSCAR98
+  free  energy   TOTEN  =       -29.67638670 eV
+dir_POSCAR980
+  free  energy   TOTEN  =       -50.46205100 eV
+dir_POSCAR981
+  free  energy   TOTEN  =       -46.05965400 eV
+dir_POSCAR982
+  free  energy   TOTEN  =       -46.00097404 eV
+dir_POSCAR983
+  free  energy   TOTEN  =       -46.05074164 eV
+dir_POSCAR984
+  free  energy   TOTEN  =       -45.97358637 eV
+dir_POSCAR985
+  free  energy   TOTEN  =       -45.83763890 eV
+dir_POSCAR986
+  free  energy   TOTEN  =       -45.96786753 eV
+dir_POSCAR987
+  free  energy   TOTEN  =       -45.89705112 eV
+dir_POSCAR988
+  free  energy   TOTEN  =       -46.06605778 eV
+dir_POSCAR989
+  free  energy   TOTEN  =       -46.01024510 eV
+dir_POSCAR99
+  free  energy   TOTEN  =       -29.77973070 eV
+dir_POSCAR990
+  free  energy   TOTEN  =       -46.01505547 eV
+dir_POSCAR991
+  free  energy   TOTEN  =       -48.02145926 eV
+dir_POSCAR992
+  free  energy   TOTEN  =       -48.08714120 eV
+dir_POSCAR993
+  free  energy   TOTEN  =       -48.21704895 eV
+dir_POSCAR994
+  free  energy   TOTEN  =       -48.27461615 eV
+dir_POSCAR995
+  free  energy   TOTEN  =       -48.19812629 eV
+dir_POSCAR996
+  free  energy   TOTEN  =       -48.22773391 eV
+dir_POSCAR997
+  free  energy   TOTEN  =       -47.91518295 eV
+dir_POSCAR998
+  free  energy   TOTEN  =       -48.28927522 eV
+dir_POSCAR999
+  free  energy   TOTEN  =       -48.27546857 eV

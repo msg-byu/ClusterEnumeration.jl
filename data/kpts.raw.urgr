@@ -1,0 +1,4692 @@
+dir_POSCAR0
+ KPOINTS: autoGR kpoint generation:  1156 (irred),
+dir_POSCAR1
+ KPOINTS: autoGR kpoint generation:   770 (irred),
+dir_POSCAR10
+ KPOINTS: autoGR kpoint generation:   829 (irred),
+dir_POSCAR100
+ KPOINTS: autoGR kpoint generation:  1456 (irred),
+dir_POSCAR1000
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR1001
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR1002
+ KPOINTS: autoGR kpoint generation:   486 (irred),
+dir_POSCAR1003
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR1004
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1005
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR1006
+ KPOINTS: autoGR kpoint generation:   897 (irred),
+dir_POSCAR1007
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR1008
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR1009
+ KPOINTS: autoGR kpoint generation:  1760 (irred),
+dir_POSCAR101
+ KPOINTS: autoGR kpoint generation:  1407 (irred),
+dir_POSCAR1010
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR1011
+ KPOINTS: autoGR kpoint generation:   332 (irred),
+dir_POSCAR1012
+ KPOINTS: autoGR kpoint generation:   468 (irred),
+dir_POSCAR1013
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1014
+ KPOINTS: autoGR kpoint generation:   871 (irred),
+dir_POSCAR1015
+ KPOINTS: autoGR kpoint generation:   858 (irred),
+dir_POSCAR1016
+ KPOINTS: autoGR kpoint generation:   858 (irred),
+dir_POSCAR1017
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR1018
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1019
+ KPOINTS: autoGR kpoint generation:  1696 (irred),
+dir_POSCAR102
+ KPOINTS: autoGR kpoint generation:   396 (irred),
+dir_POSCAR1020
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1021
+ KPOINTS: autoGR kpoint generation:   332 (irred),
+dir_POSCAR1022
+ KPOINTS: autoGR kpoint generation:   468 (irred),
+dir_POSCAR1023
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1024
+ KPOINTS: autoGR kpoint generation:   871 (irred),
+dir_POSCAR1025
+ KPOINTS: autoGR kpoint generation:   858 (irred),
+dir_POSCAR1026
+ KPOINTS: autoGR kpoint generation:   858 (irred),
+dir_POSCAR1027
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR1028
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1029
+ KPOINTS: autoGR kpoint generation:  1696 (irred),
+dir_POSCAR103
+ KPOINTS: autoGR kpoint generation:  1452 (irred),
+dir_POSCAR1030
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1031
+ KPOINTS: autoGR kpoint generation:   332 (irred),
+dir_POSCAR1032
+ KPOINTS: autoGR kpoint generation:   468 (irred),
+dir_POSCAR1033
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1034
+ KPOINTS: autoGR kpoint generation:   871 (irred),
+dir_POSCAR1035
+ KPOINTS: autoGR kpoint generation:   858 (irred),
+dir_POSCAR1036
+ KPOINTS: autoGR kpoint generation:   858 (irred),
+dir_POSCAR1037
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR1038
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1039
+ KPOINTS: autoGR kpoint generation:  1696 (irred),
+dir_POSCAR104
+ KPOINTS: autoGR kpoint generation:  1409 (irred),
+dir_POSCAR1040
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR1041
+ KPOINTS: autoGR kpoint generation:   332 (irred),
+dir_POSCAR1042
+ KPOINTS: autoGR kpoint generation:   450 (irred),
+dir_POSCAR1043
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1044
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1045
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1046
+ KPOINTS: autoGR kpoint generation:   828 (irred),
+dir_POSCAR1047
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR1048
+ KPOINTS: autoGR kpoint generation:   827 (irred),
+dir_POSCAR1049
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR105
+ KPOINTS: autoGR kpoint generation:  1426 (irred),
+dir_POSCAR1050
+ KPOINTS: autoGR kpoint generation:   827 (irred),
+dir_POSCAR1051
+ KPOINTS: autoGR kpoint generation:   732 (irred),
+dir_POSCAR1052
+ KPOINTS: autoGR kpoint generation:  2116 (irred),
+dir_POSCAR1053
+ KPOINTS: autoGR kpoint generation:  2000 (irred),
+dir_POSCAR1054
+ KPOINTS: autoGR kpoint generation:   703 (irred),
+dir_POSCAR1055
+ KPOINTS: autoGR kpoint generation:  2000 (irred),
+dir_POSCAR1056
+ KPOINTS: autoGR kpoint generation:  1936 (irred),
+dir_POSCAR1057
+ KPOINTS: autoGR kpoint generation:  1936 (irred),
+dir_POSCAR1058
+ KPOINTS: autoGR kpoint generation:  1936 (irred),
+dir_POSCAR1059
+ KPOINTS: autoGR kpoint generation:  1922 (irred),
+dir_POSCAR106
+ KPOINTS: autoGR kpoint generation:   808 (irred),
+dir_POSCAR1060
+ KPOINTS: autoGR kpoint generation:  1922 (irred),
+dir_POSCAR1061
+ KPOINTS: autoGR kpoint generation:  1800 (irred),
+dir_POSCAR1062
+ KPOINTS: autoGR kpoint generation:   650 (irred),
+dir_POSCAR1063
+ KPOINTS: autoGR kpoint generation:  1922 (irred),
+dir_POSCAR1064
+ KPOINTS: autoGR kpoint generation:   650 (irred),
+dir_POSCAR1065
+ KPOINTS: autoGR kpoint generation:  1800 (irred),
+dir_POSCAR1066
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1067
+ KPOINTS: autoGR kpoint generation:   620 (irred),
+dir_POSCAR1068
+ KPOINTS: autoGR kpoint generation:   563 (irred),
+dir_POSCAR1069
+ KPOINTS: autoGR kpoint generation:   591 (irred),
+dir_POSCAR107
+ KPOINTS: autoGR kpoint generation:   494 (irred),
+dir_POSCAR1070
+ KPOINTS: autoGR kpoint generation:  1064 (irred),
+dir_POSCAR1071
+ KPOINTS: autoGR kpoint generation:   592 (irred),
+dir_POSCAR1072
+ KPOINTS: autoGR kpoint generation:   568 (irred),
+dir_POSCAR1073
+ KPOINTS: autoGR kpoint generation:   592 (irred),
+dir_POSCAR1074
+ KPOINTS: autoGR kpoint generation:   568 (irred),
+dir_POSCAR1075
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR1076
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR1077
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR1078
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR1079
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR108
+ KPOINTS: autoGR kpoint generation:   720 (irred),
+dir_POSCAR1080
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR1081
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR1082
+ KPOINTS: autoGR kpoint generation:   507 (irred),
+dir_POSCAR1083
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR1084
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR1085
+ KPOINTS: autoGR kpoint generation:   507 (irred),
+dir_POSCAR1086
+ KPOINTS: autoGR kpoint generation:   504 (irred),
+dir_POSCAR1087
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR1088
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR1089
+ KPOINTS: autoGR kpoint generation:   507 (irred),
+dir_POSCAR109
+ KPOINTS: autoGR kpoint generation:  1334 (irred),
+dir_POSCAR1090
+ KPOINTS: autoGR kpoint generation:   504 (irred),
+dir_POSCAR1091
+ KPOINTS: autoGR kpoint generation:   507 (irred),
+dir_POSCAR1092
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1093
+ KPOINTS: autoGR kpoint generation:   871 (irred),
+dir_POSCAR1094
+ KPOINTS: autoGR kpoint generation:   471 (irred),
+dir_POSCAR1095
+ KPOINTS: autoGR kpoint generation:   471 (irred),
+dir_POSCAR1096
+ KPOINTS: autoGR kpoint generation:   484 (irred),
+dir_POSCAR1097
+ KPOINTS: autoGR kpoint generation:   425 (irred),
+dir_POSCAR1098
+ KPOINTS: autoGR kpoint generation:   400 (irred),
+dir_POSCAR1099
+ KPOINTS: autoGR kpoint generation:  1104 (irred),
+dir_POSCAR11
+ KPOINTS: autoGR kpoint generation:  1152 (irred),
+dir_POSCAR110
+ KPOINTS: autoGR kpoint generation:  1344 (irred),
+dir_POSCAR1100
+ KPOINTS: autoGR kpoint generation:  1050 (irred),
+dir_POSCAR1101
+ KPOINTS: autoGR kpoint generation:   368 (irred),
+dir_POSCAR1102
+ KPOINTS: autoGR kpoint generation:  1012 (irred),
+dir_POSCAR1103
+ KPOINTS: autoGR kpoint generation:   368 (irred),
+dir_POSCAR1104
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR1105
+ KPOINTS: autoGR kpoint generation:  1012 (irred),
+dir_POSCAR1106
+ KPOINTS: autoGR kpoint generation:  1012 (irred),
+dir_POSCAR1107
+ KPOINTS: autoGR kpoint generation:  1012 (irred),
+dir_POSCAR1108
+ KPOINTS: autoGR kpoint generation:  1012 (irred),
+dir_POSCAR1109
+ KPOINTS: autoGR kpoint generation:  1012 (irred),
+dir_POSCAR111
+ KPOINTS: autoGR kpoint generation:  1334 (irred),
+dir_POSCAR1110
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR1111
+ KPOINTS: autoGR kpoint generation:   340 (irred),
+dir_POSCAR1112
+ KPOINTS: autoGR kpoint generation:   356 (irred),
+dir_POSCAR1113
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1114
+ KPOINTS: autoGR kpoint generation:   340 (irred),
+dir_POSCAR1115
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR1116
+ KPOINTS: autoGR kpoint generation:   605 (irred),
+dir_POSCAR1117
+ KPOINTS: autoGR kpoint generation:   640 (irred),
+dir_POSCAR1118
+ KPOINTS: autoGR kpoint generation:   580 (irred),
+dir_POSCAR1119
+ KPOINTS: autoGR kpoint generation:   612 (irred),
+dir_POSCAR112
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR1120
+ KPOINTS: autoGR kpoint generation:   565 (irred),
+dir_POSCAR1121
+ KPOINTS: autoGR kpoint generation:   984 (irred),
+dir_POSCAR1122
+ KPOINTS: autoGR kpoint generation:   324 (irred),
+dir_POSCAR1123
+ KPOINTS: autoGR kpoint generation:   550 (irred),
+dir_POSCAR1124
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR1125
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR1126
+ KPOINTS: autoGR kpoint generation:   324 (irred),
+dir_POSCAR1127
+ KPOINTS: autoGR kpoint generation:   560 (irred),
+dir_POSCAR1128
+ KPOINTS: autoGR kpoint generation:   334 (irred),
+dir_POSCAR1129
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR113
+ KPOINTS: autoGR kpoint generation:  1365 (irred),
+dir_POSCAR1130
+ KPOINTS: autoGR kpoint generation:   334 (irred),
+dir_POSCAR1131
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR1132
+ KPOINTS: autoGR kpoint generation:   529 (irred),
+dir_POSCAR1133
+ KPOINTS: autoGR kpoint generation:   532 (irred),
+dir_POSCAR1134
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR1135
+ KPOINTS: autoGR kpoint generation:   374 (irred),
+dir_POSCAR1136
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR1137
+ KPOINTS: autoGR kpoint generation:   986 (irred),
+dir_POSCAR1138
+ KPOINTS: autoGR kpoint generation:   975 (irred),
+dir_POSCAR1139
+ KPOINTS: autoGR kpoint generation:   986 (irred),
+dir_POSCAR114
+ KPOINTS: autoGR kpoint generation:  1332 (irred),
+dir_POSCAR1140
+ KPOINTS: autoGR kpoint generation:   975 (irred),
+dir_POSCAR1141
+ KPOINTS: autoGR kpoint generation:   986 (irred),
+dir_POSCAR1142
+ KPOINTS: autoGR kpoint generation:   986 (irred),
+dir_POSCAR1143
+ KPOINTS: autoGR kpoint generation:   264 (irred),
+dir_POSCAR1144
+ KPOINTS: autoGR kpoint generation:   968 (irred),
+dir_POSCAR1145
+ KPOINTS: autoGR kpoint generation:  1935 (irred),
+dir_POSCAR1146
+ KPOINTS: autoGR kpoint generation:  1920 (irred),
+dir_POSCAR1147
+ KPOINTS: autoGR kpoint generation:   969 (irred),
+dir_POSCAR1148
+ KPOINTS: autoGR kpoint generation:  1920 (irred),
+dir_POSCAR1149
+ KPOINTS: autoGR kpoint generation:   989 (irred),
+dir_POSCAR115
+ KPOINTS: autoGR kpoint generation:  1380 (irred),
+dir_POSCAR1150
+ KPOINTS: autoGR kpoint generation:   986 (irred),
+dir_POSCAR1151
+ KPOINTS: autoGR kpoint generation:   506 (irred),
+dir_POSCAR1152
+ KPOINTS: autoGR kpoint generation:   374 (irred),
+dir_POSCAR1153
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1154
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1155
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1156
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1157
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1158
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1159
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR116
+ KPOINTS: autoGR kpoint generation:   752 (irred),
+dir_POSCAR1160
+ KPOINTS: autoGR kpoint generation:   264 (irred),
+dir_POSCAR1161
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1162
+ KPOINTS: autoGR kpoint generation:  1869 (irred),
+dir_POSCAR1163
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR1164
+ KPOINTS: autoGR kpoint generation:   934 (irred),
+dir_POSCAR1165
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR1166
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1167
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1168
+ KPOINTS: autoGR kpoint generation:   494 (irred),
+dir_POSCAR1169
+ KPOINTS: autoGR kpoint generation:   374 (irred),
+dir_POSCAR117
+ KPOINTS: autoGR kpoint generation:   494 (irred),
+dir_POSCAR1170
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1171
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1172
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1173
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1174
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1175
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1176
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1177
+ KPOINTS: autoGR kpoint generation:   264 (irred),
+dir_POSCAR1178
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1179
+ KPOINTS: autoGR kpoint generation:  1869 (irred),
+dir_POSCAR118
+ KPOINTS: autoGR kpoint generation:   720 (irred),
+dir_POSCAR1180
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR1181
+ KPOINTS: autoGR kpoint generation:   934 (irred),
+dir_POSCAR1182
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR1183
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1184
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1185
+ KPOINTS: autoGR kpoint generation:   494 (irred),
+dir_POSCAR1186
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1187
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1188
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1189
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR119
+ KPOINTS: autoGR kpoint generation:  1334 (irred),
+dir_POSCAR1190
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1191
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1192
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1193
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1194
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR1195
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1196
+ KPOINTS: autoGR kpoint generation:  1805 (irred),
+dir_POSCAR1197
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1198
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1199
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR12
+ KPOINTS: autoGR kpoint generation:  2295 (irred),
+dir_POSCAR120
+ KPOINTS: autoGR kpoint generation:  1344 (irred),
+dir_POSCAR1200
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1201
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1202
+ KPOINTS: autoGR kpoint generation:   511 (irred),
+dir_POSCAR1203
+ KPOINTS: autoGR kpoint generation:   374 (irred),
+dir_POSCAR1204
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1205
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1206
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1207
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1208
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1209
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR121
+ KPOINTS: autoGR kpoint generation:  1334 (irred),
+dir_POSCAR1210
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1211
+ KPOINTS: autoGR kpoint generation:   264 (irred),
+dir_POSCAR1212
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1213
+ KPOINTS: autoGR kpoint generation:  1869 (irred),
+dir_POSCAR1214
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR1215
+ KPOINTS: autoGR kpoint generation:   934 (irred),
+dir_POSCAR1216
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR1217
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1218
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1219
+ KPOINTS: autoGR kpoint generation:   494 (irred),
+dir_POSCAR122
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR1220
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1221
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1222
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1223
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1224
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1225
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1226
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1227
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1228
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR1229
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR123
+ KPOINTS: autoGR kpoint generation:  1365 (irred),
+dir_POSCAR1230
+ KPOINTS: autoGR kpoint generation:  1805 (irred),
+dir_POSCAR1231
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1232
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1233
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1234
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1235
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1236
+ KPOINTS: autoGR kpoint generation:   511 (irred),
+dir_POSCAR1237
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1238
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1239
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR124
+ KPOINTS: autoGR kpoint generation:  1332 (irred),
+dir_POSCAR1240
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1241
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1242
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1243
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1244
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1245
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1246
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1247
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1248
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1249
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR125
+ KPOINTS: autoGR kpoint generation:  1380 (irred),
+dir_POSCAR1250
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1251
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1252
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1253
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1254
+ KPOINTS: autoGR kpoint generation:   374 (irred),
+dir_POSCAR1255
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1256
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1257
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1258
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1259
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR126
+ KPOINTS: autoGR kpoint generation:   752 (irred),
+dir_POSCAR1260
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR1261
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1262
+ KPOINTS: autoGR kpoint generation:   264 (irred),
+dir_POSCAR1263
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1264
+ KPOINTS: autoGR kpoint generation:  1869 (irred),
+dir_POSCAR1265
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR1266
+ KPOINTS: autoGR kpoint generation:   934 (irred),
+dir_POSCAR1267
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR1268
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR1269
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR127
+ KPOINTS: autoGR kpoint generation:   470 (irred),
+dir_POSCAR1270
+ KPOINTS: autoGR kpoint generation:   494 (irred),
+dir_POSCAR1271
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1272
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1273
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1274
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1275
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1276
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1277
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1278
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1279
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR128
+ KPOINTS: autoGR kpoint generation:   660 (irred),
+dir_POSCAR1280
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1281
+ KPOINTS: autoGR kpoint generation:  1805 (irred),
+dir_POSCAR1282
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1283
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1284
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1285
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1286
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1287
+ KPOINTS: autoGR kpoint generation:   511 (irred),
+dir_POSCAR1288
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1289
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR129
+ KPOINTS: autoGR kpoint generation:  1264 (irred),
+dir_POSCAR1290
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1291
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1292
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1293
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1294
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1295
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1296
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR1297
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1298
+ KPOINTS: autoGR kpoint generation:  1805 (irred),
+dir_POSCAR1299
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR13
+ KPOINTS: autoGR kpoint generation:   612 (irred),
+dir_POSCAR130
+ KPOINTS: autoGR kpoint generation:  1274 (irred),
+dir_POSCAR1300
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1301
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1302
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1303
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1304
+ KPOINTS: autoGR kpoint generation:   511 (irred),
+dir_POSCAR1305
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1306
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1307
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1308
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1309
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR131
+ KPOINTS: autoGR kpoint generation:  1264 (irred),
+dir_POSCAR1310
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1311
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1312
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1313
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1314
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1315
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1316
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1317
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1318
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1319
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR132
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR1320
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1321
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1322
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1323
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1324
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1325
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1326
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1327
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1328
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1329
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR133
+ KPOINTS: autoGR kpoint generation:  1264 (irred),
+dir_POSCAR1330
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1331
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1332
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1333
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1334
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1335
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1336
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1337
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1338
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1339
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR134
+ KPOINTS: autoGR kpoint generation:  1263 (irred),
+dir_POSCAR1340
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1341
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1342
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1343
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1344
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1345
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1346
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1347
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1348
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1349
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR135
+ KPOINTS: autoGR kpoint generation:  1288 (irred),
+dir_POSCAR1350
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1351
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1352
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1353
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1354
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1355
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1356
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1357
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1358
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1359
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR136
+ KPOINTS: autoGR kpoint generation:   720 (irred),
+dir_POSCAR1360
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1361
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1362
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1363
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1364
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR1365
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1366
+ KPOINTS: autoGR kpoint generation:  1805 (irred),
+dir_POSCAR1367
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1368
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1369
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR137
+ KPOINTS: autoGR kpoint generation:   534 (irred),
+dir_POSCAR1370
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1371
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1372
+ KPOINTS: autoGR kpoint generation:   511 (irred),
+dir_POSCAR1373
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1374
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1375
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1376
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1377
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1378
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1379
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR138
+ KPOINTS: autoGR kpoint generation:   722 (irred),
+dir_POSCAR1380
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1381
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR1382
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1383
+ KPOINTS: autoGR kpoint generation:  1805 (irred),
+dir_POSCAR1384
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1385
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1386
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1387
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1388
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1389
+ KPOINTS: autoGR kpoint generation:   511 (irred),
+dir_POSCAR139
+ KPOINTS: autoGR kpoint generation:  1363 (irred),
+dir_POSCAR1390
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1391
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1392
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1393
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1394
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1395
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1396
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1397
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1398
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1399
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR14
+ KPOINTS: autoGR kpoint generation:   728 (irred),
+dir_POSCAR140
+ KPOINTS: autoGR kpoint generation:  1363 (irred),
+dir_POSCAR1400
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1401
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1402
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1403
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1404
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1405
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1406
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1407
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1408
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1409
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR141
+ KPOINTS: autoGR kpoint generation:   486 (irred),
+dir_POSCAR1410
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1411
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1412
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1413
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1414
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1415
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1416
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1417
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1418
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1419
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR142
+ KPOINTS: autoGR kpoint generation:  1407 (irred),
+dir_POSCAR1420
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1421
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1422
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1423
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1424
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1425
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1426
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1427
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1428
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1429
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR143
+ KPOINTS: autoGR kpoint generation:   484 (irred),
+dir_POSCAR1430
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1431
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1432
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1433
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1434
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1435
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1436
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1437
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1438
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1439
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR144
+ KPOINTS: autoGR kpoint generation:   690 (irred),
+dir_POSCAR1440
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1441
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1442
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1443
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1444
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1445
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1446
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1447
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1448
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1449
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR145
+ KPOINTS: autoGR kpoint generation:  1320 (irred),
+dir_POSCAR1450
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1451
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1452
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1453
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1454
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1455
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1456
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1457
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1458
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1459
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR146
+ KPOINTS: autoGR kpoint generation:  1296 (irred),
+dir_POSCAR1460
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1461
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1462
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1463
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1464
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1465
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1466
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1467
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1468
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1469
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR147
+ KPOINTS: autoGR kpoint generation:   459 (irred),
+dir_POSCAR1470
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1471
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1472
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1473
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1474
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1475
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1476
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1477
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1478
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1479
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR148
+ KPOINTS: autoGR kpoint generation:  1298 (irred),
+dir_POSCAR1480
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1481
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1482
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1483
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1484
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1485
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1486
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1487
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1488
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1489
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR149
+ KPOINTS: autoGR kpoint generation:   484 (irred),
+dir_POSCAR1490
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1491
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1492
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1493
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR1494
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1495
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR1496
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1497
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR1498
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1499
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR15
+ KPOINTS: autoGR kpoint generation:   780 (irred),
+dir_POSCAR150
+ KPOINTS: autoGR kpoint generation:   690 (irred),
+dir_POSCAR1500
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR1501
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR1502
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR1503
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1504
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1505
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1506
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1507
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1508
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR1509
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR151
+ KPOINTS: autoGR kpoint generation:  1320 (irred),
+dir_POSCAR1510
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1511
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1512
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1513
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1514
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1515
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1516
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1517
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR1518
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1519
+ KPOINTS: autoGR kpoint generation:  1805 (irred),
+dir_POSCAR152
+ KPOINTS: autoGR kpoint generation:  1296 (irred),
+dir_POSCAR1520
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1521
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1522
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1523
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1524
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1525
+ KPOINTS: autoGR kpoint generation:   511 (irred),
+dir_POSCAR1526
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1527
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1528
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1529
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR153
+ KPOINTS: autoGR kpoint generation:   459 (irred),
+dir_POSCAR1530
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1531
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1532
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1533
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1534
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1535
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1536
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1537
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1538
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1539
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR154
+ KPOINTS: autoGR kpoint generation:  1298 (irred),
+dir_POSCAR1540
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1541
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1542
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1543
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1544
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR1545
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1546
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1547
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1548
+ KPOINTS: autoGR kpoint generation:   910 (irred),
+dir_POSCAR1549
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR155
+ KPOINTS: autoGR kpoint generation:   484 (irred),
+dir_POSCAR1550
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1551
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR1552
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1553
+ KPOINTS: autoGR kpoint generation:  1805 (irred),
+dir_POSCAR1554
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1555
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1556
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR1557
+ KPOINTS: autoGR kpoint generation:   903 (irred),
+dir_POSCAR1558
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR1559
+ KPOINTS: autoGR kpoint generation:   511 (irred),
+dir_POSCAR156
+ KPOINTS: autoGR kpoint generation:   662 (irred),
+dir_POSCAR1560
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1561
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1562
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1563
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1564
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1565
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1566
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1567
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1568
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1569
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR157
+ KPOINTS: autoGR kpoint generation:  1236 (irred),
+dir_POSCAR1570
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1571
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1572
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1573
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1574
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1575
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1576
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1577
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1578
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1579
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR158
+ KPOINTS: autoGR kpoint generation:  1236 (irred),
+dir_POSCAR1580
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1581
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1582
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1583
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1584
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1585
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1586
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1587
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1588
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1589
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR159
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR1590
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1591
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1592
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1593
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1594
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1595
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1596
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1597
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1598
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1599
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR16
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR160
+ KPOINTS: autoGR kpoint generation:  1235 (irred),
+dir_POSCAR1600
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1601
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1602
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1603
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1604
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1605
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1606
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1607
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1608
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1609
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR161
+ KPOINTS: autoGR kpoint generation:   484 (irred),
+dir_POSCAR1610
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1611
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1612
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1613
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1614
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1615
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1616
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1617
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1618
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1619
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR162
+ KPOINTS: autoGR kpoint generation:   690 (irred),
+dir_POSCAR1620
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1621
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1622
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1623
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1624
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1625
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1626
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1627
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1628
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1629
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR163
+ KPOINTS: autoGR kpoint generation:  1320 (irred),
+dir_POSCAR1630
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1631
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1632
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1633
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1634
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1635
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1636
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1637
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1638
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1639
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR164
+ KPOINTS: autoGR kpoint generation:  1296 (irred),
+dir_POSCAR1640
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1641
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1642
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1643
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1644
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1645
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1646
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1647
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1648
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1649
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR165
+ KPOINTS: autoGR kpoint generation:   459 (irred),
+dir_POSCAR1650
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1651
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1652
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1653
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1654
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1655
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1656
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1657
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1658
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1659
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR166
+ KPOINTS: autoGR kpoint generation:  1298 (irred),
+dir_POSCAR1660
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1661
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1662
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1663
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1664
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1665
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1666
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1667
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1668
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1669
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR167
+ KPOINTS: autoGR kpoint generation:   484 (irred),
+dir_POSCAR1670
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1671
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1672
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1673
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1674
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1675
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1676
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1677
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1678
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1679
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR168
+ KPOINTS: autoGR kpoint generation:   662 (irred),
+dir_POSCAR1680
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1681
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1682
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1683
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1684
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1685
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1686
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1687
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1688
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1689
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR169
+ KPOINTS: autoGR kpoint generation:  1236 (irred),
+dir_POSCAR1690
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1691
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1692
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1693
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1694
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1695
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1696
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1697
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR1698
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1699
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR17
+ KPOINTS: autoGR kpoint generation:  2110 (irred),
+dir_POSCAR170
+ KPOINTS: autoGR kpoint generation:  1236 (irred),
+dir_POSCAR1700
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1701
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR1702
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1703
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1704
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR1705
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR1706
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR1707
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1708
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1709
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR171
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR1710
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1711
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1712
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR1713
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1714
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1715
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1716
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1717
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1718
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1719
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR172
+ KPOINTS: autoGR kpoint generation:  1235 (irred),
+dir_POSCAR1720
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1721
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1722
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1723
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1724
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1725
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1726
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1727
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1728
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1729
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR173
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR1730
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1731
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1732
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1733
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1734
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1735
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1736
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1737
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1738
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1739
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR174
+ KPOINTS: autoGR kpoint generation:   634 (irred),
+dir_POSCAR1740
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1741
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1742
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1743
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1744
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1745
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1746
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1747
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1748
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR1749
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR175
+ KPOINTS: autoGR kpoint generation:  1179 (irred),
+dir_POSCAR1750
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR1751
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1752
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR1753
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1754
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1755
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR1756
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR1757
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR1758
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1759
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR176
+ KPOINTS: autoGR kpoint generation:  1179 (irred),
+dir_POSCAR1760
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1761
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1762
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1763
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR1764
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1765
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR1766
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1767
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR1768
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1769
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR177
+ KPOINTS: autoGR kpoint generation:   407 (irred),
+dir_POSCAR1770
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1771
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1772
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR1773
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR1774
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR1775
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1776
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1777
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1778
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1779
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR178
+ KPOINTS: autoGR kpoint generation:  1178 (irred),
+dir_POSCAR1780
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR1781
+ KPOINTS: autoGR kpoint generation:   310 (irred),
+dir_POSCAR1782
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR1783
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR1784
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR1785
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR1786
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR1787
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR1788
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR1789
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR179
+ KPOINTS: autoGR kpoint generation:   484 (irred),
+dir_POSCAR1790
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR1791
+ KPOINTS: autoGR kpoint generation:  1581 (irred),
+dir_POSCAR1792
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR1793
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR1794
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR1795
+ KPOINTS: autoGR kpoint generation:   791 (irred),
+dir_POSCAR1796
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR1797
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR1798
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1799
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR18
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR180
+ KPOINTS: autoGR kpoint generation:   662 (irred),
+dir_POSCAR1800
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1801
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1802
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1803
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1804
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1805
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1806
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1807
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1808
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1809
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR181
+ KPOINTS: autoGR kpoint generation:  1236 (irred),
+dir_POSCAR1810
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1811
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1812
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1813
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1814
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1815
+ KPOINTS: autoGR kpoint generation:   352 (irred),
+dir_POSCAR1816
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1817
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1818
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1819
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR182
+ KPOINTS: autoGR kpoint generation:  1236 (irred),
+dir_POSCAR1820
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1821
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1822
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1823
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1824
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR1825
+ KPOINTS: autoGR kpoint generation:  1746 (irred),
+dir_POSCAR1826
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1827
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR1828
+ KPOINTS: autoGR kpoint generation:  1728 (irred),
+dir_POSCAR1829
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR183
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR1830
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR1831
+ KPOINTS: autoGR kpoint generation:   456 (irred),
+dir_POSCAR1832
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1833
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1834
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1835
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1836
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1837
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1838
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1839
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR184
+ KPOINTS: autoGR kpoint generation:  1235 (irred),
+dir_POSCAR1840
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1841
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1842
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1843
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1844
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1845
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1846
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1847
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1848
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1849
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR185
+ KPOINTS: autoGR kpoint generation:   484 (irred),
+dir_POSCAR1850
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1851
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1852
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1853
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1854
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1855
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1856
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1857
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1858
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1859
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR186
+ KPOINTS: autoGR kpoint generation:   662 (irred),
+dir_POSCAR1860
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1861
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1862
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1863
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1864
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1865
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1866
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1867
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR1868
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1869
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR187
+ KPOINTS: autoGR kpoint generation:  1236 (irred),
+dir_POSCAR1870
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1871
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR1872
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1873
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1874
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR1875
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR1876
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR1877
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1878
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1879
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR188
+ KPOINTS: autoGR kpoint generation:  1236 (irred),
+dir_POSCAR1880
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1881
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1882
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR1883
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1884
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1885
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1886
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1887
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1888
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1889
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR189
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR1890
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1891
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1892
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1893
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1894
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1895
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1896
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1897
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1898
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1899
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR19
+ KPOINTS: autoGR kpoint generation:   680 (irred),
+dir_POSCAR190
+ KPOINTS: autoGR kpoint generation:  1235 (irred),
+dir_POSCAR1900
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1901
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1902
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1903
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1904
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1905
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1906
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1907
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1908
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1909
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR191
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR1910
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1911
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1912
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1913
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1914
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1915
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1916
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1917
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1918
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1919
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR192
+ KPOINTS: autoGR kpoint generation:   634 (irred),
+dir_POSCAR1920
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1921
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1922
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1923
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1924
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1925
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR1926
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1927
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1928
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1929
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR193
+ KPOINTS: autoGR kpoint generation:  1179 (irred),
+dir_POSCAR1930
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1931
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1932
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1933
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1934
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1935
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR1936
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1937
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR1938
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1939
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR194
+ KPOINTS: autoGR kpoint generation:  1179 (irred),
+dir_POSCAR1940
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1941
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1942
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR1943
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR1944
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR1945
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1946
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1947
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1948
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1949
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR195
+ KPOINTS: autoGR kpoint generation:   407 (irred),
+dir_POSCAR1950
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR1951
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1952
+ KPOINTS: autoGR kpoint generation:   462 (irred),
+dir_POSCAR1953
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1954
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1955
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1956
+ KPOINTS: autoGR kpoint generation:   880 (irred),
+dir_POSCAR1957
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1958
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1959
+ KPOINTS: autoGR kpoint generation:   240 (irred),
+dir_POSCAR196
+ KPOINTS: autoGR kpoint generation:  1178 (irred),
+dir_POSCAR1960
+ KPOINTS: autoGR kpoint generation:   864 (irred),
+dir_POSCAR1961
+ KPOINTS: autoGR kpoint generation:  1688 (irred),
+dir_POSCAR1962
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1963
+ KPOINTS: autoGR kpoint generation:   924 (irred),
+dir_POSCAR1964
+ KPOINTS: autoGR kpoint generation:  1664 (irred),
+dir_POSCAR1965
+ KPOINTS: autoGR kpoint generation:   846 (irred),
+dir_POSCAR1966
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR1967
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR1968
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1969
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR197
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR1970
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1971
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR1972
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1973
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR1974
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1975
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1976
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR1977
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR1978
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR1979
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR198
+ KPOINTS: autoGR kpoint generation:   634 (irred),
+dir_POSCAR1980
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1981
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1982
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1983
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1984
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR1985
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR1986
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR1987
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1988
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR1989
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR199
+ KPOINTS: autoGR kpoint generation:  1179 (irred),
+dir_POSCAR1990
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR1991
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1992
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR1993
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR1994
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR1995
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR1996
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1997
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR1998
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR1999
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2
+ KPOINTS: autoGR kpoint generation:  1507 (irred),
+dir_POSCAR20
+ KPOINTS: autoGR kpoint generation:   702 (irred),
+dir_POSCAR200
+ KPOINTS: autoGR kpoint generation:  1179 (irred),
+dir_POSCAR2000
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2001
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR2002
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR2003
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR2004
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2005
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR2006
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2007
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR2008
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2009
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR201
+ KPOINTS: autoGR kpoint generation:   407 (irred),
+dir_POSCAR2010
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR2011
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR2012
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR2013
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2014
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2015
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2016
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2017
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2018
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR2019
+ KPOINTS: autoGR kpoint generation:   310 (irred),
+dir_POSCAR202
+ KPOINTS: autoGR kpoint generation:  1178 (irred),
+dir_POSCAR2020
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2021
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2022
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2023
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2024
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2025
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2026
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2027
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR2028
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2029
+ KPOINTS: autoGR kpoint generation:  1581 (irred),
+dir_POSCAR203
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2030
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2031
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2032
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2033
+ KPOINTS: autoGR kpoint generation:   791 (irred),
+dir_POSCAR2034
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2035
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2036
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR2037
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR2038
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2039
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR204
+ KPOINTS: autoGR kpoint generation:   609 (irred),
+dir_POSCAR2040
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2041
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR2042
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2043
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2044
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR2045
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR2046
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR2047
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2048
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2049
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR205
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2050
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2051
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2052
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR2053
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR2054
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR2055
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2056
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR2057
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2058
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR2059
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR206
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2060
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2061
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR2062
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR2063
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR2064
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2065
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2066
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2067
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2068
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2069
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR207
+ KPOINTS: autoGR kpoint generation:   407 (irred),
+dir_POSCAR2070
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR2071
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR2072
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2073
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR2074
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2075
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR2076
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2077
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2078
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR2079
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR208
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2080
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR2081
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2082
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2083
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2084
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2085
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2086
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR2087
+ KPOINTS: autoGR kpoint generation:   310 (irred),
+dir_POSCAR2088
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2089
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR209
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2090
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2091
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2092
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2093
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2094
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2095
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR2096
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2097
+ KPOINTS: autoGR kpoint generation:  1581 (irred),
+dir_POSCAR2098
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2099
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR21
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR210
+ KPOINTS: autoGR kpoint generation:   634 (irred),
+dir_POSCAR2100
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2101
+ KPOINTS: autoGR kpoint generation:   791 (irred),
+dir_POSCAR2102
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2103
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2104
+ KPOINTS: autoGR kpoint generation:   310 (irred),
+dir_POSCAR2105
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2106
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2107
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2108
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2109
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR211
+ KPOINTS: autoGR kpoint generation:  1179 (irred),
+dir_POSCAR2110
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2111
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2112
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR2113
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2114
+ KPOINTS: autoGR kpoint generation:  1581 (irred),
+dir_POSCAR2115
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2116
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2117
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2118
+ KPOINTS: autoGR kpoint generation:   791 (irred),
+dir_POSCAR2119
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR212
+ KPOINTS: autoGR kpoint generation:  1179 (irred),
+dir_POSCAR2120
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2121
+ KPOINTS: autoGR kpoint generation:   300 (irred),
+dir_POSCAR2122
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2123
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2124
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2125
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2126
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2127
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2128
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2129
+ KPOINTS: autoGR kpoint generation:   210 (irred),
+dir_POSCAR213
+ KPOINTS: autoGR kpoint generation:   407 (irred),
+dir_POSCAR2130
+ KPOINTS: autoGR kpoint generation:   765 (irred),
+dir_POSCAR2131
+ KPOINTS: autoGR kpoint generation:  1530 (irred),
+dir_POSCAR2132
+ KPOINTS: autoGR kpoint generation:  1504 (irred),
+dir_POSCAR2133
+ KPOINTS: autoGR kpoint generation:   766 (irred),
+dir_POSCAR2134
+ KPOINTS: autoGR kpoint generation:  1504 (irred),
+dir_POSCAR2135
+ KPOINTS: autoGR kpoint generation:   788 (irred),
+dir_POSCAR2136
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2137
+ KPOINTS: autoGR kpoint generation:   450 (irred),
+dir_POSCAR2138
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR2139
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR214
+ KPOINTS: autoGR kpoint generation:  1178 (irred),
+dir_POSCAR2140
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2141
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR2142
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2143
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR2144
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2145
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2146
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR2147
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR2148
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR2149
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR215
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2150
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2151
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2152
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2153
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2154
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR2155
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR2156
+ KPOINTS: autoGR kpoint generation:   429 (irred),
+dir_POSCAR2157
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2158
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR2159
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR216
+ KPOINTS: autoGR kpoint generation:   609 (irred),
+dir_POSCAR2160
+ KPOINTS: autoGR kpoint generation:   854 (irred),
+dir_POSCAR2161
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2162
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2163
+ KPOINTS: autoGR kpoint generation:   242 (irred),
+dir_POSCAR2164
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR2165
+ KPOINTS: autoGR kpoint generation:  1633 (irred),
+dir_POSCAR2166
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2167
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR2168
+ KPOINTS: autoGR kpoint generation:  1632 (irred),
+dir_POSCAR2169
+ KPOINTS: autoGR kpoint generation:   818 (irred),
+dir_POSCAR217
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2170
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR2171
+ KPOINTS: autoGR kpoint generation:   451 (irred),
+dir_POSCAR2172
+ KPOINTS: autoGR kpoint generation:   310 (irred),
+dir_POSCAR2173
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2174
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2175
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2176
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2177
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2178
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2179
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR218
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2180
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR2181
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2182
+ KPOINTS: autoGR kpoint generation:  1581 (irred),
+dir_POSCAR2183
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2184
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2185
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2186
+ KPOINTS: autoGR kpoint generation:   791 (irred),
+dir_POSCAR2187
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2188
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2189
+ KPOINTS: autoGR kpoint generation:   310 (irred),
+dir_POSCAR219
+ KPOINTS: autoGR kpoint generation:   407 (irred),
+dir_POSCAR2190
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2191
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2192
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2193
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2194
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2195
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2196
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2197
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR2198
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2199
+ KPOINTS: autoGR kpoint generation:  1581 (irred),
+dir_POSCAR22
+ KPOINTS: autoGR kpoint generation:  1944 (irred),
+dir_POSCAR220
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2200
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2201
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2202
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2203
+ KPOINTS: autoGR kpoint generation:   791 (irred),
+dir_POSCAR2204
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2205
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2206
+ KPOINTS: autoGR kpoint generation:   310 (irred),
+dir_POSCAR2207
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2208
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2209
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR221
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2210
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2211
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2212
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2213
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2214
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR2215
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2216
+ KPOINTS: autoGR kpoint generation:  1581 (irred),
+dir_POSCAR2217
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2218
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2219
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR222
+ KPOINTS: autoGR kpoint generation:   609 (irred),
+dir_POSCAR2220
+ KPOINTS: autoGR kpoint generation:   791 (irred),
+dir_POSCAR2221
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2222
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2223
+ KPOINTS: autoGR kpoint generation:   300 (irred),
+dir_POSCAR2224
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2225
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2226
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2227
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2228
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2229
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR223
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2230
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2231
+ KPOINTS: autoGR kpoint generation:   210 (irred),
+dir_POSCAR2232
+ KPOINTS: autoGR kpoint generation:   765 (irred),
+dir_POSCAR2233
+ KPOINTS: autoGR kpoint generation:  1530 (irred),
+dir_POSCAR2234
+ KPOINTS: autoGR kpoint generation:  1504 (irred),
+dir_POSCAR2235
+ KPOINTS: autoGR kpoint generation:   766 (irred),
+dir_POSCAR2236
+ KPOINTS: autoGR kpoint generation:  1504 (irred),
+dir_POSCAR2237
+ KPOINTS: autoGR kpoint generation:   788 (irred),
+dir_POSCAR2238
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2239
+ KPOINTS: autoGR kpoint generation:   450 (irred),
+dir_POSCAR224
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2240
+ KPOINTS: autoGR kpoint generation:   310 (irred),
+dir_POSCAR2241
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR2242
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2243
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2244
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2245
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR2246
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2247
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2248
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR2249
+ KPOINTS: autoGR kpoint generation:   798 (irred),
+dir_POSCAR225
+ KPOINTS: autoGR kpoint generation:   407 (irred),
+dir_POSCAR2250
+ KPOINTS: autoGR kpoint generation:  1581 (irred),
+dir_POSCAR2251
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2252
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2253
+ KPOINTS: autoGR kpoint generation:  1568 (irred),
+dir_POSCAR2254
+ KPOINTS: autoGR kpoint generation:   791 (irred),
+dir_POSCAR2255
+ KPOINTS: autoGR kpoint generation:   793 (irred),
+dir_POSCAR2256
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2257
+ KPOINTS: autoGR kpoint generation:   300 (irred),
+dir_POSCAR2258
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2259
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR226
+ KPOINTS: autoGR kpoint generation:  1125 (irred),
+dir_POSCAR2260
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2261
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2262
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2263
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2264
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2265
+ KPOINTS: autoGR kpoint generation:   210 (irred),
+dir_POSCAR2266
+ KPOINTS: autoGR kpoint generation:   765 (irred),
+dir_POSCAR2267
+ KPOINTS: autoGR kpoint generation:  1530 (irred),
+dir_POSCAR2268
+ KPOINTS: autoGR kpoint generation:  1504 (irred),
+dir_POSCAR2269
+ KPOINTS: autoGR kpoint generation:   766 (irred),
+dir_POSCAR227
+ KPOINTS: autoGR kpoint generation:   408 (irred),
+dir_POSCAR2270
+ KPOINTS: autoGR kpoint generation:  1504 (irred),
+dir_POSCAR2271
+ KPOINTS: autoGR kpoint generation:   788 (irred),
+dir_POSCAR2272
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2273
+ KPOINTS: autoGR kpoint generation:   450 (irred),
+dir_POSCAR2274
+ KPOINTS: autoGR kpoint generation:   300 (irred),
+dir_POSCAR2275
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR2276
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2277
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2278
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2279
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR228
+ KPOINTS: autoGR kpoint generation:   574 (irred),
+dir_POSCAR2280
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2281
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR2282
+ KPOINTS: autoGR kpoint generation:   210 (irred),
+dir_POSCAR2283
+ KPOINTS: autoGR kpoint generation:   765 (irred),
+dir_POSCAR2284
+ KPOINTS: autoGR kpoint generation:  1530 (irred),
+dir_POSCAR2285
+ KPOINTS: autoGR kpoint generation:  1504 (irred),
+dir_POSCAR2286
+ KPOINTS: autoGR kpoint generation:   766 (irred),
+dir_POSCAR2287
+ KPOINTS: autoGR kpoint generation:  1504 (irred),
+dir_POSCAR2288
+ KPOINTS: autoGR kpoint generation:   788 (irred),
+dir_POSCAR2289
+ KPOINTS: autoGR kpoint generation:   767 (irred),
+dir_POSCAR229
+ KPOINTS: autoGR kpoint generation:  1074 (irred),
+dir_POSCAR2290
+ KPOINTS: autoGR kpoint generation:   450 (irred),
+dir_POSCAR2291
+ KPOINTS: autoGR kpoint generation:   300 (irred),
+dir_POSCAR2292
+ KPOINTS: autoGR kpoint generation:   384 (irred),
+dir_POSCAR2293
+ KPOINTS: autoGR kpoint generation:   741 (irred),
+dir_POSCAR2294
+ KPOINTS: autoGR kpoint generation:   741 (irred),
+dir_POSCAR2295
+ KPOINTS: autoGR kpoint generation:   741 (irred),
+dir_POSCAR2296
+ KPOINTS: autoGR kpoint generation:   741 (irred),
+dir_POSCAR2297
+ KPOINTS: autoGR kpoint generation:   742 (irred),
+dir_POSCAR2298
+ KPOINTS: autoGR kpoint generation:   741 (irred),
+dir_POSCAR2299
+ KPOINTS: autoGR kpoint generation:   210 (irred),
+dir_POSCAR23
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR230
+ KPOINTS: autoGR kpoint generation:  1074 (irred),
+dir_POSCAR2300
+ KPOINTS: autoGR kpoint generation:   765 (irred),
+dir_POSCAR2301
+ KPOINTS: autoGR kpoint generation:  1482 (irred),
+dir_POSCAR2302
+ KPOINTS: autoGR kpoint generation:  1472 (irred),
+dir_POSCAR2303
+ KPOINTS: autoGR kpoint generation:   743 (irred),
+dir_POSCAR2304
+ KPOINTS: autoGR kpoint generation:  1472 (irred),
+dir_POSCAR2305
+ KPOINTS: autoGR kpoint generation:   741 (irred),
+dir_POSCAR2306
+ KPOINTS: autoGR kpoint generation:   742 (irred),
+dir_POSCAR2307
+ KPOINTS: autoGR kpoint generation:   410 (irred),
+dir_POSCAR2308
+ KPOINTS: autoGR kpoint generation:   490 (irred),
+dir_POSCAR2309
+ KPOINTS: autoGR kpoint generation:   976 (irred),
+dir_POSCAR231
+ KPOINTS: autoGR kpoint generation:   375 (irred),
+dir_POSCAR2310
+ KPOINTS: autoGR kpoint generation:   976 (irred),
+dir_POSCAR2311
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR2312
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR2313
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR2314
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR2315
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR2316
+ KPOINTS: autoGR kpoint generation:   441 (irred),
+dir_POSCAR2317
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2318
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR2319
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR232
+ KPOINTS: autoGR kpoint generation:  1074 (irred),
+dir_POSCAR2320
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR2321
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR2322
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2323
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2324
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2325
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR2326
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2327
+ KPOINTS: autoGR kpoint generation:   441 (irred),
+dir_POSCAR2328
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2329
+ KPOINTS: autoGR kpoint generation:   430 (irred),
+dir_POSCAR233
+ KPOINTS: autoGR kpoint generation:   940 (irred),
+dir_POSCAR2330
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2331
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2332
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2333
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2334
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2335
+ KPOINTS: autoGR kpoint generation:   792 (irred),
+dir_POSCAR2336
+ KPOINTS: autoGR kpoint generation:   430 (irred),
+dir_POSCAR2337
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2338
+ KPOINTS: autoGR kpoint generation:   850 (irred),
+dir_POSCAR2339
+ KPOINTS: autoGR kpoint generation:   792 (irred),
+dir_POSCAR234
+ KPOINTS: autoGR kpoint generation:  2592 (irred),
+dir_POSCAR2340
+ KPOINTS: autoGR kpoint generation:   792 (irred),
+dir_POSCAR2341
+ KPOINTS: autoGR kpoint generation:   784 (irred),
+dir_POSCAR2342
+ KPOINTS: autoGR kpoint generation:   430 (irred),
+dir_POSCAR2343
+ KPOINTS: autoGR kpoint generation:   792 (irred),
+dir_POSCAR2344
+ KPOINTS: autoGR kpoint generation:   784 (irred),
+dir_POSCAR2345
+ KPOINTS: autoGR kpoint generation:   387 (irred),
+dir_POSCAR235
+ KPOINTS: autoGR kpoint generation:  2500 (irred),
+dir_POSCAR236
+ KPOINTS: autoGR kpoint generation:   837 (irred),
+dir_POSCAR237
+ KPOINTS: autoGR kpoint generation:  2366 (irred),
+dir_POSCAR238
+ KPOINTS: autoGR kpoint generation:   792 (irred),
+dir_POSCAR239
+ KPOINTS: autoGR kpoint generation:  2254 (irred),
+dir_POSCAR24
+ KPOINTS: autoGR kpoint generation:   624 (irred),
+dir_POSCAR240
+ KPOINTS: autoGR kpoint generation:   732 (irred),
+dir_POSCAR241
+ KPOINTS: autoGR kpoint generation:   444 (irred),
+dir_POSCAR242
+ KPOINTS: autoGR kpoint generation:   672 (irred),
+dir_POSCAR243
+ KPOINTS: autoGR kpoint generation:  1199 (irred),
+dir_POSCAR244
+ KPOINTS: autoGR kpoint generation:  1199 (irred),
+dir_POSCAR245
+ KPOINTS: autoGR kpoint generation:  1199 (irred),
+dir_POSCAR246
+ KPOINTS: autoGR kpoint generation:   338 (irred),
+dir_POSCAR247
+ KPOINTS: autoGR kpoint generation:  1200 (irred),
+dir_POSCAR248
+ KPOINTS: autoGR kpoint generation:  2368 (irred),
+dir_POSCAR249
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR25
+ KPOINTS: autoGR kpoint generation:  1326 (irred),
+dir_POSCAR250
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR251
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR252
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR253
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR254
+ KPOINTS: autoGR kpoint generation:   306 (irred),
+dir_POSCAR255
+ KPOINTS: autoGR kpoint generation:  1150 (irred),
+dir_POSCAR256
+ KPOINTS: autoGR kpoint generation:  2272 (irred),
+dir_POSCAR257
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR258
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR259
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR26
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR260
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR261
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR262
+ KPOINTS: autoGR kpoint generation:   306 (irred),
+dir_POSCAR263
+ KPOINTS: autoGR kpoint generation:  1150 (irred),
+dir_POSCAR264
+ KPOINTS: autoGR kpoint generation:  2272 (irred),
+dir_POSCAR265
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR266
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR267
+ KPOINTS: autoGR kpoint generation:  1117 (irred),
+dir_POSCAR268
+ KPOINTS: autoGR kpoint generation:  1121 (irred),
+dir_POSCAR269
+ KPOINTS: autoGR kpoint generation:  1120 (irred),
+dir_POSCAR27
+ KPOINTS: autoGR kpoint generation:   286 (irred),
+dir_POSCAR270
+ KPOINTS: autoGR kpoint generation:   306 (irred),
+dir_POSCAR271
+ KPOINTS: autoGR kpoint generation:  1100 (irred),
+dir_POSCAR272
+ KPOINTS: autoGR kpoint generation:  2176 (irred),
+dir_POSCAR273
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR274
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR275
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR276
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR277
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR278
+ KPOINTS: autoGR kpoint generation:   306 (irred),
+dir_POSCAR279
+ KPOINTS: autoGR kpoint generation:  1150 (irred),
+dir_POSCAR28
+ KPOINTS: autoGR kpoint generation:   220 (irred),
+dir_POSCAR280
+ KPOINTS: autoGR kpoint generation:  2272 (irred),
+dir_POSCAR281
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR282
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR283
+ KPOINTS: autoGR kpoint generation:  1117 (irred),
+dir_POSCAR284
+ KPOINTS: autoGR kpoint generation:  1121 (irred),
+dir_POSCAR285
+ KPOINTS: autoGR kpoint generation:  1120 (irred),
+dir_POSCAR286
+ KPOINTS: autoGR kpoint generation:   306 (irred),
+dir_POSCAR287
+ KPOINTS: autoGR kpoint generation:  1100 (irred),
+dir_POSCAR288
+ KPOINTS: autoGR kpoint generation:  2176 (irred),
+dir_POSCAR289
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR29
+ KPOINTS: autoGR kpoint generation:   694 (irred),
+dir_POSCAR290
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR291
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR292
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR293
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR294
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR295
+ KPOINTS: autoGR kpoint generation:  1057 (irred),
+dir_POSCAR296
+ KPOINTS: autoGR kpoint generation:  2080 (irred),
+dir_POSCAR297
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR298
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR299
+ KPOINTS: autoGR kpoint generation:  1117 (irred),
+dir_POSCAR3
+ KPOINTS: autoGR kpoint generation:  1155 (irred),
+dir_POSCAR30
+ KPOINTS: autoGR kpoint generation:   993 (irred),
+dir_POSCAR300
+ KPOINTS: autoGR kpoint generation:  1121 (irred),
+dir_POSCAR301
+ KPOINTS: autoGR kpoint generation:  1120 (irred),
+dir_POSCAR302
+ KPOINTS: autoGR kpoint generation:   306 (irred),
+dir_POSCAR303
+ KPOINTS: autoGR kpoint generation:  1100 (irred),
+dir_POSCAR304
+ KPOINTS: autoGR kpoint generation:  2176 (irred),
+dir_POSCAR305
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR306
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR307
+ KPOINTS: autoGR kpoint generation:  1117 (irred),
+dir_POSCAR308
+ KPOINTS: autoGR kpoint generation:  1121 (irred),
+dir_POSCAR309
+ KPOINTS: autoGR kpoint generation:  1120 (irred),
+dir_POSCAR31
+ KPOINTS: autoGR kpoint generation:  1904 (irred),
+dir_POSCAR310
+ KPOINTS: autoGR kpoint generation:   306 (irred),
+dir_POSCAR311
+ KPOINTS: autoGR kpoint generation:  1100 (irred),
+dir_POSCAR312
+ KPOINTS: autoGR kpoint generation:  2176 (irred),
+dir_POSCAR313
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR314
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR315
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR316
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR317
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR318
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR319
+ KPOINTS: autoGR kpoint generation:  1057 (irred),
+dir_POSCAR32
+ KPOINTS: autoGR kpoint generation:   600 (irred),
+dir_POSCAR320
+ KPOINTS: autoGR kpoint generation:  2080 (irred),
+dir_POSCAR321
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR322
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR323
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR324
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR325
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR326
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR327
+ KPOINTS: autoGR kpoint generation:  1057 (irred),
+dir_POSCAR328
+ KPOINTS: autoGR kpoint generation:  2080 (irred),
+dir_POSCAR329
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR33
+ KPOINTS: autoGR kpoint generation:   631 (irred),
+dir_POSCAR330
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR331
+ KPOINTS: autoGR kpoint generation:  1026 (irred),
+dir_POSCAR332
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR333
+ KPOINTS: autoGR kpoint generation:  1015 (irred),
+dir_POSCAR334
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR335
+ KPOINTS: autoGR kpoint generation:  1044 (irred),
+dir_POSCAR336
+ KPOINTS: autoGR kpoint generation:  2016 (irred),
+dir_POSCAR337
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR338
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR339
+ KPOINTS: autoGR kpoint generation:  1117 (irred),
+dir_POSCAR34
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR340
+ KPOINTS: autoGR kpoint generation:  1121 (irred),
+dir_POSCAR341
+ KPOINTS: autoGR kpoint generation:  1120 (irred),
+dir_POSCAR342
+ KPOINTS: autoGR kpoint generation:   306 (irred),
+dir_POSCAR343
+ KPOINTS: autoGR kpoint generation:  1100 (irred),
+dir_POSCAR344
+ KPOINTS: autoGR kpoint generation:  2176 (irred),
+dir_POSCAR345
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR346
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR347
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR348
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR349
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR35
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR350
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR351
+ KPOINTS: autoGR kpoint generation:  1057 (irred),
+dir_POSCAR352
+ KPOINTS: autoGR kpoint generation:  2080 (irred),
+dir_POSCAR353
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR354
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR355
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR356
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR357
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR358
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR359
+ KPOINTS: autoGR kpoint generation:  1057 (irred),
+dir_POSCAR36
+ KPOINTS: autoGR kpoint generation:   585 (irred),
+dir_POSCAR360
+ KPOINTS: autoGR kpoint generation:  2080 (irred),
+dir_POSCAR361
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR362
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR363
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR364
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR365
+ KPOINTS: autoGR kpoint generation:  1078 (irred),
+dir_POSCAR366
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR367
+ KPOINTS: autoGR kpoint generation:  1057 (irred),
+dir_POSCAR368
+ KPOINTS: autoGR kpoint generation:  2080 (irred),
+dir_POSCAR369
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR37
+ KPOINTS: autoGR kpoint generation:   631 (irred),
+dir_POSCAR370
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR371
+ KPOINTS: autoGR kpoint generation:  1026 (irred),
+dir_POSCAR372
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR373
+ KPOINTS: autoGR kpoint generation:  1015 (irred),
+dir_POSCAR374
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR375
+ KPOINTS: autoGR kpoint generation:  1044 (irred),
+dir_POSCAR376
+ KPOINTS: autoGR kpoint generation:  2016 (irred),
+dir_POSCAR377
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR378
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR379
+ KPOINTS: autoGR kpoint generation:  1026 (irred),
+dir_POSCAR38
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR380
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR381
+ KPOINTS: autoGR kpoint generation:  1015 (irred),
+dir_POSCAR382
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR383
+ KPOINTS: autoGR kpoint generation:  1044 (irred),
+dir_POSCAR384
+ KPOINTS: autoGR kpoint generation:  2016 (irred),
+dir_POSCAR385
+ KPOINTS: autoGR kpoint generation:   374 (irred),
+dir_POSCAR386
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR387
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR388
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR389
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR39
+ KPOINTS: autoGR kpoint generation:  1792 (irred),
+dir_POSCAR390
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR391
+ KPOINTS: autoGR kpoint generation:   973 (irred),
+dir_POSCAR392
+ KPOINTS: autoGR kpoint generation:  1920 (irred),
+dir_POSCAR393
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR394
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR395
+ KPOINTS: autoGR kpoint generation:  1026 (irred),
+dir_POSCAR396
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR397
+ KPOINTS: autoGR kpoint generation:  1015 (irred),
+dir_POSCAR398
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR399
+ KPOINTS: autoGR kpoint generation:  1044 (irred),
+dir_POSCAR4
+ KPOINTS: autoGR kpoint generation:  1060 (irred),
+dir_POSCAR40
+ KPOINTS: autoGR kpoint generation:   585 (irred),
+dir_POSCAR400
+ KPOINTS: autoGR kpoint generation:  2016 (irred),
+dir_POSCAR401
+ KPOINTS: autoGR kpoint generation:   385 (irred),
+dir_POSCAR402
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR403
+ KPOINTS: autoGR kpoint generation:  1026 (irred),
+dir_POSCAR404
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR405
+ KPOINTS: autoGR kpoint generation:  1015 (irred),
+dir_POSCAR406
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR407
+ KPOINTS: autoGR kpoint generation:  1044 (irred),
+dir_POSCAR408
+ KPOINTS: autoGR kpoint generation:  2016 (irred),
+dir_POSCAR409
+ KPOINTS: autoGR kpoint generation:   374 (irred),
+dir_POSCAR41
+ KPOINTS: autoGR kpoint generation:   627 (irred),
+dir_POSCAR410
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR411
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR412
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR413
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR414
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR415
+ KPOINTS: autoGR kpoint generation:   973 (irred),
+dir_POSCAR416
+ KPOINTS: autoGR kpoint generation:  1920 (irred),
+dir_POSCAR417
+ KPOINTS: autoGR kpoint generation:   374 (irred),
+dir_POSCAR418
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR419
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR42
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR420
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR421
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR422
+ KPOINTS: autoGR kpoint generation:   272 (irred),
+dir_POSCAR423
+ KPOINTS: autoGR kpoint generation:   973 (irred),
+dir_POSCAR424
+ KPOINTS: autoGR kpoint generation:  1920 (irred),
+dir_POSCAR425
+ KPOINTS: autoGR kpoint generation:   363 (irred),
+dir_POSCAR426
+ KPOINTS: autoGR kpoint generation:   510 (irred),
+dir_POSCAR427
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR428
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR429
+ KPOINTS: autoGR kpoint generation:   935 (irred),
+dir_POSCAR43
+ KPOINTS: autoGR kpoint generation:  1635 (irred),
+dir_POSCAR430
+ KPOINTS: autoGR kpoint generation:   264 (irred),
+dir_POSCAR431
+ KPOINTS: autoGR kpoint generation:   936 (irred),
+dir_POSCAR432
+ KPOINTS: autoGR kpoint generation:  1856 (irred),
+dir_POSCAR433
+ KPOINTS: autoGR kpoint generation:   726 (irred),
+dir_POSCAR434
+ KPOINTS: autoGR kpoint generation:   685 (irred),
+dir_POSCAR435
+ KPOINTS: autoGR kpoint generation:   672 (irred),
+dir_POSCAR436
+ KPOINTS: autoGR kpoint generation:   754 (irred),
+dir_POSCAR437
+ KPOINTS: autoGR kpoint generation:   396 (irred),
+dir_POSCAR438
+ KPOINTS: autoGR kpoint generation:  1162 (irred),
+dir_POSCAR439
+ KPOINTS: autoGR kpoint generation:  1200 (irred),
+dir_POSCAR44
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR440
+ KPOINTS: autoGR kpoint generation:  1152 (irred),
+dir_POSCAR441
+ KPOINTS: autoGR kpoint generation:  1152 (irred),
+dir_POSCAR442
+ KPOINTS: autoGR kpoint generation:   695 (irred),
+dir_POSCAR443
+ KPOINTS: autoGR kpoint generation:   636 (irred),
+dir_POSCAR444
+ KPOINTS: autoGR kpoint generation:   660 (irred),
+dir_POSCAR445
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR446
+ KPOINTS: autoGR kpoint generation:   690 (irred),
+dir_POSCAR447
+ KPOINTS: autoGR kpoint generation:   390 (irred),
+dir_POSCAR448
+ KPOINTS: autoGR kpoint generation:  1134 (irred),
+dir_POSCAR449
+ KPOINTS: autoGR kpoint generation:  1110 (irred),
+dir_POSCAR45
+ KPOINTS: autoGR kpoint generation:   627 (irred),
+dir_POSCAR450
+ KPOINTS: autoGR kpoint generation:  1103 (irred),
+dir_POSCAR451
+ KPOINTS: autoGR kpoint generation:  1100 (irred),
+dir_POSCAR452
+ KPOINTS: autoGR kpoint generation:   674 (irred),
+dir_POSCAR453
+ KPOINTS: autoGR kpoint generation:   611 (irred),
+dir_POSCAR454
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR455
+ KPOINTS: autoGR kpoint generation:   605 (irred),
+dir_POSCAR456
+ KPOINTS: autoGR kpoint generation:   696 (irred),
+dir_POSCAR457
+ KPOINTS: autoGR kpoint generation:   387 (irred),
+dir_POSCAR458
+ KPOINTS: autoGR kpoint generation:  1064 (irred),
+dir_POSCAR459
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR46
+ KPOINTS: autoGR kpoint generation:   873 (irred),
+dir_POSCAR460
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR461
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR462
+ KPOINTS: autoGR kpoint generation:   674 (irred),
+dir_POSCAR463
+ KPOINTS: autoGR kpoint generation:   611 (irred),
+dir_POSCAR464
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR465
+ KPOINTS: autoGR kpoint generation:   605 (irred),
+dir_POSCAR466
+ KPOINTS: autoGR kpoint generation:   696 (irred),
+dir_POSCAR467
+ KPOINTS: autoGR kpoint generation:   387 (irred),
+dir_POSCAR468
+ KPOINTS: autoGR kpoint generation:   611 (irred),
+dir_POSCAR469
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR47
+ KPOINTS: autoGR kpoint generation:  1635 (irred),
+dir_POSCAR470
+ KPOINTS: autoGR kpoint generation:   605 (irred),
+dir_POSCAR471
+ KPOINTS: autoGR kpoint generation:   696 (irred),
+dir_POSCAR472
+ KPOINTS: autoGR kpoint generation:   387 (irred),
+dir_POSCAR473
+ KPOINTS: autoGR kpoint generation:  1064 (irred),
+dir_POSCAR474
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR475
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR476
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR477
+ KPOINTS: autoGR kpoint generation:   674 (irred),
+dir_POSCAR478
+ KPOINTS: autoGR kpoint generation:  1003 (irred),
+dir_POSCAR479
+ KPOINTS: autoGR kpoint generation:   588 (irred),
+dir_POSCAR48
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR480
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR481
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR482
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR483
+ KPOINTS: autoGR kpoint generation:  1050 (irred),
+dir_POSCAR484
+ KPOINTS: autoGR kpoint generation:  1020 (irred),
+dir_POSCAR485
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR486
+ KPOINTS: autoGR kpoint generation:  1017 (irred),
+dir_POSCAR487
+ KPOINTS: autoGR kpoint generation:   627 (irred),
+dir_POSCAR488
+ KPOINTS: autoGR kpoint generation:  1003 (irred),
+dir_POSCAR489
+ KPOINTS: autoGR kpoint generation:   588 (irred),
+dir_POSCAR49
+ KPOINTS: autoGR kpoint generation:   571 (irred),
+dir_POSCAR490
+ KPOINTS: autoGR kpoint generation:   528 (irred),
+dir_POSCAR491
+ KPOINTS: autoGR kpoint generation:   876 (irred),
+dir_POSCAR492
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR493
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR494
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR495
+ KPOINTS: autoGR kpoint generation:   560 (irred),
+dir_POSCAR496
+ KPOINTS: autoGR kpoint generation:   999 (irred),
+dir_POSCAR497
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR498
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR499
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR5
+ KPOINTS: autoGR kpoint generation:  1576 (irred),
+dir_POSCAR50
+ KPOINTS: autoGR kpoint generation:   819 (irred),
+dir_POSCAR500
+ KPOINTS: autoGR kpoint generation:   560 (irred),
+dir_POSCAR501
+ KPOINTS: autoGR kpoint generation:   999 (irred),
+dir_POSCAR502
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR503
+ KPOINTS: autoGR kpoint generation:   975 (irred),
+dir_POSCAR504
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR505
+ KPOINTS: autoGR kpoint generation:   978 (irred),
+dir_POSCAR506
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR507
+ KPOINTS: autoGR kpoint generation:   584 (irred),
+dir_POSCAR508
+ KPOINTS: autoGR kpoint generation:   882 (irred),
+dir_POSCAR509
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR51
+ KPOINTS: autoGR kpoint generation:  1560 (irred),
+dir_POSCAR510
+ KPOINTS: autoGR kpoint generation:   560 (irred),
+dir_POSCAR511
+ KPOINTS: autoGR kpoint generation:   999 (irred),
+dir_POSCAR512
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR513
+ KPOINTS: autoGR kpoint generation:   845 (irred),
+dir_POSCAR514
+ KPOINTS: autoGR kpoint generation:   512 (irred),
+dir_POSCAR515
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR516
+ KPOINTS: autoGR kpoint generation:   588 (irred),
+dir_POSCAR517
+ KPOINTS: autoGR kpoint generation:   330 (irred),
+dir_POSCAR518
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR519
+ KPOINTS: autoGR kpoint generation:   522 (irred),
+dir_POSCAR52
+ KPOINTS: autoGR kpoint generation:   514 (irred),
+dir_POSCAR520
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR521
+ KPOINTS: autoGR kpoint generation:   567 (irred),
+dir_POSCAR522
+ KPOINTS: autoGR kpoint generation:   330 (irred),
+dir_POSCAR523
+ KPOINTS: autoGR kpoint generation:  1242 (irred),
+dir_POSCAR524
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR525
+ KPOINTS: autoGR kpoint generation:  1110 (irred),
+dir_POSCAR526
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR527
+ KPOINTS: autoGR kpoint generation:  1110 (irred),
+dir_POSCAR528
+ KPOINTS: autoGR kpoint generation:  1110 (irred),
+dir_POSCAR529
+ KPOINTS: autoGR kpoint generation:  1110 (irred),
+dir_POSCAR53
+ KPOINTS: autoGR kpoint generation:   989 (irred),
+dir_POSCAR530
+ KPOINTS: autoGR kpoint generation:  1060 (irred),
+dir_POSCAR531
+ KPOINTS: autoGR kpoint generation:  1110 (irred),
+dir_POSCAR532
+ KPOINTS: autoGR kpoint generation:  1060 (irred),
+dir_POSCAR533
+ KPOINTS: autoGR kpoint generation:  1060 (irred),
+dir_POSCAR534
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR535
+ KPOINTS: autoGR kpoint generation:  1060 (irred),
+dir_POSCAR536
+ KPOINTS: autoGR kpoint generation:  1060 (irred),
+dir_POSCAR537
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR538
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR539
+ KPOINTS: autoGR kpoint generation:   979 (irred),
+dir_POSCAR54
+ KPOINTS: autoGR kpoint generation:  1785 (irred),
+dir_POSCAR540
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR541
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR542
+ KPOINTS: autoGR kpoint generation:   979 (irred),
+dir_POSCAR543
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR544
+ KPOINTS: autoGR kpoint generation:   672 (irred),
+dir_POSCAR545
+ KPOINTS: autoGR kpoint generation:   672 (irred),
+dir_POSCAR546
+ KPOINTS: autoGR kpoint generation:   330 (irred),
+dir_POSCAR547
+ KPOINTS: autoGR kpoint generation:  1155 (irred),
+dir_POSCAR548
+ KPOINTS: autoGR kpoint generation:  1155 (irred),
+dir_POSCAR549
+ KPOINTS: autoGR kpoint generation:   648 (irred),
+dir_POSCAR55
+ KPOINTS: autoGR kpoint generation:  1680 (irred),
+dir_POSCAR550
+ KPOINTS: autoGR kpoint generation:  1105 (irred),
+dir_POSCAR551
+ KPOINTS: autoGR kpoint generation:  1105 (irred),
+dir_POSCAR552
+ KPOINTS: autoGR kpoint generation:   600 (irred),
+dir_POSCAR553
+ KPOINTS: autoGR kpoint generation:   585 (irred),
+dir_POSCAR554
+ KPOINTS: autoGR kpoint generation:   616 (irred),
+dir_POSCAR555
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR556
+ KPOINTS: autoGR kpoint generation:   585 (irred),
+dir_POSCAR557
+ KPOINTS: autoGR kpoint generation:   616 (irred),
+dir_POSCAR558
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR559
+ KPOINTS: autoGR kpoint generation:   585 (irred),
+dir_POSCAR56
+ KPOINTS: autoGR kpoint generation:   817 (irred),
+dir_POSCAR560
+ KPOINTS: autoGR kpoint generation:   616 (irred),
+dir_POSCAR561
+ KPOINTS: autoGR kpoint generation:   320 (irred),
+dir_POSCAR562
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR563
+ KPOINTS: autoGR kpoint generation:  1056 (irred),
+dir_POSCAR564
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR565
+ KPOINTS: autoGR kpoint generation:   544 (irred),
+dir_POSCAR566
+ KPOINTS: autoGR kpoint generation:   564 (irred),
+dir_POSCAR567
+ KPOINTS: autoGR kpoint generation:   312 (irred),
+dir_POSCAR568
+ KPOINTS: autoGR kpoint generation:   544 (irred),
+dir_POSCAR569
+ KPOINTS: autoGR kpoint generation:   564 (irred),
+dir_POSCAR57
+ KPOINTS: autoGR kpoint generation:   574 (irred),
+dir_POSCAR570
+ KPOINTS: autoGR kpoint generation:   312 (irred),
+dir_POSCAR571
+ KPOINTS: autoGR kpoint generation:  1020 (irred),
+dir_POSCAR572
+ KPOINTS: autoGR kpoint generation:  1026 (irred),
+dir_POSCAR573
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR574
+ KPOINTS: autoGR kpoint generation:   544 (irred),
+dir_POSCAR575
+ KPOINTS: autoGR kpoint generation:   564 (irred),
+dir_POSCAR576
+ KPOINTS: autoGR kpoint generation:   312 (irred),
+dir_POSCAR577
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR578
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR579
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR58
+ KPOINTS: autoGR kpoint generation:   825 (irred),
+dir_POSCAR580
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR581
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR582
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR583
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR584
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR585
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR586
+ KPOINTS: autoGR kpoint generation:   525 (irred),
+dir_POSCAR587
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR588
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR589
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR59
+ KPOINTS: autoGR kpoint generation:  1576 (irred),
+dir_POSCAR590
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR591
+ KPOINTS: autoGR kpoint generation:   264 (irred),
+dir_POSCAR592
+ KPOINTS: autoGR kpoint generation:  1242 (irred),
+dir_POSCAR593
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR594
+ KPOINTS: autoGR kpoint generation:  1136 (irred),
+dir_POSCAR595
+ KPOINTS: autoGR kpoint generation:  1148 (irred),
+dir_POSCAR596
+ KPOINTS: autoGR kpoint generation:  2200 (irred),
+dir_POSCAR597
+ KPOINTS: autoGR kpoint generation:  1136 (irred),
+dir_POSCAR598
+ KPOINTS: autoGR kpoint generation:  1055 (irred),
+dir_POSCAR599
+ KPOINTS: autoGR kpoint generation:  1136 (irred),
+dir_POSCAR6
+ KPOINTS: autoGR kpoint generation:   918 (irred),
+dir_POSCAR60
+ KPOINTS: autoGR kpoint generation:  1598 (irred),
+dir_POSCAR600
+ KPOINTS: autoGR kpoint generation:  2110 (irred),
+dir_POSCAR601
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR602
+ KPOINTS: autoGR kpoint generation:  1055 (irred),
+dir_POSCAR603
+ KPOINTS: autoGR kpoint generation:  1055 (irred),
+dir_POSCAR604
+ KPOINTS: autoGR kpoint generation:  2025 (irred),
+dir_POSCAR605
+ KPOINTS: autoGR kpoint generation:   973 (irred),
+dir_POSCAR606
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR607
+ KPOINTS: autoGR kpoint generation:  1014 (irred),
+dir_POSCAR608
+ KPOINTS: autoGR kpoint generation:   973 (irred),
+dir_POSCAR609
+ KPOINTS: autoGR kpoint generation:   975 (irred),
+dir_POSCAR61
+ KPOINTS: autoGR kpoint generation:  1576 (irred),
+dir_POSCAR610
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR611
+ KPOINTS: autoGR kpoint generation:   600 (irred),
+dir_POSCAR612
+ KPOINTS: autoGR kpoint generation:   550 (irred),
+dir_POSCAR613
+ KPOINTS: autoGR kpoint generation:   588 (irred),
+dir_POSCAR614
+ KPOINTS: autoGR kpoint generation:   336 (irred),
+dir_POSCAR615
+ KPOINTS: autoGR kpoint generation:   576 (irred),
+dir_POSCAR616
+ KPOINTS: autoGR kpoint generation:   539 (irred),
+dir_POSCAR617
+ KPOINTS: autoGR kpoint generation:   549 (irred),
+dir_POSCAR618
+ KPOINTS: autoGR kpoint generation:   308 (irred),
+dir_POSCAR619
+ KPOINTS: autoGR kpoint generation:   512 (irred),
+dir_POSCAR62
+ KPOINTS: autoGR kpoint generation:   432 (irred),
+dir_POSCAR620
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR621
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR622
+ KPOINTS: autoGR kpoint generation:   288 (irred),
+dir_POSCAR623
+ KPOINTS: autoGR kpoint generation:   146 (irred),
+dir_POSCAR624
+ KPOINTS: autoGR kpoint generation:   515 (irred),
+dir_POSCAR625
+ KPOINTS: autoGR kpoint generation:   146 (irred),
+dir_POSCAR626
+ KPOINTS: autoGR kpoint generation:   366 (irred),
+dir_POSCAR627
+ KPOINTS: autoGR kpoint generation:   732 (irred),
+dir_POSCAR628
+ KPOINTS: autoGR kpoint generation:   515 (irred),
+dir_POSCAR629
+ KPOINTS: autoGR kpoint generation:   366 (irred),
+dir_POSCAR63
+ KPOINTS: autoGR kpoint generation:  1576 (irred),
+dir_POSCAR630
+ KPOINTS: autoGR kpoint generation:   146 (irred),
+dir_POSCAR631
+ KPOINTS: autoGR kpoint generation:   420 (irred),
+dir_POSCAR632
+ KPOINTS: autoGR kpoint generation:   575 (irred),
+dir_POSCAR633
+ KPOINTS: autoGR kpoint generation:  1070 (irred),
+dir_POSCAR634
+ KPOINTS: autoGR kpoint generation:  1092 (irred),
+dir_POSCAR635
+ KPOINTS: autoGR kpoint generation:  1070 (irred),
+dir_POSCAR636
+ KPOINTS: autoGR kpoint generation:  1098 (irred),
+dir_POSCAR637
+ KPOINTS: autoGR kpoint generation:   408 (irred),
+dir_POSCAR638
+ KPOINTS: autoGR kpoint generation:  1070 (irred),
+dir_POSCAR639
+ KPOINTS: autoGR kpoint generation:  2112 (irred),
+dir_POSCAR64
+ KPOINTS: autoGR kpoint generation:  1580 (irred),
+dir_POSCAR640
+ KPOINTS: autoGR kpoint generation:  1070 (irred),
+dir_POSCAR641
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR642
+ KPOINTS: autoGR kpoint generation:   557 (irred),
+dir_POSCAR643
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR644
+ KPOINTS: autoGR kpoint generation:  1064 (irred),
+dir_POSCAR645
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR646
+ KPOINTS: autoGR kpoint generation:  1050 (irred),
+dir_POSCAR647
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR648
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR649
+ KPOINTS: autoGR kpoint generation:  2048 (irred),
+dir_POSCAR65
+ KPOINTS: autoGR kpoint generation:  1597 (irred),
+dir_POSCAR650
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR651
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR652
+ KPOINTS: autoGR kpoint generation:   557 (irred),
+dir_POSCAR653
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR654
+ KPOINTS: autoGR kpoint generation:  1064 (irred),
+dir_POSCAR655
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR656
+ KPOINTS: autoGR kpoint generation:  1050 (irred),
+dir_POSCAR657
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR658
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR659
+ KPOINTS: autoGR kpoint generation:  2048 (irred),
+dir_POSCAR66
+ KPOINTS: autoGR kpoint generation:   900 (irred),
+dir_POSCAR660
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR661
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR662
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR663
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR664
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR665
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR666
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR667
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR668
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR669
+ KPOINTS: autoGR kpoint generation:  1952 (irred),
+dir_POSCAR67
+ KPOINTS: autoGR kpoint generation:   548 (irred),
+dir_POSCAR670
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR671
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR672
+ KPOINTS: autoGR kpoint generation:   557 (irred),
+dir_POSCAR673
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR674
+ KPOINTS: autoGR kpoint generation:  1064 (irred),
+dir_POSCAR675
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR676
+ KPOINTS: autoGR kpoint generation:  1050 (irred),
+dir_POSCAR677
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR678
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR679
+ KPOINTS: autoGR kpoint generation:  2048 (irred),
+dir_POSCAR68
+ KPOINTS: autoGR kpoint generation:   768 (irred),
+dir_POSCAR680
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR681
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR682
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR683
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR684
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR685
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR686
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR687
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR688
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR689
+ KPOINTS: autoGR kpoint generation:  1952 (irred),
+dir_POSCAR69
+ KPOINTS: autoGR kpoint generation:  1490 (irred),
+dir_POSCAR690
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR691
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR692
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR693
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR694
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR695
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR696
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR697
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR698
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR699
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR7
+ KPOINTS: autoGR kpoint generation:   965 (irred),
+dir_POSCAR70
+ KPOINTS: autoGR kpoint generation:  1530 (irred),
+dir_POSCAR700
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR701
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR702
+ KPOINTS: autoGR kpoint generation:   557 (irred),
+dir_POSCAR703
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR704
+ KPOINTS: autoGR kpoint generation:  1064 (irred),
+dir_POSCAR705
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR706
+ KPOINTS: autoGR kpoint generation:  1050 (irred),
+dir_POSCAR707
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR708
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR709
+ KPOINTS: autoGR kpoint generation:  2048 (irred),
+dir_POSCAR71
+ KPOINTS: autoGR kpoint generation:  1490 (irred),
+dir_POSCAR710
+ KPOINTS: autoGR kpoint generation:  1030 (irred),
+dir_POSCAR711
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR712
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR713
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR714
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR715
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR716
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR717
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR718
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR719
+ KPOINTS: autoGR kpoint generation:  1952 (irred),
+dir_POSCAR72
+ KPOINTS: autoGR kpoint generation:   408 (irred),
+dir_POSCAR720
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR721
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR722
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR723
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR724
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR725
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR726
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR727
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR728
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR729
+ KPOINTS: autoGR kpoint generation:  1952 (irred),
+dir_POSCAR73
+ KPOINTS: autoGR kpoint generation:  1489 (irred),
+dir_POSCAR730
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR731
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR732
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR733
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR734
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR735
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR736
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR737
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR738
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR739
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR74
+ KPOINTS: autoGR kpoint generation:  1490 (irred),
+dir_POSCAR740
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR741
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR742
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR743
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR744
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR745
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR746
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR747
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR748
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR749
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR75
+ KPOINTS: autoGR kpoint generation:  1500 (irred),
+dir_POSCAR750
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR751
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR752
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR753
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR754
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR755
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR756
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR757
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR758
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR759
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR76
+ KPOINTS: autoGR kpoint generation:   816 (irred),
+dir_POSCAR760
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR761
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR762
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR763
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR764
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR765
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR766
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR767
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR768
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR769
+ KPOINTS: autoGR kpoint generation:  1952 (irred),
+dir_POSCAR77
+ KPOINTS: autoGR kpoint generation:   548 (irred),
+dir_POSCAR770
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR771
+ KPOINTS: autoGR kpoint generation:   398 (irred),
+dir_POSCAR772
+ KPOINTS: autoGR kpoint generation:   540 (irred),
+dir_POSCAR773
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR774
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR775
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR776
+ KPOINTS: autoGR kpoint generation:  1008 (irred),
+dir_POSCAR777
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR778
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR779
+ KPOINTS: autoGR kpoint generation:  1952 (irred),
+dir_POSCAR78
+ KPOINTS: autoGR kpoint generation:   768 (irred),
+dir_POSCAR780
+ KPOINTS: autoGR kpoint generation:  1023 (irred),
+dir_POSCAR781
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR782
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR783
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR784
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR785
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR786
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR787
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR788
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR789
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR79
+ KPOINTS: autoGR kpoint generation:  1490 (irred),
+dir_POSCAR790
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR791
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR792
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR793
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR794
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR795
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR796
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR797
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR798
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR799
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR8
+ KPOINTS: autoGR kpoint generation:  1436 (irred),
+dir_POSCAR80
+ KPOINTS: autoGR kpoint generation:  1530 (irred),
+dir_POSCAR800
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR801
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR802
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR803
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR804
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR805
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR806
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR807
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR808
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR809
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR81
+ KPOINTS: autoGR kpoint generation:  1490 (irred),
+dir_POSCAR810
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR811
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR812
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR813
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR814
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR815
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR816
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR817
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR818
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR819
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR82
+ KPOINTS: autoGR kpoint generation:   408 (irred),
+dir_POSCAR820
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR821
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR822
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR823
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR824
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR825
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR826
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR827
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR828
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR829
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR83
+ KPOINTS: autoGR kpoint generation:  1489 (irred),
+dir_POSCAR830
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR831
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR832
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR833
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR834
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR835
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR836
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR837
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR838
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR839
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR84
+ KPOINTS: autoGR kpoint generation:  1490 (irred),
+dir_POSCAR840
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR841
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR842
+ KPOINTS: autoGR kpoint generation:   486 (irred),
+dir_POSCAR843
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR844
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR845
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR846
+ KPOINTS: autoGR kpoint generation:   897 (irred),
+dir_POSCAR847
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR848
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR849
+ KPOINTS: autoGR kpoint generation:  1760 (irred),
+dir_POSCAR85
+ KPOINTS: autoGR kpoint generation:  1500 (irred),
+dir_POSCAR850
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR851
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR852
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR853
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR854
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR855
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR856
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR857
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR858
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR859
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR86
+ KPOINTS: autoGR kpoint generation:   816 (irred),
+dir_POSCAR860
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR861
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR862
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR863
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR864
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR865
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR866
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR867
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR868
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR869
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR87
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR870
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR871
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR872
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR873
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR874
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR875
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR876
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR877
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR878
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR879
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR88
+ KPOINTS: autoGR kpoint generation:   704 (irred),
+dir_POSCAR880
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR881
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR882
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR883
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR884
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR885
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR886
+ KPOINTS: autoGR kpoint generation:   972 (irred),
+dir_POSCAR887
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR888
+ KPOINTS: autoGR kpoint generation:   956 (irred),
+dir_POSCAR889
+ KPOINTS: autoGR kpoint generation:  1888 (irred),
+dir_POSCAR89
+ KPOINTS: autoGR kpoint generation:  1407 (irred),
+dir_POSCAR890
+ KPOINTS: autoGR kpoint generation:   980 (irred),
+dir_POSCAR891
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR892
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR893
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR894
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR895
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR896
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR897
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR898
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR899
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR9
+ KPOINTS: autoGR kpoint generation:   840 (irred),
+dir_POSCAR90
+ KPOINTS: autoGR kpoint generation:  1456 (irred),
+dir_POSCAR900
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR901
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR902
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR903
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR904
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR905
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR906
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR907
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR908
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR909
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR91
+ KPOINTS: autoGR kpoint generation:  1407 (irred),
+dir_POSCAR910
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR911
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR912
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR913
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR914
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR915
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR916
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR917
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR918
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR919
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR92
+ KPOINTS: autoGR kpoint generation:   396 (irred),
+dir_POSCAR920
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR921
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR922
+ KPOINTS: autoGR kpoint generation:   486 (irred),
+dir_POSCAR923
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR924
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR925
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR926
+ KPOINTS: autoGR kpoint generation:   897 (irred),
+dir_POSCAR927
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR928
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR929
+ KPOINTS: autoGR kpoint generation:  1760 (irred),
+dir_POSCAR93
+ KPOINTS: autoGR kpoint generation:  1452 (irred),
+dir_POSCAR930
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR931
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR932
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR933
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR934
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR935
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR936
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR937
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR938
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR939
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR94
+ KPOINTS: autoGR kpoint generation:  1409 (irred),
+dir_POSCAR940
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR941
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR942
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR943
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR944
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR945
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR946
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR947
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR948
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR949
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR95
+ KPOINTS: autoGR kpoint generation:  1426 (irred),
+dir_POSCAR950
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR951
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR952
+ KPOINTS: autoGR kpoint generation:   486 (irred),
+dir_POSCAR953
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR954
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR955
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR956
+ KPOINTS: autoGR kpoint generation:   897 (irred),
+dir_POSCAR957
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR958
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR959
+ KPOINTS: autoGR kpoint generation:  1760 (irred),
+dir_POSCAR96
+ KPOINTS: autoGR kpoint generation:   808 (irred),
+dir_POSCAR960
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR961
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR962
+ KPOINTS: autoGR kpoint generation:   486 (irred),
+dir_POSCAR963
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR964
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR965
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR966
+ KPOINTS: autoGR kpoint generation:   897 (irred),
+dir_POSCAR967
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR968
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR969
+ KPOINTS: autoGR kpoint generation:  1760 (irred),
+dir_POSCAR97
+ KPOINTS: autoGR kpoint generation:   520 (irred),
+dir_POSCAR970
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR971
+ KPOINTS: autoGR kpoint generation:   332 (irred),
+dir_POSCAR972
+ KPOINTS: autoGR kpoint generation:   468 (irred),
+dir_POSCAR973
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR974
+ KPOINTS: autoGR kpoint generation:   871 (irred),
+dir_POSCAR975
+ KPOINTS: autoGR kpoint generation:   858 (irred),
+dir_POSCAR976
+ KPOINTS: autoGR kpoint generation:   858 (irred),
+dir_POSCAR977
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR978
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR979
+ KPOINTS: autoGR kpoint generation:  1696 (irred),
+dir_POSCAR98
+ KPOINTS: autoGR kpoint generation:   704 (irred),
+dir_POSCAR980
+ KPOINTS: autoGR kpoint generation:   859 (irred),
+dir_POSCAR981
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR982
+ KPOINTS: autoGR kpoint generation:   500 (irred),
+dir_POSCAR983
+ KPOINTS: autoGR kpoint generation:   922 (irred),
+dir_POSCAR984
+ KPOINTS: autoGR kpoint generation:   957 (irred),
+dir_POSCAR985
+ KPOINTS: autoGR kpoint generation:   943 (irred),
+dir_POSCAR986
+ KPOINTS: autoGR kpoint generation:   945 (irred),
+dir_POSCAR987
+ KPOINTS: autoGR kpoint generation:   360 (irred),
+dir_POSCAR988
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR989
+ KPOINTS: autoGR kpoint generation:  1824 (irred),
+dir_POSCAR99
+ KPOINTS: autoGR kpoint generation:  1407 (irred),
+dir_POSCAR990
+ KPOINTS: autoGR kpoint generation:   923 (irred),
+dir_POSCAR991
+ KPOINTS: autoGR kpoint generation:   364 (irred),
+dir_POSCAR992
+ KPOINTS: autoGR kpoint generation:   486 (irred),
+dir_POSCAR993
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR994
+ KPOINTS: autoGR kpoint generation:   905 (irred),
+dir_POSCAR995
+ KPOINTS: autoGR kpoint generation:   888 (irred),
+dir_POSCAR996
+ KPOINTS: autoGR kpoint generation:   897 (irred),
+dir_POSCAR997
+ KPOINTS: autoGR kpoint generation:   315 (irred),
+dir_POSCAR998
+ KPOINTS: autoGR kpoint generation:   889 (irred),
+dir_POSCAR999
+ KPOINTS: autoGR kpoint generation:  1760 (irred),
