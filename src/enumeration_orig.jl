@@ -1,4 +1,4 @@
-emodule clusters
+module clusters
 using Plots
 using Combinatorics
 using Spacey
