@@ -2,6 +2,7 @@ using DelimitedFiles
 using LinearAlgebra
 using Random
 using Plots
+using LaTeXStrings
 
 cd("/Users/glh43/home/fortranCodes/uncle/cluster_tests/")
 println("Put all the files in a directory and then change the preceding line.")
@@ -36,20 +37,20 @@ function get_ranks(m)
         if mod(icol,10)==0 println(icol) end
         ranks[icol] = rank(m[:,1:icol])
     end
-    writedlm("ranks.ternary.upto6",ranks)
+    writedlm("ranks.ternary.upto4",ranks)
     return ranks
 end
-#ranks = get_ranks(m)
-#writedlm("ranks.pairsonly",ranks)
+# ranks = get_ranks(m)
+# writedlm("ranks.ternary.upto5",ranks)
 
 # Read the ranks in from file (do this instead of running 'get_ranks' unless "structures.in" file changes)
 ranks = readdlm("ranks.ternary.upto6")
 
 """ Read cluster file to find vertex order for each cluster """
-function parse_clusterfile()
+function parse_clusterfile(filename="clusters.out")
     lines=[]
     vOrder=[0]
-    f=readlines("clusters.out")
+    f=readlines(filename)
     for (i,s) in enumerate(f)
         if occursin("Cluster number (",s)
             append!(lines,i+1)
@@ -64,13 +65,57 @@ x, breaks = parse_clusterfile()
 
 # Plot the rank of design matrix as a function of adding descriptors (clusters)
 begin
-plot(x[1:breaks[1]],ranks[1:breaks[1]],color=:orange,lw=3,label="pairs")
+default(guidefont=16,tickfont=12,legendfont=12)
+plot(x[1:breaks[1]],ranks[1:breaks[1]],color=:orange,lw=4,label="pairs")
 plot!(x[breaks[1]+1:breaks[2]],ranks[breaks[1]+1:breaks[2]],color=:green,lw=3,label="triplets")
 plot!(x[breaks[2]+1:breaks[3]],ranks[breaks[2]+1:breaks[3]],color=:magenta,lw=3,label="4-bodies")
 plot!(x[breaks[3]+1:breaks[4]],ranks[breaks[3]+1:breaks[4]],color=:blue,lw=3,label="5-bodies")
-plot!(x[breaks[4]+1:end],ranks[breaks[4]+1:end],color=:red,lw=3,label="6-bodies",ylabel="Matrix rank",xlabel="Number of basis functions",legend=:bottomright)
-savefig("ranks.pdf")
+plot!(x[breaks[4]+1:end],ranks[breaks[4]+1:end],color=:red,lw=3,label="6-bodies",ylabel="Matrix Rank",xlabel="Number of basis functions",legend=:bottomright,
+ylim = (0,1100), xlim=(0,2200),
+title="Ternary FCC Case (n=1-6)")
+plot!([0,2220],[1081,1081],ls=:dash,label="",lc=:black)
+annotate!(2000,1110,text("Full rank",9))
+savefig("~/home/projects/double_descent/paper/figures/rankVSclusters.pdf")
 end
+
+
+ranks = readdlm("ranks.ternary.upto5")
+x, breaks = parse_clusterfile("clusters.upto6_2220")
+# Plot the rank of design matrix as a function of adding descriptors (clusters)
+begin
+    default(guidefont=16,tickfont=12,legendfont=10)
+    m = readdlm("enum_PI_matrix.upto5")
+    ranks = readdlm("ranks.ternary.upto5")
+    plot(x[1:breaks[1]],ranks[1:breaks[1]],color=:orange,lw=4,label="pairs")
+    plot!(x[breaks[1]+1:breaks[2]],ranks[breaks[1]+1:breaks[2]],color=:green,lw=3,label="triplets")
+    plot!(x[breaks[2]+1:breaks[3]],ranks[breaks[2]+1:breaks[3]],color=:magenta,lw=3,label="4-bodies")
+    plot!(x[breaks[3]+1:breaks[4]],ranks[breaks[3]+1:breaks[4]],color=:blue,lw=3,label="5-bodies")
+    plot!(x[breaks[4]+1:end],ranks[breaks[4]+1:end],color=:red,lw=3,label="6-bodies",ylabel="Matrix Rank",xlabel="Number of basis functions",legend=:bottomright,
+    ylim = (0,300), xlim=(0,2200),
+    title="Ternary FCC Case (n=1-6)")
+    plot!([0,2220],[291,291],ls=:dash,label="",lc=:black)
+    annotate!(2000,300,text("Full rank",9))
+
+    m = readdlm("enum_PI_matrix.upto4")
+#ranks = get_ranks(m)g
+#writedlm("ranks.ternary.upto5",ranks)
+    ranks = readdlm("ranks.ternary.upto4")
+    plot!(x[1:breaks[1]],ranks[1:breaks[1]],color=:orange,lw=4,label="")
+    plot!(x[breaks[1]+1:breaks[2]],ranks[breaks[1]+1:breaks[2]],color=:green,lw=3,label="")
+    plot!(x[breaks[2]+1:breaks[3]],ranks[breaks[2]+1:breaks[3]],color=:magenta,lw=3,label="")
+    plot!(x[breaks[3]+1:breaks[4]],ranks[breaks[3]+1:breaks[4]],color=:blue,lw=3,label="")
+    plot!(x[breaks[4]+1:end],ranks[breaks[4]+1:end],color=:red,lw=3,label="",ylabel="Matrix Rank",xlabel="Number of basis functions",legend=:bottomright,
+    #ylim = (0,130), xlim=(0,2200),
+    title="Ternary FCC")
+    plot!([0,2220],[126,126],ls=:dash,label="",lc=:black)
+    annotate!(2000,137,text("Full rank",9))
+    annotate!(650,250,text(L"n=1\cdots 5",))
+    annotate!(1030,147,text(L"n=1\cdots4",))
+        savefig("~/home/projects/double_descent/paper/figuresrankVSclusters.upto5.pdf")
+    end
+    
+
+println()
 
 # # This alternate approach seem to be a bit faster than using 'rank'
 # m2 = m[:,1]
