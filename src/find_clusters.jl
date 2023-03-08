@@ -1,3 +1,6 @@
+# Used this file to find cluster sets for 8-atom fcc configs. Also a bunch of cluster-related function but the intent is that all of these are superceded by the functions in ClusterEnumeration.jl
+#
+# Finally, used this code to get the full-s-vector clusters for n=1-6 ternary case
 module clusters
 using Plots
 using Combinatorics
@@ -6,9 +9,10 @@ using LinearAlgebra
 using DelimitedFiles
 using Printf
 using MinkowskiReduction
+using Random
 #using SMatrix
 
-export get_dsites_cell_sizes, gen_points_in_sphere, read_lattice_vectors, make_figure_candidates, make_eqvPoints, reduce_figList, write_clusters, get_nonzero_index, MADfromCOM, read_clusters_from_file, get_leftmost_indep_columns, rd_list, get_MAD, isMatrixEqvBySymmetry
+export get_dsites_cell_sizes, gen_points_in_supercell, read_lattice_vectors, make_figure_candidates, make_eqvPoints, reduce_figList, write_clusters, get_nonzero_index, MADfromCOM, read_clusters_from_file, get_leftmost_indep_columns, rd_list, get_MAD, isMatrixEqvBySymmetry
 
 """ Use QR decomposition iteratively to pull out left-most independent columms """
 function get_leftmost_indep_columns(m)
@@ -20,9 +24,11 @@ function get_leftmost_indep_columns(m)
     while true
         println("it: ",it)
         println("len idx: ",length(idx))
-        if it > 80 break end
+        #if it > 10*ceil(nc/nr) break end
+        if length(idx) ≤ nr break end
+        #if it > 25 break end 
         _,R = qr(m[:,idx])
-        ondiag = get_nonzero_index(R)
+        ondiag = get_nonzero_index(R;reps=1e-8)
         r1 = rank(m[:,idx[1:length(ondiag)][ondiag]])
         println("rank: ",r1)
         if r1==r 
@@ -32,7 +38,10 @@ function get_leftmost_indep_columns(m)
         pad = max(length(idx)-nr,0)
         mask[idx] = vcat(ondiag,trues(pad))
         idx = collect(1:nc)[mask]
+        println("last: ",idx[end])
+        println("rank idx: ",rank(m[:,idx]),"\n")
         it += 1
+        if length(idx) < nr break end
     end
     rank(m[:,mask])
     return idx
@@ -79,7 +88,7 @@ function cell_index_and_pointgroup(filename = "struct_enum.out")
     return hnfIdx, pgSize
 end
 
-""" Get the atom positions of all structures from 'structures.in'.
+""" Get the atom positions of all structures from 'to '.
     Return cell sizes as well, and longest lattice vector """
 function get_dsites_cell_sizes(filename="structures.in")
     f = readlines(filename)
@@ -110,6 +119,7 @@ function read_lattice_vectors()
     return A
 end
 
+# This function is needed any more since the "clusters from internal coords" idea didn't pan out.
 """ Expand a list of positions/structure (from 'structures.in') to cluster combinations """
 function generateFiguresFromSites(dsites)
     # For each structure, generate all candidate clusters of all vertex orders
@@ -132,16 +142,22 @@ function generateFiguresFromSites(dsites)
     return candClust
 end
 
-""" Attach s-vectors to figures """
+""" attachSvectors(clList)
+
+Attach s-vectors to figures 
+
+(Actually, this only works for ternaries as currently written)
+"""
 function attachSvectors(clusters)
-    sV = [permutations(vcat([i*ones(Int,j) for i in 1:2]...),j)|>collect|>unique for j in 2:6]
+    sV = [permutations(vcat([i*ones(Int,j) for i in 1:2]...),j)|>collect|>unique for j in 1:6]
     svec = []
     scl = []
     for iCl ∈ clusters
+        println(iCl)
         l = size(iCl,2)
         for iSvec ∈ 1:2^l # Loop over all the s-vectors for this vertex order 
             push!(scl,iCl) # Just another copy of the geometric figure
-            push!(svec,sV[l-1][iSvec])
+            push!(svec,sV[l][iSvec])
         end
     end
     return scl, svec
@@ -272,9 +288,11 @@ function rd_list2(figList,rots)
     return figList[mask]
 end
 
-""" Read in clusters info from the 'clusters.out' file 
-    clusters, svecs
-    , Verts, avgDist = read_clusters_from_file("[file]")
+"""
+    read_clusters_from_file(filename="clusters.out")
+
+ Read in clusters info from the 'clusters.out' file 
+    clusters, svecs, Verts, avgDist, IDnum = read_clusters_from_file("[file]")
 """
 function read_clusters_from_file(filename="clusters.out")
     f = readlines(filename)
@@ -385,19 +403,26 @@ function write_clusters(clusters, svectors, numVerts, avgDist, idLabel,filename=
     end
 end
 
-function get_nonzero_index(m,reps=1e-13)
+""" get_nonzero_index(m,reps=1e-13) """
+
+function get_nonzero_index(m; reps=1e-13)
     mask = abs.(diag(m)).>reps
     return mask
 end
 
 
-end
+end # End of module "clusters"
+
 # d, cellSize, len = get_dsites_cell_sizes()
 # plot(cellSize,len,st=:scatter,title="Maximum cell vector length vs # of atoms",xlabel="Number of atoms",ylabel="Max cell edge length (a0%)",legend=:none,msw=0)
 # plot(cellSize,title="Cell sizes",legend=:none,xlabel="Structure number",ylabel="Volume factor")
 
-# #m = readdlm("enum_PI_matrix.out.2n3b")
+cd("/Users/glh43/home/fortranCodes/uncle/tests/david/bulk_CE")
+m = readdlm("enum_PI_matrix_full.out")
 
+rank(m)
+
+size(m)
 # m = m[:,3:end]
 # uq = [length(unique(round.(i,digits=14))) for i in eachrow(m)]
 # plot(range(1,241),uq[1:241],title="Count of unique π's vs. structure",xlabel="Structure number",ylabel="Count of unique correlation values",label="Size < 8")
@@ -583,6 +608,222 @@ end
 # rank
 
 
+### Working in a single cell shape Start with doubled fcc (8 atoms, 16 cells)
+# # Really large pair cluster pool
+using .clusters
+m = readdlm("enum_PI_matrix.2b_300")
+rank(m) # 4 - empty, on-site, and two pairs
+_,R2 = qr(m)
+mask = get_leftmost_indep_columns(m)
+popfirst!(mask) # Get rid of empty-cluster; it isn't in the clusters file
+mask .-= 1 #The clusters index and pi matrix index are shifted by 1
+cl,sv,nv,dist,id = read_clusters_from_file("clusters.2b_300")
+licl = cl[mask]
+lisv = sv[mask]
+linv = nv[mask]
+lidist=dist[mask]
+liid=id[mask]
+#Includes the empty and on-site in number of pairs
+write_clusters(licl,lisv,linv,lidist,id,"clusters.2b_li4")
+
+A = read_lattice_vectors()
+_, rots = pointGroup_robust(eachcol(A)...) 
+Rpts = gen_points_in_supercell(A,500)
+
+pts = make_eqvPoints(Rpts[1:40],rots)
+figs3bt = make_figure_candidates(pts,3)
+figs3b = reduce_figList(figs3bt[1:100_000],rots)
+n3b = length(figs3b)
+clust3b = vcat(licl,figs3b)
+sv3 = vcat(lisv,[[1,1,1] for i ∈ 1:n3b])
+id3 = vcat(liid,1:n3b)
+dists3 = vcat(lidist,MADfromCOM.(figs3b))
+nV3 = vcat(linv,ones(Int,n3b)*3)
+write_clusters(clust3b, sv3, nV3, dists3, id3, "clusters.2-3b_"*string(n3b))
+#>  cp clusters.2-3b_6111 clusters.out 
+#>  rm enum_PI_matrix.out; ../../uncle/src/uncle.x 44
+m = readdlm("pimat.2-3b_"*string(n3b))
+rank(m) # 6 (so added two 3-body clusters)
+_,R3 = qr(m)
+mask = get_leftmost_indep_columns(m)
+rank(m) #6
+
+popfirst!(mask) # Get rid of empty-cluster; it isn't in the clusters file
+mask .-= 1 #The clusters index and pi matrix index are shifted by 1
+
+licl3= clust3b[mask]
+lisv3 = sv3[mask]
+linV3 = nV3[mask]
+lidist3=dists3[mask]
+liid3=id3[mask]
+write_clusters(licl3,lisv3,linV3,lidist3,liid3,"clusters.2-3b_li6")
+
+# Get 4 bodies
+#licl3,lisv3,linV3,lidists3,liid3 = read_clusters_from_file("clusters.2-3b_li6")
+pts = make_eqvPoints(Rpts[1:12],rots)
+figs4bt = make_figure_candidates(pts,4)
+figs4b = reduce_figList(figs4bt[1:200_000],rots)
+n4b = length(figs4b)
+clust4b = vcat(licl3,figs4b)
+sv4 = vcat(lisv3,[[1,1,1,1] for i ∈ 1:n4b])
+id4 = vcat(liid3,1:n4b)
+dists4 = vcat(lidists3,MADfromCOM.(figs4b))
+nV4 = vcat(linV3,ones(Int,n4b)*4)
+write_clusters(clust4b, sv4, nV4, dists4, id4, "clusters.2-4b_"*string(n4b))
+#>  cp clusters.2-4b_6111 clusters.out 
+#>  rm enum_PI_matrix.out; ../../uncle/src/uncle.x 44
+m = readdlm("pimat.2-4b_"*string(n4b))
+rank(m) # 11 (so added five 4-body clusters)
+_,R4 = qr(m)
+mask = get_leftmost_indep_columns(m)
+rank(m) # 11 but it really seems there is an epsilon issue and its really 10
+# meaning that four 4-body clusters were added to the list
+mask = mask[1:10]
+rank(m[:,mask])
+popfirst!(mask) # Get rid of empty-cluster; it isn't in the clusters file
+mask .-= 1 #The clusters index and pi matrix index are shifted by 1
+
+licl4= clust4b[mask]
+lisv4 = sv4[mask]
+linV4 = nV4[mask]
+lidist4=dists4[mask]
+liid4=id4[mask]
+write_clusters(licl4,lisv4,linV4,lidist4,liid4,"clusters.2-4b_li10")
+
+# Get 5 bodies
+#licl3,lisv3,linV3,lidists3,liid3 = read_clusters_from_file("clusters.2-3b_li6")
+pts = make_eqvPoints(Rpts[1:6],rots)
+figs5bt = make_figure_candidates(pts,5)
+figs5b = reduce_figList(figs5bt[1:150_000],rots)
+n5b = length(figs5b)
+clust5b = vcat(licl4,figs5b)
+sv5 = vcat(lisv4,[[1,1,1,1,1] for i ∈ 1:n5b])
+id5 = vcat(liid4,1:n5b)
+dists5 = vcat(lidist4,MADfromCOM.(figs5b))
+nV5 = vcat(linV4,ones(Int,n5b)*5)
+write_clusters(clust5b, sv5, nV5, dists5, id5, "clusters.2-5b_"*string(n5b))
+#>  cp clusters.2-5b_6111 clusters.out 
+#>  rm enum_PI_matrix.out; ../../uncle/src/uncle.x 55
+m = readdlm("pimat.2-5b_"*string(n5b))
+rank(m) # 12 (so added two 5-body clusters)
+_,R5 = qr(m)
+mask = get_leftmost_indep_columns(m)
+rank(m) #12, adding two 5-body clusters
+rank(m[:,mask])
+popfirst!(mask) # Get rid of empty-cluster; it isn't in the clusters file
+mask .-= 1 #The clusters index and pi matrix index are shifted by 1
+
+licl5= clust5b[mask]
+lisv5 = sv5[mask]
+linV5 = nV5[mask]
+lidist5=dists5[mask]
+liid5=id5[mask]
+write_clusters(licl5,lisv5,linV5,lidist5,liid5,"clusters.2-5b_li12")
+
+# Get 6 bodies
+#licl3,lisv3,linV3,lidists3,liid3 = read_clusters_from_file("clusters.2-3b_li6")
+pts = make_eqvPoints(Rpts[1:5],rots)
+figs6bt = make_figure_candidates(pts,6)
+figs6b = reduce_figList(figs6bt[1:200_000],rots)
+n6b = length(figs6b)
+clust6b = vcat(licl5,figs6b)
+sv6 = vcat(lisv5,[[1,1,1,1,1,1] for i ∈ 1:n6b])
+id6 = vcat(liid5,1:n6b)
+dists6 = vcat(lidist5,MADfromCOM.(figs6b))
+nV6 = vcat(linV5,ones(Int,n6b)*6)
+write_clusters(clust6b, sv6, nV6, dists6, id6, "clusters.2-6b_"*string(n6b))
+#>  cp clusters.2-6b_6111 clusters.out 
+#>  rm enum_PI_matrix.out; ../../uncle/src/uncle.x 44
+m = readdlm("pimat.2-6b_"*string(n6b))
+rank(m) # 14 (so added two 6-body clusters)
+_,R6 = qr(m)
+mask = get_leftmost_indep_columns(m)
+# something went wrong and the routine returned ~6600 elements. 
+rank(m) #14
+rank(m[:,mask])
+popfirst!(mask) # Get rid of empty-cluster; it isn't in the clusters file
+mask .-= 1 #The clusters index and pi matrix index are shifted by 1
+
+licl6= clust6b[mask]
+lisv6 = sv6[mask]
+linV6 = nV6[mask]
+lidist6=dists6[mask]
+liid6=id6[mask]
+write_clusters(licl6,lisv6,linV6,lidist6,liid6,"clusters.2-6b_li14")
+
+# Get 7 bodies
+#licl3,lisv3,linV3,lidists3,liid3 = read_clusters_from_file("clusters.2-3b_li6")
+pts = make_eqvPoints(Rpts[1:3],rots)
+figs7bt = make_figure_candidates(pts,7)
+figs7b = reduce_figList(figs7bt[1:150_000],rots)
+n7b = length(figs7b)
+clust7b = vcat(licl6,figs7b)
+sv7 = vcat(lisv6,[[1,1,1,1,1,1,1] for i ∈ 1:n7b])
+id7 = vcat(liid6,1:n7b)
+dists7 = vcat(lidist6,MADfromCOM.(figs7b))
+nV7 = vcat(linV6,ones(Int,n7b)*7)
+write_clusters(clust7b, sv7, nV7, dists7, id7, "clusters.2-7b_"*string(n7b))
+#>  cp clusters.2-7b_7111 clusters.out 
+#>  rm enum_PI_matrix.out; ../../uncle/src/uncle.x 44
+m = readdlm("pimat.2-7b_"*string(n7b))
+rank(m) # 15 (so added one 7-body clusters)
+_,R7 = qr(m)
+mask = get_leftmost_indep_columns(m)
+# something went wrong and the routine returned ~7700 elements. 
+rank(m) #15
+rank(m[:,mask])
+popfirst!(mask) # Get rid of empty-cluster; it isn't in the clusters file
+mask .-= 1 #The clusters index and pi matrix index are shifted by 1
+
+licl7= clust7b[mask]
+lisv7 = sv7[mask]
+linV7 = nV7[mask]
+lidist7=dists7[mask]
+liid7=id7[mask]
+write_clusters(licl7,lisv7,linV7,lidist7,liid7,"clusters.2-7b_li15")
+
+# Get 8 bodies
+#licl3,lisv3,linV3,lidists3,liid3 = read_clusters_from_file("clusters.2-3b_li7")
+pts = make_eqvPoints(Rpts[1:2],rots)
+figs8bt = make_figure_candidates(pts,8)
+figs8b = reduce_figList(figs8bt[1:100],rots)
+n8b = length(figs8b)
+clust8b = vcat(licl7,figs8b)
+sv8 = vcat(lisv7,[[1,1,1,1,1,1,1,1] for i ∈ 1:n8b])
+id8 = vcat(liid7,1:n8b)
+dists8 = vcat(lidist7,MADfromCOM.(figs8b))
+nV8 = vcat(linV7,ones(Int,n8b)*8)
+write_clusters(clust8b, sv8, nV8, dists8, id8, "clusters.2-8b_"*string(n8b))
+#>  cp clusters.2-8b_8111 clusters.out 
+#>  rm enum_PI_matrix.out; ../../uncle/src/uncle.x 44
+m = readdlm("pimat.2-8b_"*string(n8b))
+rank(m) # 12 (so added two 8-body clusters)
+t_,R8 = qr(m)
+mask = get_leftmost_indep_columns(m)
+# something went wrong and the routine returned ~8800 elements. 
+rank(m) #16
+rank(m[:,mask])
+popfirst!(mask) # Get rid of empty-cluster; it isn't in the clusters file
+mask .-= 1 #The clusters index and pi matrix index are shifted by 1
+
+licl8= clust8b[mask]
+lisv8 = sv8[mask]
+linV8 = nV8[mask]
+lidist8=dists8[mask]
+liid8=id8[mask]
+write_clusters(licl8,lisv8,linV8,lidist8,liid8,"clusters.2-8b_li16")
+#>  cp clusters.2-8b_li16 clusters.out 
+#>  rm enum_PI_matrix.out; ../../uncle/src/uncle.x 44
+m = readdlm("pimat.2-8b_li16")
+rank(m) # 12 (so added two 8-body clusters)
+
+
+
+
+pwd()
+
+2
+
 # ## Example using only 1-4 size
 # h = mfull[1:29,:]
 # _, rh = qr(h)
@@ -601,7 +842,7 @@ end
 # write_clusters(cl[mask[2:end]],sv[mask[2:end]],"clusters.smalltest")
 # rank(readdlm("enum_PI_matrix.out")[1:29,:])
 # ####################################
-# # Generate 6-body clusters from first three neighbors
+# # Generate 7-body clusters from first three neighbors
 
 # A = read_lattice_vectors()
 # u,v,w = eachcol(A)
@@ -698,3 +939,88 @@ end
 # end
 
 # end
+
+
+## Get a full set of clusters, with s-vectors for fcc n=1-6 *ternary* case
+cd("/Users/glh43/home/juliaCodes/ClusterEnumeration.jl/data")
+m=readdlm("pimat.1-6.ternary")
+idx = get_leftmost_indep_columns(m)
+idx .-= 1
+idx = idx[2:end]
+cl,sv,nV,rad,id = read_clusters_from_file("clusters.1-6.ternary_overcomplete")
+write_clusters(cl[idx],sv[idx],nV[idx],rad[idx],id[idx],"clusters.fcc_ternary.1-6_1081")
+cl,sv,nV,rad,id = read_clusters_from_file("clusters.fcc_ternary.1-6_1081")
+m = readdlm("pimat.li_1-6.ternary")
+en = readdlm("energiesPerAtom_ternary1-6.dat")
+J = m\en 
+colors = replace(nV, 1=>:red, 2=>:orange,3=>:green,4=>:magenta,5=>:blue,6=>:red)
+pushfirst!(colors,:black)
+plot(J,st=:scatter,msw=0,color=colors,ms=2,legend=:none,xlabel="Cluster Number",ylabel="J Coefficient Size (ECIs)")
+plot(abs.(J),st=:scatter,msw=0,color=colors,ms=2,legend=:none,xlabel="Cluster Number",ylabel="J Coefficient Size (ECIs)",yaxis=:log)
+plot(abs.(m*J-en))
+norm(m*J-en)
+c2 = colors[idx]
+
+
+# Should be able to start from scratch from here
+ms = 250
+m=readdlm("pimat.li_1-6.ternary")
+p = Int.(readdlm("reorderCl_1081.dat"))
+m = m[:,[p...]]
+enpa = readdlm("energiesPerAtom_ternary1-6.dat")
+begin
+Nits = 100
+sizes = collect(1:1:600) 
+#sizes = collect(1:1:1081) 
+data = map(sizes) do ms
+eFit = 0
+eVal =0
+rav = 0
+println(ms)
+for i = 1:Nits 
+t = randperm(size(m,1))
+nFit = 250
+fitIdx = t[1:nFit]
+valIdx = t[nFit+1:end]
+J = m[fitIdx,1:ms]\enpa[fitIdx]
+eFit += norm(m[fitIdx,1:ms]*J-enpa[fitIdx])/sqrt(nFit)
+rav += rank(m[fitIdx,1:ms])
+eVal += norm(m[valIdx,1:ms]*J-enpa[valIdx])/sqrt(size(m,1)-nFit)
+end
+eFit/Nits,rav/Nits, eVal/Nits
+end 
+errFit = [i[1] for i ∈ data]
+ranks = [i[2] for i ∈ data]
+errVal = [i[3] for i ∈ data]
+#plot(sizes,errFit,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Validation Error",legend=:none,color=colors)
+end
+
+plot(sizes,errFit,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Fit Error",legend=:none,color=colors[sizes],yrange=(1e-5,3e-1),xticks = 0:50:1100,xrange=(0,600))
+plot(sizes, errVal,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Val Error",legend=:none,color=colors[p][sizes],yrange=(3e-2,1e2),ytick=[3e-2,5e-2,.0,1,1e1,1e2])
+plot!(sizes,[i[2] for i in errFit])
+plot(sizes,ranks,st=:scatter,msw=0,ms=2,ylabel="Rank of Design Matrix",xlabel="Model Size",xrange=(0,300),legend=:none)
+plot!([0; 250],[0; 250],color=:red)
+
+plot(sizes,errVal,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Validation Error",legend=:none,color=colors[sizes],yrange=(4e-2,8e-0),xticks = 0:50:1100,xrange=(0,600))
+
+# Argh, energies are not per atom
+#
+# tail -n +17 struct_enum.out.ternary|awk '{print $7}'
+perAtom = readdlm("perAtom.dat")
+writedlm("energiesPerAtom_ternary1-6.dat",en./perAtom)
+enpa = en./perAtom
+
+
+fitErr = map(1:1080) do x
+    J = m[:,1:x]\enpa
+    sum(abs.(m[:,1:x]*J-enpa))/x
+    #norm(m[:,1:x]*J-enpa)/x
+end 
+plot(1:1080,valErr,st=:scatter,color=colors,xlabel="Model size",ylabel="Avg validation error",legend=:none,msw=0,ms=2,yaxis=:log)
+savefig(ans,"fittingErrors.pdf")
+
+map(sizes) do ms
+
+end
+
+end
