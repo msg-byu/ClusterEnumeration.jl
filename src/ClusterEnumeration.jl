@@ -3,9 +3,9 @@ using Spacey
 using LinearAlgebra
 using Combinatorics
 using Printf
-using DataStructures
+#using DataStructures
 
-export gen_points_in_supercell, read_lattice_vectors, genSymEqvPoints, testDegeneracies, genLatticePts, makeFigureCandidates, diameter, symReduceFigList, makeFullFigsFromShellPts, augmentFigures, read_clusters_from_file, write_clusters, iterAugmentFigures, get_leftmost_indep_columns, get_nonzero_index, symReduceByLengthFigList, isMatrixEqvBySymmetry
+export gen_points_in_supercell, read_lattice_vectors, genSymEqvPoints, testDegeneracies, genLatticePts, makeFigureCandidates, diameter, symReduceFigList, makeFullFigsFromShellPts, augmentFigures, read_clusters_from_file, write_clusters, iterAugmentFigures, get_leftmost_indep_columns, get_nonzero_mask, get_nonzero_index, symReduceByLengthFigList, isMatrixEqvBySymmetry
 
 """ isMatrixEqvBySymmetry(iFig,jFig,rots) """
 function isMatrixEqvBySymmetry(iFig,jFig,rots)
@@ -73,38 +73,58 @@ function leftmost_QR(m)
 end
 
 
-""" Find the non-zero elements on the diagonal of a matrix """
-function get_nonzero_index(m,reps=1e-13)
+""" get_nonzero_mask(m,reps=1e-13) 
+
+Return index array of diagonal elements of m that are less than epsilon.
+"""
+function get_nonzero_mask(m; reps=1e-13)
     mask = abs.(diag(m)).>reps
     return mask
 end
 
+""" Return index of list elements with absval ≈ 0 """
+function get_nonzero_index(m; reps=1e-13)
+    idx = findall(x -> x > reps, abs.(diag(m)))
+    return idx
+end
+
 """ Use QR decomposition iteratively to pull out left-most independent columms """
-function get_leftmost_indep_columns(m,maxits=80)
+function get_leftmost_indep_columns(m; maxits=1000)
     r = rank(m)
     nr,nc = size(m)
     idx = collect(1:nc)
     it = 1
     mask = trues(nc)
+    Ncnd = length(idx)
     while true
-        println("it: ",it)
-        println("len idx: ",length(idx))
-        if it > maxits break end
         _,R = qr(m[:,idx])
-        ondiag = get_nonzero_index(R)
+        ondiag = get_nonzero_mask(R;reps=1e-8)
         r1 = rank(m[:,idx[1:length(ondiag)][ondiag]])
-        println("rank: ",r1)
-        if r1==r
+        if r1==r 
             idx = idx[1:length(ondiag)][ondiag]
-            break
+            println("Converged: ",it," iterations")
+            break 
         end
         pad = max(length(idx)-nr,0)
         mask[idx] = vcat(ondiag,trues(pad))
         idx = collect(1:nc)[mask]
-        it += 1
+        it +=1
+        if length(idx) ≥ Ncnd
+            println("Failed to reduce columns")
+            return idx, m[:,idx]    
+        end
+        Ncnd = length(idx)
+        #if it > maxits error("Failed to find all independent columns") end
+        if it > maxits 
+            println("Didn't converge")
+            println("r1: ",r1,"  r:",r)
+            println("idx: ",idx)
+            println("Failing")
+            error("Failed to converge")
+            return idx 
+        end
     end
-    rank(m[:,mask])
-    return idx
+    return idx, m[:,idx]
 end
 
 """ Write out clusters & s-vectors to clusters.out-type file """
