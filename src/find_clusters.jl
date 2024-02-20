@@ -43,7 +43,7 @@ function get_leftmost_indep_columns(m)
         it += 1
         if length(idx) < nr break end
     end
-    rank(m[:,mask])
+    #rank(m[:,mask])
     return idx
 end
 
@@ -628,9 +628,47 @@ write_clusters(licl,lisv,linv,lidist,id,"clusters.2b_li4")
 
 A = read_lattice_vectors()
 _, rots = pointGroup_robust(eachcol(A)...) 
-Rpts = gen_points_in_supercell(A,500)
 
-pts = make_eqvPoints(Rpts[1:40],rots)
+rots = [A*i for i in pointGroup_fast(eachcol(A)...)] # This wasn't returning the Cartesion operators...
+rots = [[1.0 0.0 0.0; 0.0 -1.0 0.0; 0.0 0.0 -1.0], [1.0 0.0 0.0; 0.0 0.0 -1.0; 0.0 -1.0 0.0], [-1.0 0.0 0.0; 0.0 -1.0 0.0; 0.0 0.0 -1.0], [-1.0 0.0 0.0; 0.0 0.0 -1.0; 0.0 -1.0 0.0], [0.0 1.0 0.0; -1.0 0.0 0.0; 0.0 0.0 -1.0], [0.0 0.0 1.0; -1.0 0.0 0.0; 0.0 -1.0 0.0], [0.0 1.0 0.0; 1.0 0.0 0.0; 0.0 0.0 -1.0], [0.0 0.0 1.0; 1.0 0.0 0.0; 0.0 -1.0 0.0], [0.0 1.0 0.0; 0.0 0.0 -1.0; -1.0 0.0 0.0], [0.0 0.0 1.0; 0.0 -1.0 0.0; -1.0 0.0 0.0], [0.0 1.0 0.0; 0.0 0.0 -1.0; 1.0 0.0 0.0], [0.0 0.0 1.0; 0.0 -1.0 0.0; 1.0 0.0 0.0], [0.0 -1.0 0.0; -1.0 0.0 0.0; 0.0 0.0 -1.0], [0.0 -1.0 0.0; 1.0 0.0 0.0; 0.0 0.0 -1.0], [0.0 0.0 -1.0; -1.0 0.0 0.0; 0.0 -1.0 0.0], [0.0 0.0 -1.0; 1.0 0.0 0.0; 0.0 -1.0 0.0], [1.0 0.0 0.0; 0.0 1.0 0.0; 0.0 0.0 -1.0], [-1.0 0.0 0.0; 0.0 1.0 0.0; 0.0 0.0 -1.0], [1.0 0.0 0.0; 0.0 0.0 1.0; 0.0 -1.0 0.0], [-1.0 0.0 0.0; 0.0 0.0 1.0; 0.0 -1.0 0.0], [0.0 -1.0 0.0; 0.0 0.0 -1.0; -1.0 0.0 0.0], [0.0 0.0 -1.0; 0.0 -1.0 0.0; -1.0 0.0 0.0], [0.0 -1.0 0.0; 0.0 0.0 -1.0; 1.0 0.0 0.0], [0.0 0.0 -1.0; 0.0 -1.0 0.0; 1.0 0.0 0.0], [0.0 0.0 1.0; 0.0 1.0 0.0; -1.0 0.0 0.0], [0.0 1.0 0.0; 0.0 0.0 1.0; -1.0 0.0 0.0], [0.0 0.0 1.0; 0.0 1.0 0.0; 1.0 0.0 0.0], [0.0 1.0 0.0; 0.0 0.0 1.0; 1.0 0.0 0.0], [1.0 0.0 0.0; 0.0 0.0 -1.0; 0.0 1.0 0.0], [-1.0 0.0 0.0; 0.0 0.0 -1.0; 0.0 1.0 0.0], [1.0 0.0 0.0; 0.0 -1.0 0.0; 0.0 0.0 1.0], [-1.0 0.0 0.0; 0.0 -1.0 0.0; 0.0 0.0 1.0], [0.0 0.0 1.0; -1.0 0.0 0.0; 0.0 1.0 0.0], [0.0 0.0 1.0; 1.0 0.0 0.0; 0.0 1.0 0.0], [0.0 1.0 0.0; -1.0 0.0 0.0; 0.0 0.0 1.0], [0.0 1.0 0.0; 1.0 0.0 0.0; 0.0 0.0 1.0], [0.0 0.0 -1.0; 0.0 1.0 0.0; -1.0 0.0 0.0], [0.0 -1.0 0.0; 0.0 0.0 1.0; -1.0 0.0 0.0], [0.0 0.0 -1.0; 0.0 1.0 0.0; 1.0 0.0 0.0], [0.0 -1.0 0.0; 0.0 0.0 1.0; 1.0 0.0 0.0], [0.0 0.0 -1.0; -1.0 0.0 0.0; 0.0 1.0 0.0], [0.0 -1.0 0.0; -1.0 0.0 0.0; 0.0 0.0 1.0], [0.0 0.0 -1.0; 1.0 0.0 0.0; 0.0 1.0 0.0], [0.0 -1.0 0.0; 1.0 0.0 0.0; 0.0 0.0 1.0], [1.0 0.0 0.0; 0.0 0.0 1.0; 0.0 1.0 0.0], [1.0 0.0 0.0; 0.0 1.0 0.0; 0.0 0.0 1.0], [-1.0 0.0 0.0; 0.0 0.0 1.0; 0.0 1.0 0.0], [-1.0 0.0 0.0; 0.0 1.0 0.0; 0.0 0.0 1.0]]
+# begin 
+ # modified this for 7-body cluster enumeration
+@time Rpts = gen_points_in_supercell(A,30)
+Rpts = Rpts[1] # gen_points returned lengths too
+@time pts = make_eqvPoints(Rpts[1:10000],rots)
+figs7bt = make_figure_candidates(pts[1:50],7)
+figs7b = symReduceByLengthFigList(figs7bt,rots)
+n7b = length(figs7b)
+cl,sv,nv,dist,id = read_clusters_from_file("clusters.2-6b_li1761")
+clust7b = vcat(cl,figs7b)
+sv7 = vcat(sv,[[1,1,1,1,1,1,1] for i ∈ 1:n7b])
+id7 = vcat(id,1:n7b)
+dists7 = vcat(dist,MADfromCOM.(figs7b))
+nV7 = vcat(nv,ones(Int,n7b)*7)
+write_clusters(clust7b, sv7, nV7, dists7, id7, "clusters.2-7b_"*string(n7b))
+#>  cp clusters.2-7b_234000 clusters.out 
+#>  rm enum_PI_matrix.out; ../../uncle/src/uncle.x 44
+m = readdlm("pimat.2-7b_"*string(n7b))
+rank(m) # 6 (so added two 3-body clusters)
+_,R7 = qr(m)
+mask = get_leftmost_indep_columns(m)
+rank(m) #6
+popfirst!(mask) # Get rid of empty-cluster; it isn't in the clusters file
+mask .-= 1 #The clusters index and pi matrix index are shifted by 1
+
+licl7= clust7b[mask]
+lisv7 = sv7[mask]
+linV7 = nV7[mask]
+lidist7=dists7[mask]
+liid7=id7[mask]
+write_clusters(licl7,lisv7,linV7,lidist7,liid7,"clusters.2-7b_li1791")
+# cp clusters.2-7b_li1791 clusters.out 
+# Run mode 44 uncle to make pi file
+m = readdlm("pimat.2-7b_li1791")
+rank(m)
+#figs7b = rd_list2(figs7bt[1:100_000],rots)
+# end
+@time pts = make_eqvPoints(Rpts[1:40],rots)
 figs3bt = make_figure_candidates(pts,3)
 figs3b = reduce_figList(figs3bt[1:100_000],rots)
 n3b = length(figs3b)
@@ -963,14 +1001,18 @@ c2 = colors[idx]
 
 
 # Should be able to start from scratch from here
-ms = 250
 m=readdlm("pimat.li_1-6.ternary")
-p = Int.(readdlm("reorderCl_1081.dat"))
-m = m[:,[p...]]
+p = Int.(readdlm("reorderCl_1081.dat.2"))
+#m = m[:,[p...]]
 enpa = readdlm("energiesPerAtom_ternary1-6.dat")
+s = [1:22;63:80;150:1081;23:62;81:149]
+p = p[s]
+m = m[:,[p...]]
+
+# This function now in ClusterEnumeration.jl, "sweep_model_sizes"
 begin
-Nits = 100
-sizes = collect(1:1:600) 
+Nits = 20
+sizes = collect(1:1:400) 
 #sizes = collect(1:1:1081) 
 data = map(sizes) do ms
 eFit = 0
@@ -979,7 +1021,7 @@ rav = 0
 println(ms)
 for i = 1:Nits 
 t = randperm(size(m,1))
-nFit = 250
+nFit = 350
 fitIdx = t[1:nFit]
 valIdx = t[nFit+1:end]
 J = m[fitIdx,1:ms]\enpa[fitIdx]
@@ -995,11 +1037,13 @@ errVal = [i[3] for i ∈ data]
 #plot(sizes,errFit,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Validation Error",legend=:none,color=colors)
 end
 
-plot(sizes,errFit,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Fit Error",legend=:none,color=colors[sizes],yrange=(1e-5,3e-1),xticks = 0:50:1100,xrange=(0,600))
-plot(sizes, errVal,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Val Error",legend=:none,color=colors[p][sizes],yrange=(3e-2,1e2),ytick=[3e-2,5e-2,.0,1,1e1,1e2])
+plot(sizes,errFit,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Fit Error",legend=:none,color=colors[p][sizes],yrange=(1e-5,3e-1),xticks = 0:50:1100,xrange=(0,600))
+plot(sizes, errVal,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Val Error",legend=:none,color=colors[p][sizes],yrange=(1e-2,1e0),#ytick=[3e-2,5e-2,.0,1,1e1,1e2]
+#xrange=(1,80) 
+)
 plot!(sizes,[i[2] for i in errFit])
-plot(sizes,ranks,st=:scatter,msw=0,ms=2,ylabel="Rank of Design Matrix",xlabel="Model Size",xrange=(0,300),legend=:none)
-plot!([0; 250],[0; 250],color=:red)
+plot(sizes,ranks,st=:scatter,msw=0,ms=2,ylabel="Rank of Design Matrix",xlabel="Model Size",xrange=(0,450),legend=:none)
+plot!([0; 450],[0; 450],color=:red)
 
 plot(sizes,errVal,yaxis=:log,st=:scatter,msw=0,ms=2,xlabel="Model size (num parameters)",ylabel="Avg Validation Error",legend=:none,color=colors[sizes],yrange=(4e-2,8e-0),xticks = 0:50:1100,xrange=(0,600))
 
@@ -1018,9 +1062,4 @@ fitErr = map(1:1080) do x
 end 
 plot(1:1080,valErr,st=:scatter,color=colors,xlabel="Model size",ylabel="Avg validation error",legend=:none,msw=0,ms=2,yaxis=:log)
 savefig(ans,"fittingErrors.pdf")
-
-map(sizes) do ms
-
-end
-
 end

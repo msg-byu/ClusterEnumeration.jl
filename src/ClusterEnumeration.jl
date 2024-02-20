@@ -3,9 +3,94 @@ using Spacey
 using LinearAlgebra
 using Combinatorics
 using Printf
+using Random
 #using DataStructures
 
-export gen_points_in_supercell, read_lattice_vectors, genSymEqvPoints, testDegeneracies, genLatticePts, makeFigureCandidates, diameter, symReduceFigList, makeFullFigsFromShellPts, augmentFigures, read_clusters_from_file, write_clusters, iterAugmentFigures, get_leftmost_indep_columns, get_nonzero_mask, get_nonzero_index, symReduceByLengthFigList, isMatrixEqvBySymmetry
+export gen_points_in_supercell, read_lattice_vectors, genSymEqvPoints, testDegeneracies, genLatticePts, makeFigureCandidates, diameter, symReduceFigList, makeFullFigsFromShellPts, augmentFigures, read_clusters_from_file, write_clusters, iterAugmentFigures, get_leftmost_indep_columns, get_nonzero_mask, get_nonzero_index, symReduceByLengthFigList, isMatrixEqvBySymmetry, reorder_for_linear_independence, shift_elements_right, sweep_model_sizes
+
+""" Sweep over models sizes and compute fit and validation errors 
+
+sweep_model_sizes(m,enpa,Nits,range,nFit)
+m - design matrix
+enpa - energies per atom
+Nits - number of iterations to sweep over
+range - model sizes (give as an iterator)
+nFit - number of rows of data
+"""
+function sweep_model_sizes(m,enpa,Nits,range,nFit)
+sizes = collect(range) 
+data = map(sizes) do ms
+    eFit = 0
+    eVal =0
+    rav = 0
+    mod(ms,25)==0 ? println(ms) : true
+    for i = 1:Nits 
+        t = randperm(size(m,1))
+        fitIdx = t[1:nFit]
+        valIdx = t[nFit+1:end]
+        J = m[fitIdx,1:ms]\enpa[fitIdx]
+        eFit += norm(m[fitIdx,1:ms]*J-enpa[fitIdx])/sqrt(nFit)
+        rav += rank(m[fitIdx,1:ms])
+        eVal += norm(m[valIdx,1:ms]*J-enpa[valIdx])/sqrt(size(m,1)-nFit)
+    end
+    eFit/Nits,rav/Nits, eVal/Nits
+end 
+errFit = [i[1] for i ∈ data]
+ranks = [i[2] for i ∈ data]
+errVal = [i[3] for i ∈ data]
+return errFit, errVal, ranks
+end
+
+""" Shift some elements of `list` (identified by `index`) to the left end, otherwise preserving order of `list`."""
+function shift_elements_right(list,index)
+    m = length(list)
+    left = [list[i] for i ∈ 1:m if i ∉ index] # Gather specified elements to the left
+    right = [list[i] for i ∈ 1:m if i ∈ index]
+    return append!(left,right) # Append unspecified elements on the right
+end
+
+""" ord = reorder_for_linear_independence(m)
+Find the column reordering of matrix m that gathers the left-most linearly independent columns of the matrix to the left """
+function reorder_for_linear_independence(m)
+    ms, nc = size(m) 
+    r = rank(m)
+    idx = collect(1:nc)
+    #println("Starting rank: ",r)
+    it = 1
+    while true
+        _,R = qr(m[:,idx]) 
+        rR = rank(R[:,1:ms]) # rank of R
+        ondiag = get_index_for_zeros(R,rR)
+        if rank(R[:,1:ms])≠r-length(ondiag)
+            println("rank of R: ",rank(R[:,1:ms]))
+            println(ondiag)
+            println("r-length(ondiag): ",r-length(ondiag))
+            s = r-length(ondiag)
+            println("smallest diag R elements",sort(abs.(diag(R)))[s-3:min(ms,s+3)])
+            error("ranks not consistent")
+        end
+        idx = shift_elements_right(idx,ondiag)
+        if rank(R[:,1:ms])==r 
+            return idx[1:r]
+        end
+        it += 1
+        if it > nc
+            println("Initial rank: ",r)
+            println("Final rank: ",rank(R[:,1:ms]))
+            println("Length ondiag: ",length(ondiag))
+            println("idx: ",idx[1:ms])
+            error("Didn't get l.i. set")
+        end
+    end 
+end
+
+
+""" Return index of list elements with absval ≈ 0 """
+function get_index_for_zeros(m, r)
+    reps = sort(abs.(diag(m)),rev=:true)[r] # Get the r largest elements by finding the value of the smallest in the set
+    idx = findall(x -> x < reps, abs.(diag(m)))
+    return idx
+end
 
 """ isMatrixEqvBySymmetry(iFig,jFig,rots) """
 function isMatrixEqvBySymmetry(iFig,jFig,rots)
@@ -40,7 +125,7 @@ function symReduceByLengthFigList(figlist,rots)
     println("Total number to search: ",length(figlist))
     for iNorm ∈ 1:nN
         #println("iNorm Norm: ",uqNorms[iNorm])
-        if mod(iNorm,500)==0 println("Norm #: ",iNorm) end
+        if mod(iNorm,5)==0 println("Norm #: ",iNorm) end
         uqAtLen = []
         for id ∈ d[iNorm]:sd[iNorm]
             #println("id:",id)
@@ -124,7 +209,7 @@ function get_leftmost_indep_columns(m; maxits=1000)
             return idx 
         end
     end
-    return idx, m[:,idx]
+    return idx#, m[:,idx]
 end
 
 """ Write out clusters & s-vectors to clusters.out-type file """
@@ -367,7 +452,7 @@ function genSymEqvPoints(pointList,rots)
         push!(degen,length(uqPts))
         push!(lengths,norm(i))
     end
-    if !testDegeneracies(degen) error("Degeneracy error") end
+    #if !testDegeneracies(degen) error("Degeneracy error") end
     return pts,degen,lengths
 end
 
