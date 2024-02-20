@@ -1,6 +1,6 @@
 bcc parent lattice only Fe    # comment line (without a commment sign)
 bulk                  # bulk   - CE
-3                     # binary - CE
+2                     # binary - CE
 1                     # number of observables
 0.0001                  # epsilon for finite precision checking
       0.0 0.5 0.5
